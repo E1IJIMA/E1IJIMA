@@ -21,9 +21,9 @@
 </g>
 <g filter="url(#shadow)">
 <rect x="820" y="28" width="250" height="340" rx="30" fill="#ffe6f1" stroke="#fff" stroke-width="3"/>
-<g clip-path="url(#c1)"><image href="https://raw.githubusercontent.com/E1IJIMA/E1IJIMA/main/assets/anime-girl-1.png" x="820" y="28" width="250" height="340" preserveAspectRatio="xMidYMid slice"><animateTransform attributeName="transform" type="translate" values="0 5;0 -5;0 5" dur="6s" repeatCount="indefinite"/></image></g>
+<g clip-path="url(#c1)"><image href="../anime/anime-girl-1.png" x="820" y="28" width="250" height="340" preserveAspectRatio="xMidYMid slice"><animateTransform attributeName="transform" type="translate" values="0 5;0 -5;0 5" dur="6s" repeatCount="indefinite"/></image></g>
 <rect x="1090" y="28" width="250" height="340" rx="30" fill="#ffe6f1" stroke="#fff" stroke-width="3"/>
-<g clip-path="url(#c2)"><image href="https://raw.githubusercontent.com/E1IJIMA/E1IJIMA/main/assets/anime-girl-2.png" x="1090" y="28" width="250" height="340" preserveAspectRatio="xMidYMid slice"><animateTransform attributeName="transform" type="translate" values="0 -5;0 5;0 -5" dur="5.4s" repeatCount="indefinite"/></image></g>
+<g clip-path="url(#c2)"><image href="../anime/anime-girl-2.png" x="1090" y="28" width="250" height="340" preserveAspectRatio="xMidYMid slice"><animateTransform attributeName="transform" type="translate" values="0 -5;0 5;0 -5" dur="5.4s" repeatCount="indefinite"/></image></g>
 </g>
 <g fill="#c04f82" font-family="sans-serif" font-weight="700">
 <text x="785" y="72" font-size="30"><animate attributeName="y" values="72;54;72" dur="3.1s" repeatCount="indefinite"/>♡</text>
