@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">EIJIMA — The Abyssal Goblin Hunter</title><desc id="desc">Animated dark fantasy hunter banner with moon, fog, embers and falling ash.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050505"/><stop offset=".55" stop-color="#0D0D0D"/><stop offset="1" stop-color="#220606"/></linearGradient>
+  <radialGradient id="moon"><stop stop-color="#E8E1D5" stop-opacity=".9"/><stop offset=".55" stop-color="#B8860B" stop-opacity=".3"/><stop offset="1" stop-color="#8B0000" stop-opacity="0"/></radialGradient>
+  <linearGradient id="fog"><stop stop-color="#A9A9A9" stop-opacity="0"/><stop offset=".5" stop-color="#A9A9A9" stop-opacity=".12"/><stop offset="1" stop-color="#A9A9A9" stop-opacity="0"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="redglow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="runes" width="90" height="70" patternUnits="userSpaceOnUse"><path d="M10 50L28 18 42 49M55 18v33m0-25h20M5 62h70" fill="none" stroke="#8B0000" stroke-opacity=".16" stroke-width="2"/></pattern>
+</defs>
+<rect width="1200" height="360" fill="url(#bg)"/>
+<rect width="1200" height="360" fill="url(#runes)"/>
+<circle cx="1030" cy="105" r="105" fill="url(#moon)"/>
+<circle cx="1030" cy="105" r="48" fill="#8B0000" opacity=".8" filter="url(#glow)"/>
+<circle cx="1030" cy="105" r="39" fill="#8B0000"/>
+<!-- ruined skyline -->
+<path d="M0 285V235l48-32 30 18 36-52 42 34 44-74 34 51 40-29 36 44 43-22 35 49 48-55 33 46 50-26 35 41 54-64 39 53 48-32 34 42 45-73 31 60 49-27 39 35 51-58 38 50 44-28 43 42 44-62 39 49 46-32 35 29 42-49 42 43 50-29 35 50 48-24 40 36 43-49 48 43v91H0Z" fill="#080808" stroke="#1A1A1A" stroke-width="5"/>
+<!-- gate -->
+<path d="M490 300V190q0-70 110-70t110 70v110" fill="#050505" stroke="#696969" stroke-width="5"/>
+<path d="M510 300V205q0-50 90-50t90 50v95" fill="#0D0D0D" stroke="#8B0000" stroke-width="3"/>
+<path d="M600 155v145M510 225h180" stroke="#1A1A1A" stroke-width="8"/>
+<!-- sword --> <path d="M145 315l130-150 12 12-130 150zM258 165l32-32 14 14-32 32z" fill="#A9A9A9"/><path d="M235 195l35 35M220 210l35 35" stroke="#8B0000" stroke-width="7"/>
+<!-- animated embers -->
+<g fill="#DC143C" filter="url(#redglow)">
+ <circle cx="120" cy="285" r="3"><animate attributeName="cy" values="285;175;285" dur="4s" repeatCount="indefinite"/></circle>
+ <circle cx="330" cy="315" r="2"><animate attributeName="cy" values="315;205;315" dur="3.2s" repeatCount="indefinite"/></circle>
+ <circle cx="870" cy="300" r="3"><animate attributeName="cy" values="300;160;300" dur="5s" repeatCount="indefinite"/></circle>
+ <circle cx="940" cy="280" r="2"><animate attributeName="cy" values="280;140;280" dur="3.8s" repeatCount="indefinite"/></circle>
+</g>
+<g fill="#B7410E"><circle cx="410" cy="320" r="2"><animate attributeName="cy" values="320;210;320" dur="4.4s" repeatCount="indefinite"/></circle><circle cx="790" cy="325" r="2"><animate attributeName="cy" values="325;190;325" dur="4.8s" repeatCount="indefinite"/></circle></g>
+<!-- fog -->
+<g opacity=".5"><rect x="-300" y="250" width="600" height="35" rx="18" fill="url(#fog)"><animate attributeName="x" values="-300;900;-300" dur="18s" repeatCount="indefinite"/></rect><rect x="700" y="275" width="700" height="30" rx="15" fill="url(#fog)"><animate attributeName="x" values="700;-500;700" dur="22s" repeatCount="indefinite"/></rect></g>
+<text x="600" y="118" text-anchor="middle" fill="#E8E1D5" font-family="Georgia,serif" font-size="68" font-weight="700" letter-spacing="14" filter="url(#glow)">EIJIMA</text>
+<text x="600" y="158" text-anchor="middle" fill="#DC143C" font-family="monospace" font-size="18" font-weight="700" letter-spacing="6">THE ABYSSAL GOBLIN HUNTER</text>
+<text x="600" y="188" text-anchor="middle" fill="#A9A9A9" font-family="monospace" font-size="12" letter-spacing="3">CODE IN DARKNESS • HUNT WITHOUT MERCY • LEAVE NO BUG ALIVE</text>
+<path d="M280 210H920" stroke="#8B0000" stroke-width="2"><animate attributeName="stroke-dasharray" values="0 640;640 0;0 640" dur="7s" repeatCount="indefinite"/></path>
+<text x="600" y="338" text-anchor="middle" fill="#696969" font-family="monospace" font-size="10" letter-spacing="5">THE LAST WARDEN OF THE FALLEN DIGITAL REALM</text>
+</svg>
