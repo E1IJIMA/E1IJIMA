@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820" role="img" aria-label="Pink anime developer about me panel">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff7fb"/><stop offset=".48" stop-color="#ffd7ea"/><stop offset="1" stop-color="#dec9ff"/></linearGradient>
+  <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff" stop-opacity=".92"/><stop offset="1" stop-color="#fff0f8" stop-opacity=".88"/></linearGradient>
+  <linearGradient id="pink" x1="0" x2="1"><stop stop-color="#ff5fa8"/><stop offset="1" stop-color="#b978e8"/></linearGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="15" flood-color="#bd4d8c" flood-opacity=".22"/></filter>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="18" y="18" width="1164" height="784" rx="46" fill="url(#bg)" stroke="#fff" stroke-width="6" filter="url(#shadow)"/>
+<circle cx="90" cy="95" r="10" fill="#ff75b4"><animate attributeName="cy" values="95;72;95" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="1090" cy="110" r="8" fill="#c38cff"><animate attributeName="cy" values="110;84;110" dur="3.6s" repeatCount="indefinite"/></circle>
+<text x="600" y="78" text-anchor="middle" font-family="ui-monospace,monospace" font-size="17" font-weight="800" letter-spacing="5" fill="#9a4774">✦ P I N K   P R O F I L E   /   A B O U T   M E ✦</text>
+<text x="600" y="125" text-anchor="middle" font-family="Georgia,serif" font-size="34" font-weight="700" fill="#653b57">soft pixels • serious code • Discord energy ♡</text>
+<rect x="58" y="158" width="1084" height="390" rx="30" fill="url(#card)" stroke="#fff" stroke-width="3"/>
+<rect x="82" y="184" width="500" height="342" rx="24" fill="#fff" fill-opacity=".72" stroke="#f4b1d0" stroke-width="3"/>
+<text x="112" y="224" font-family="sans-serif" font-size="24" font-weight="800" fill="#8e3e69">🌷 MY CHARACTER SHEET</text>
+<g font-family="sans-serif" font-size="18" fill="#64485a">
+<text x="112" y="264">🌷  ROLE</text><text x="300" y="264" font-weight="700">Creative Developer / Builder</text>
+<text x="112" y="304">💻  QUEST</text><text x="300" y="304" font-weight="700">Polished digital experiences</text>
+<text x="112" y="344">🎧  COMFORT</text><text x="300" y="344" font-weight="700">Discord • music • coding</text>
+<text x="112" y="384">🎨  DESIGN</text><text x="300" y="384" font-weight="700">Pastel pink • purple • white</text>
+<text x="112" y="424">🧠  LEARNING</text><text x="300" y="424" font-weight="700">Build → break → fix → improve</text>
+<text x="112" y="464">☕  FUEL</text><text x="300" y="464" font-weight="700">Coffee • playlists • curiosity</text>
+<text x="112" y="504">🌟  SUPERPOWER</text><text x="300" y="504" font-weight="700">Turning blank pages into magic</text>
+</g>
+<rect x="610" y="184" width="506" height="342" rx="24" fill="url(#pink)" fill-opacity=".92"/>
+<text x="646" y="230" font-family="sans-serif" font-size="24" font-weight="800" fill="#fff">✨ THINGS I LOVE</text>
+<g font-family="sans-serif" font-size="19" fill="#fff">
+<text x="646" y="274">💬 Discord — chat, communities, sharing ideas</text>
+<text x="646" y="318">🎀 Design — warm technical interfaces</text>
+<text x="646" y="362">🛠️ Automation — tiny scripts, less repetition</text>
+<text x="646" y="406">🌸 Experimentation — layouts, visuals, tools</text>
+</g>
+<rect x="646" y="440" width="430" height="54" rx="27" fill="#fff" fill-opacity=".92"/>
+<text x="861" y="474" text-anchor="middle" font-family="ui-monospace,monospace" font-size="16" font-weight="800" fill="#9a4774">🎧 DISCORD IS MY HAPPY PLACE ♡</text>
+<rect x="58" y="578" width="1084" height="178" rx="30" fill="#fff" fill-opacity=".82" stroke="#f3b1d0" stroke-width="3"/>
+<text x="92" y="620" font-family="sans-serif" font-size="21" font-weight="800" fill="#8e3e69">💗 CURRENT VIBE</text>
+<g font-family="sans-serif" font-size="18" font-weight="700" fill="#704c62">
+<text x="92" y="662">01  ✦  Soft aesthetics</text><text x="390" y="662">02  ✦  Curious builder</text><text x="690" y="662">03  ✦  Discord regular</text>
+<text x="92" y="704">04  ✦  Late-night ideas</text><text x="390" y="704">05  ✦  Tiny details</text><text x="690" y="704">06  ✦  Always improving</text>
+</g>
+<g fill="#fff" filter="url(#glow)"><text x="62" y="710" font-size="30"><animate attributeName="opacity" values=".2;1;.2" dur="1.8s" repeatCount="indefinite"/>✦</text><text x="1110" y="710" font-size="26"><animate attributeName="opacity" values="1;.25;1" dur="2.2s" repeatCount="indefinite"/>♡</text></g>
+</svg>
