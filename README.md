@@ -1,8 +1,27 @@
 <div align="center">
 
-<a href="https://github.com/E1IJIMA">
-<img src="./assets/anime-carousel.svg" width="100%" alt="E1IJIMA animated pink anime developer showcase" />
-</a>
+<table width="100%"><tr>
+<td width="58%" align="center" valign="middle">
+
+<img src="./assets/anime-girl-1.png" width="88%" alt="Anime girl from E1IJIMA local assets" />
+
+</td>
+<td width="42%" align="center" valign="middle" bgcolor="#fff0f7">
+
+### 🎀 PINK ANIME MODE
+
+**cute code & big dreams ♡**
+
+soft interfaces · tiny magic · happy little details
+
+🌸 web · UI  
+🫧 automation · AI  
+✨ idea → build → polish
+
+**♡ ✦ ♡ ✧ ♡**
+
+</td>
+</tr></table>
 
 <img src="./assets/pink-sparkle-divider.svg" width="100%" alt="Animated pink sparkle divider" />
 
@@ -58,14 +77,14 @@ favorite :: making static things feel alive
 
 <div align="center">
 
-<img src="./assets/anime-girl-1.png" width="23%" alt="Anime girl 1" />
-<img src="./assets/anime-girl-2.png" width="23%" alt="Anime girl 2" />
-<img src="./assets/anime-girl-3.png" width="23%" alt="Anime girl 3" />
-<img src="./assets/anime-girl-4.png" width="23%" alt="Anime girl 4" />
+<table width="100%"><tr>
+<td width="25%" align="center"><img src="./assets/anime-girl-1.png" width="94%" alt="Anime girl 1" /></td>
+<td width="25%" align="center"><img src="./assets/anime-girl-2.png" width="94%" alt="Anime girl 2" /></td>
+<td width="25%" align="center"><img src="./assets/anime-girl-3.png" width="94%" alt="Anime girl 3" /></td>
+<td width="25%" align="center"><img src="./assets/anime-girl-4.png" width="94%" alt="Anime girl 4" /></td>
+</tr></table>
 
-<br/>
-
-<sub>♡ all four images above are local assets from this repository • the hero above loops through them</sub>
+<sub>♡ all four anime images are local assets from this repository</sub>
 
 </div>
 
