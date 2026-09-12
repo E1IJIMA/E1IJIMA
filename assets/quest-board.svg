@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+<title id="title">EIJIMA Active Quest Log</title>
+<desc id="desc">Animated dark iron guild quest board with completed and active missions.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070809"/><stop offset=".55" stop-color="#101216"/><stop offset="1" stop-color="#180606"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <linearGradient id="pulse" x1="0" x2="1"><stop stop-color="#8B0000" stop-opacity="0"/><stop offset=".5" stop-color="#DC143C"/><stop offset="1" stop-color="#8B0000" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x="4" y="4" width="1192" height="492" rx="14" fill="url(#bg)" stroke="#343943" stroke-width="3"/>
+<path d="M28 70H1172M28 458H1172" stroke="#8B0000" stroke-opacity=".8"/>
+<text x="42" y="42" fill="#DC143C" font-family="monospace" font-size="20" font-weight="700" letter-spacing="4">ACTIVE QUEST LOG // GUILD BOARD</text>
+<circle cx="1140" cy="38" r="7" fill="#DC143C" filter="url(#glow)"><animate attributeName="r" values="5;9;5" dur="1.7s" repeatCount="indefinite"/></circle>
+<g font-family="monospace" font-size="14">
+  <text x="48" y="98" fill="#696969">STATE</text><text x="155" y="98" fill="#696969">QUEST</text><text x="1078" y="98" fill="#696969">RANK</text>
+  <g fill="#E8E1D5">
+    <text x="50" y="132" fill="#DC143C">[✓]</text><text x="155" y="132">ENTER THE FORGOTTEN REPOSITORY</text><text x="1080" y="132">D</text>
+    <text x="50" y="170" fill="#DC143C">[✓]</text><text x="155" y="170">ELIMINATE THE FIRST BUG HORDE</text><text x="1080" y="170">C</text>
+    <text x="50" y="208" fill="#DC143C">[✓]</text><text x="155" y="208">FORGE THE BLACK IRON README</text><text x="1080" y="208">B</text>
+    <text x="50" y="246" fill="#DC143C">[✓]</text><text x="155" y="246">SURVIVE THE MERGE CONFLICT</text><text x="1080" y="246">A</text>
+    <text x="50" y="284" fill="#696969">[ ]</text><text x="155" y="284">CONQUER THE ENDLESS DUNGEON</text><text x="1080" y="284">S</text>
+    <text x="50" y="322" fill="#696969">[ ]</text><text x="155" y="322">ASCEND FROM SILVER TO GOLD</text><text x="1080" y="322">A</text>
+    <text x="50" y="360" fill="#696969">[ ]</text><text x="155" y="360">DEFEAT THE ANCIENT PRODUCTION BUG</text><text x="1080" y="360">S</text>
+    <text x="50" y="398" fill="#696969">[ ]</text><text x="155" y="398">RESTORE THE FALLEN KINGDOM</text><text x="1080" y="398">EX</text>
+  </g>
+</g>
+<path d="M40 430H1160" stroke="#343943"/>
+<text x="48" y="454" fill="#696969" font-family="monospace" font-size="12">D REPOSITORY SETUP · C FRONTEND · B API INTEGRATION · A ARCHITECTURE · S PRODUCTION · EX NO DOCUMENTATION</text>
+<rect x="150" y="471" width="900" height="2" fill="url(#pulse)"><animate attributeName="x" values="150;250;150" dur="4s" repeatCount="indefinite"/></rect>
+</svg>
