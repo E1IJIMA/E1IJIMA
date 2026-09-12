@@ -4,7 +4,6 @@
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050505"/><stop offset=".55" stop-color="#0D0D0D"/><stop offset="1" stop-color="#220606"/></linearGradient>
   <radialGradient id="moon"><stop stop-color="#E8E1D5" stop-opacity=".9"/><stop offset=".55" stop-color="#B8860B" stop-opacity=".3"/><stop offset="1" stop-color="#8B0000" stop-opacity="0"/></radialGradient>
   <linearGradient id="fog"><stop stop-color="#A9A9A9" stop-opacity="0"/><stop offset=".5" stop-color="#A9A9A9" stop-opacity=".12"/><stop offset="1" stop-color="#A9A9A9" stop-opacity="0"/></linearGradient>
-  <linearGradient id="flame" x1="0" y1="1" x2="0" y2="0"><stop stop-color="#8B0000"/><stop offset=".55" stop-color="#DC143C"/><stop offset="1" stop-color="#E8E1D5"/></linearGradient>
   <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   <filter id="redglow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   <pattern id="runes" width="90" height="70" patternUnits="userSpaceOnUse"><path d="M10 50L28 18 42 49M55 18v33m0-25h20M5 62h70" fill="none" stroke="#8B0000" stroke-opacity=".16" stroke-width="2"/></pattern>
@@ -16,18 +15,9 @@
 <circle cx="1030" cy="105" r="39" fill="#8B0000"/>
 <!-- ruined skyline -->
 <path d="M0 285V235l48-32 30 18 36-52 42 34 44-74 34 51 40-29 36 44 43-22 35 49 48-55 33 46 50-26 35 41 54-64 39 53 48-32 34 42 45-73 31 60 49-27 39 35 51-58 38 50 44-28 43 42 44-62 39 49 46-32 35 29 42-49 42 43 50-29 35 50 48-24 40 36 43-49 48 43v91H0Z" fill="#080808" stroke="#1A1A1A" stroke-width="5"/>
-<!-- abyssal brazier: a black-iron hunter fire replacing the old arch/sigil -->
-<g transform="translate(600 286)">
-  <ellipse cx="0" cy="42" rx="82" ry="10" fill="#050505" opacity=".85"/>
-  <path d="M-62 0H62L48 48H-48Z" fill="#0D0D0D" stroke="#696969" stroke-width="3"/>
-  <path d="M-50 10H50M-43 24H43M-35 38H35" stroke="#1A1A1A" stroke-width="5"/>
-  <path d="M-42 48L-55 70M42 48L55 70M-10 48V72M10 48V72" stroke="#696969" stroke-width="5"/>
-  <path d="M-58 0Q-70-12-58-25Q-45-12-37-30Q-25-13-12-35Q-3-16 0-47Q8-18 20-34Q27-14 40-28Q50-10 58-24Q70-8 58 0Z" fill="url(#flame)" filter="url(#redglow)">
-    <animate attributeName="d" dur="1.8s" repeatCount="indefinite" values="M-58 0Q-70-12-58-25Q-45-12-37-30Q-25-13-12-35Q-3-16 0-47Q8-18 20-34Q27-14 40-28Q50-10 58-24Q70-8 58 0Z;M-58 0Q-72-15-55-29Q-42-13-35-39Q-20-16-10-31Q0-18 4-50Q12-20 22-39Q32-17 39-31Q49-13 58-26Q69-10 58 0Z;M-58 0Q-70-12-58-25Q-45-12-37-30Q-25-13-12-35Q-3-16 0-47Q8-18 20-34Q27-14 40-28Q50-10 58-24Q70-8 58 0Z"/>
-  </path>
-  <circle cx="0" cy="-6" r="24" fill="#DC143C" opacity=".22" filter="url(#redglow)"/>
-</g>
-<!-- sword --> <path d="M145 315l130-150 12 12-130 150zM258 165l32-32 14 14-32 32z" fill="#A9A9A9"/><path d="M235 195l35 35M220 210l35 35" stroke="#8B0000" stroke-width="7"/>
+<!-- sword -->
+<path d="M145 315l130-150 12 12-130 150zM258 165l32-32 14 14-32 32z" fill="#A9A9A9"/>
+<path d="M235 195l35 35M220 210l35 35" stroke="#8B0000" stroke-width="7"/>
 <!-- animated embers -->
 <g fill="#DC143C" filter="url(#redglow)">
  <circle cx="120" cy="285" r="3"><animate attributeName="cy" values="285;175;285" dur="4s" repeatCount="indefinite"/></circle>
@@ -38,9 +28,22 @@
 <g fill="#B7410E"><circle cx="410" cy="320" r="2"><animate attributeName="cy" values="320;210;320" dur="4.4s" repeatCount="indefinite"/></circle><circle cx="790" cy="325" r="2"><animate attributeName="cy" values="325;190;325" dur="4.8s" repeatCount="indefinite"/></circle></g>
 <!-- fog -->
 <g opacity=".5"><rect x="-300" y="250" width="600" height="35" rx="18" fill="url(#fog)"><animate attributeName="x" values="-300;900;-300" dur="18s" repeatCount="indefinite"/></rect><rect x="700" y="275" width="700" height="30" rx="15" fill="url(#fog)"><animate attributeName="x" values="700;-500;700" dur="22s" repeatCount="indefinite"/></rect></g>
+<!-- title -->
 <text x="600" y="118" text-anchor="middle" fill="#E8E1D5" font-family="Georgia,serif" font-size="68" font-weight="700" letter-spacing="14" filter="url(#glow)">EIJIMA</text>
 <text x="600" y="158" text-anchor="middle" fill="#DC143C" font-family="monospace" font-size="18" font-weight="700" letter-spacing="6">THE ABYSSAL GOBLIN HUNTER</text>
-<text x="600" y="188" text-anchor="middle" fill="#A9A9A9" font-family="monospace" font-size="12" letter-spacing="3">CODE IN DARKNESS • HUNT WITHOUT MERCY • LEAVE NO BUG ALIVE</text>
-<path d="M280 210H920" stroke="#8B0000" stroke-width="2"><animate attributeName="stroke-dasharray" values="0 640;640 0;0 640" dur="7s" repeatCount="indefinite"/></path>
+<!-- enlarged animated hunter creed -->
+<g text-anchor="middle" font-family="monospace" font-weight="700" letter-spacing="5">
+  <text x="600" y="196" fill="#E8E1D5" font-size="20" filter="url(#redglow)">CODE IN DARKNESS • HUNT WITHOUT MERCY • LEAVE NO BUG ALIVE
+    <animate attributeName="opacity" values=".82;1;.6;1;.82" dur="2.8s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="-4 0;3 0;-2 0;1 0;-4 0" dur="3.6s" repeatCount="indefinite"/>
+  </text>
+  <text x="600" y="196" fill="#DC143C" font-size="20" opacity=".5" filter="url(#redglow)">CODE IN DARKNESS • HUNT WITHOUT MERCY • LEAVE NO BUG ALIVE
+    <animate attributeName="opacity" values=".15;.65;.2;.75;.15" dur="1.9s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="4 0;-3 0;2 0;-1 0;4 0" dur="2.4s" repeatCount="indefinite"/>
+  </text>
+</g>
+<path d="M280 222H920" stroke="#8B0000" stroke-width="2" opacity=".9">
+  <animate attributeName="stroke-dasharray" values="0 640;640 0;0 640" dur="7s" repeatCount="indefinite"/>
+</path>
 <text x="600" y="338" text-anchor="middle" fill="#696969" font-family="monospace" font-size="10" letter-spacing="5">THE LAST WARDEN OF THE FALLEN DIGITAL REALM</text>
 </svg>
