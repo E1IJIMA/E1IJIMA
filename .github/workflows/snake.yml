@@ -1,0 +1,29 @@
+name: Generate Abyss Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=%238B0000&color_dots=%23050505,%231A1A1A,%23696969,%23A9A9A9,%23DC143C
+            dist/github-snake-dark.svg?color_snake=%23DC143C&color_dots=%23050505,%231A1A1A,%238B0000,%23B7410E,%23DC143C&color_background=%23050505
+
+      - name: Publish generated snake to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          force_orphan: true
