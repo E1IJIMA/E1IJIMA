@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="600" viewBox="0 0 980 600" role="img" aria-label="E1IJIMA pink anime developer banner base">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#321326"/><stop offset=".48" stop-color="#a84b83"/><stop offset="1" stop-color="#ffd7e8"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#fff" stop-opacity=".95"/><stop offset="1" stop-color="#ff8fc1" stop-opacity="0"/></radialGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff" stop-opacity=".24"/><stop offset="1" stop-color="#fff" stop-opacity=".08"/></linearGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#190815" flood-opacity=".38"/></filter>
+</defs>
+<rect width="980" height="600" rx="42" fill="url(#bg)"/>
+<circle cx="760" cy="145" r="235" fill="url(#glow)" opacity=".45"><animate attributeName="r" values="205;260;205" dur="7s" repeatCount="indefinite"/></circle>
+<path d="M0 490 C180 410 330 555 520 465 C700 380 850 515 980 430 V600 H0Z" fill="#fff" opacity=".1"/>
+<g transform="translate(64 64)">
+  <text x="0" y="20" fill="#ffd9eb" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15" font-weight="800" letter-spacing="5">E1IJIMA / PINK ANIME DEVELOPER</text>
+  <text x="0" y="104" fill="#fff8fc" font-family="Georgia,serif" font-size="72" font-weight="700">E1IJIMA ♡</text>
+  <text x="4" y="150" fill="#ffeaf3" font-family="Georgia,serif" font-size="23" font-style="italic">cute code • soft anime • tiny pieces of magic</text>
+  <g filter="url(#shadow)">
+    <rect x="0" y="190" width="850" height="225" rx="30" fill="url(#panel)" stroke="#fff" stroke-opacity=".28"/>
+    <text x="28" y="228" fill="#fff2f8" font-family="ui-monospace,monospace" font-size="15">$ profile --mood</text>
+    <text x="28" y="264" fill="#fff" font-family="ui-monospace,monospace" font-size="18">&gt; soft • creative • curious</text>
+    <text x="28" y="300" fill="#fff" font-family="ui-monospace,monospace" font-size="18">&gt; web • UI • automation • AI</text>
+    <text x="28" y="336" fill="#fff" font-family="ui-monospace,monospace" font-size="18">&gt; pink energy, cozy interfaces, big dreams</text>
+    <rect x="28" y="370" width="760" height="5" rx="3" fill="#ffd1e5"><animate attributeName="width" values="70;760;240;70" dur="4.8s" repeatCount="indefinite"/></rect>
+    <text x="28" y="398" fill="#ffe8f2" font-family="Georgia,serif" font-size="17" font-style="italic">same girl · different dreams · prettier code ♡</text>
+  </g>
+</g>
+<g fill="#fff5fb" font-family="sans-serif" font-weight="700">
+  <text x="680" y="92" font-size="30"><animate attributeName="y" values="92;68;92" dur="3.2s" repeatCount="indefinite"/>♡</text>
+  <text x="900" y="535" font-size="28"><animate attributeName="y" values="535;508;535" dur="4.1s" repeatCount="indefinite"/>✦</text>
+</g>
+</svg>
