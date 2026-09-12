@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+<title id="title">EIJIMA simulated social following</title>
+<desc id="desc">Dark fantasy social media panel showing simulated follower counts for GitHub, Telegram and VK.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#050505"/><stop offset=".5" stop-color="#0D0D0D"/><stop offset="1" stop-color="#160505"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="2" y="2" width="1196" height="186" rx="18" fill="url(#bg)" stroke="#8B0000" stroke-opacity=".6" stroke-width="2"/>
+<path d="M26 28H1174" stroke="#1A1A1A" stroke-width="2"/>
+<path d="M26 163H1174" stroke="#1A1A1A" stroke-width="2"/>
+<text x="600" y="31" text-anchor="middle" fill="#A9A9A9" font-family="monospace" font-size="12" letter-spacing="5">THE HUNTER'S SOCIAL REACH</text>
+
+<!-- GitHub -->
+<g transform="translate(200 94)">
+  <circle r="34" fill="#0D0D0D" stroke="#696969" stroke-width="2"/>
+  <path d="M-16 4c0-18 32-18 32 0v8c0 10-6 16-16 16S-16 22-16 12zm-9 3c-7-1-8-8-3-11 5-2 9 2 9 5m28 6c7-1 8-8 3-11-5-2-9 2-9 5" fill="#E8E1D5" stroke="#E8E1D5" stroke-width="2"/>
+  <circle cx="-6" cy="-2" r="2" fill="#050505"/><circle cx="6" cy="-2" r="2" fill="#050505"/>
+  <text x="0" y="66" text-anchor="middle" fill="#E8E1D5" font-family="monospace" font-size="15" font-weight="700" letter-spacing="2">GITHUB</text>
+  <text x="0" y="88" text-anchor="middle" fill="#DC143C" font-family="monospace" font-size="24" font-weight="700" filter="url(#glow)">25,820</text>
+  <text x="0" y="105" text-anchor="middle" fill="#696969" font-family="monospace" font-size="10" letter-spacing="2">FOLLOWERS</text>
+</g>
+
+<path d="M400 53V142" stroke="#1A1A1A"/>
+
+<!-- Telegram -->
+<g transform="translate(600 94)">
+  <circle r="34" fill="#0D0D0D" stroke="#696969" stroke-width="2"/>
+  <path d="M-20 2L18-14 8 19 0 8-9 16-7 3Z" fill="#A9A9A9" stroke="#E8E1D5" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M-7 3L8-7 1 6" fill="none" stroke="#050505" stroke-width="2"/>
+  <text x="0" y="66" text-anchor="middle" fill="#E8E1D5" font-family="monospace" font-size="15" font-weight="700" letter-spacing="2">TELEGRAM</text>
+  <text x="0" y="88" text-anchor="middle" fill="#DC143C" font-family="monospace" font-size="24" font-weight="700" filter="url(#glow)">32,541</text>
+  <text x="0" y="105" text-anchor="middle" fill="#696969" font-family="monospace" font-size="10" letter-spacing="2">FOLLOWING</text>
+</g>
+
+<path d="M800 53V142" stroke="#1A1A1A"/>
+
+<!-- VK -->
+<g transform="translate(1000 94)">
+  <circle r="34" fill="#0D0D0D" stroke="#696969" stroke-width="2"/>
+  <text x="0" y="12" text-anchor="middle" fill="#E8E1D5" font-family="Arial, sans-serif" font-size="30" font-weight="900">vk</text>
+  <text x="0" y="66" text-anchor="middle" fill="#E8E1D5" font-family="monospace" font-size="15" font-weight="700" letter-spacing="2">VK</text>
+  <text x="0" y="88" text-anchor="middle" fill="#DC143C" font-family="monospace" font-size="24" font-weight="700" filter="url(#glow)">36,894</text>
+  <text x="0" y="105" text-anchor="middle" fill="#696969" font-family="monospace" font-size="10" letter-spacing="2">FOLLOWERS</text>
+</g>
+
+<text x="600" y="176" text-anchor="middle" fill="#696969" font-family="monospace" font-size="9" letter-spacing="3">SIMULATED SOCIAL PROFILE • DARK REALM CELEBRITY STATUS</text>
+</svg>
