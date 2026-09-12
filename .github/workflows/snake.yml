@@ -1,0 +1,42 @@
+name: Generate Contribution Snake
+
+on:
+  push:
+    paths:
+      - '.github/workflows/snake.yml'
+  schedule:
+    - cron: '17 0 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate pink contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: E1IJIMA
+          outputs: |
+            assets/github-snake.svg?color_snake=#ff69b4&color_dots=#fff5fa,#ffd7ea,#ffb8d3,#ff8dc7,#d96ba4
+
+      - name: Commit generated snake
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-snake.svg
+          if git diff --cached --quiet; then
+            echo "Snake is already up to date."
+            exit 0
+          fi
+          git commit -m "chore: update contribution snake"
+          git push

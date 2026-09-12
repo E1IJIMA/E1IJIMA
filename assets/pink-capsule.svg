@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" role="img" aria-label="Animated pastel pink kawaii developer banner">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff5fa"/>
+      <stop offset="0.5" stop-color="#ffd7ea"/>
+      <stop offset="1" stop-color="#d9c8ff"/>
+    </linearGradient>
+    <filter id="s" x="-10%" y="-30%" width="120%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#d86b9b" flood-opacity="0.16"/>
+    </filter>
+  </defs>
+  <rect x="12" y="12" width="1176" height="126" rx="63" fill="url(#g)" filter="url(#s)" stroke="#ffffff" stroke-width="4"/>
+  <g fill="#ff69b4" font-family="ui-rounded, system-ui, sans-serif" font-weight="700">
+    <text x="85" y="90" font-size="28">✦</text>
+    <text x="1100" y="95" font-size="32">♡</text>
+    <text x="600" y="88" text-anchor="middle" font-size="28" fill="#7a3e65">soft code • sparkles • cute ideas ✨</text>
+  </g>
+  <circle cx="205" cy="70" r="10" fill="#9bdcfb">
+    <animate attributeName="cy" values="70;54;70" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1010" cy="78" r="8" fill="#ff8dc7">
+    <animate attributeName="cy" values="78;62;78" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+</svg>
