@@ -1,1 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300"><rect width="1200" height="300" rx="10" fill="#090a0d" stroke="#343943"/><text x="45" y="45" font-family="monospace" font-size="18" font-weight="700" fill="#dc143c" letter-spacing="4">ARSENAL &amp; TECH STACK // LOADOUT</text><text x="600" y="83" text-anchor="middle" font-family="monospace" font-size="12" fill="#696969">SIMULATED LOADOUT — ILLUSTRATIVE TECHNOLOGIES</text><g font-family="monospace" text-anchor="middle" font-size="14" fill="#e8e1d5"><g><rect x="55" y="105" width="170" height="42" rx="5" fill="#111318" stroke="#8b0000"/><text x="140" y="131">WEAPONS OF CODE</text><rect x="245" y="105" width="170" height="42" rx="5" fill="#111318" stroke="#8b0000"/><text x="330" y="131">FRONTEND</text><rect x="435" y="105" width="170" height="42" rx="5" fill="#111318" stroke="#8b0000"/><text x="520" y="131">BACKEND</text><rect x="625" y="105" width="170" height="42" rx="5" fill="#111318" stroke="#8b0000"/><text x="710" y="131">DATABASE</text><rect x="815" y="105" width="170" height="42" rx="5" fill="#111318" stroke="#8b0000"/><text x="900" y="131">DEVOPS</text><rect x="1005" y="105" width="140" height="42" rx="5" fill="#111318" stroke="#8b0000"/><text x="1075" y="131">UTILITIES</text></g><text x="600" y="188" fill="#e8e1d5">HTML · CSS · JAVASCRIPT · TYPESCRIPT · REACT · NODE.JS</text><text x="600" y="216" fill="#a9a9a9">PYTHON · JAVA · C++ · MYSQL · POSTGRESQL · DOCKER · LINUX</text><text x="600" y="244" fill="#696969">GIT · GITHUB · VS CODE · GITHUB ACTIONS</text><path d="M80 270H1120" stroke="#8b0000" opacity=".6"/><circle cx="80" cy="270" r="4" fill="#dc143c"><animate attributeName="cx" values="80;1120;80" dur="8s" repeatCount="indefinite"/></circle></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">EIJIMA professional technology archive</title><desc id="desc">Dark professional technology archive covering programming languages, frontend, backend, databases, cloud, DevOps, tools, and platforms.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#090a0d"/><stop offset=".55" stop-color="#0d1015"/><stop offset="1" stop-color="#160609"/></linearGradient>
+  <filter id="redglow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="2" y="2" width="1196" height="356" rx="12" fill="url(#bg)" stroke="#343943" stroke-width="2"/>
+<text x="44" y="42" font-family="monospace" font-size="20" font-weight="700" fill="#dc143c" letter-spacing="4">TECH ARCHIVE // PROFESSIONAL LOADOUT</text>
+<text x="600" y="70" text-anchor="middle" font-family="monospace" font-size="10" fill="#696969" letter-spacing="2">SELECTED TECHNOLOGY CATALOGUE • EDITABLE PROFILE DECORATION</text>
+
+<g font-family="monospace" font-size="12" font-weight="700" text-anchor="middle" fill="#e8e1d5">
+  <rect x="45" y="92" width="165" height="38" rx="5" fill="#111318" stroke="#8b0000"/><text x="127" y="116">LANGUAGES</text>
+  <rect x="225" y="92" width="165" height="38" rx="5" fill="#111318" stroke="#8b0000"/><text x="307" y="116">FRONTEND</text>
+  <rect x="405" y="92" width="165" height="38" rx="5" fill="#111318" stroke="#8b0000"/><text x="487" y="116">BACKEND</text>
+  <rect x="585" y="92" width="165" height="38" rx="5" fill="#111318" stroke="#8b0000"/><text x="667" y="116">DATA &amp; STORAGE</text>
+  <rect x="765" y="92" width="165" height="38" rx="5" fill="#111318" stroke="#8b0000"/><text x="847" y="116">CLOUD &amp; DEVOPS</text>
+  <rect x="945" y="92" width="210" height="38" rx="5" fill="#111318" stroke="#8b0000"/><text x="1050" y="116">TOOLS &amp; PLATFORMS</text>
+</g>
+
+<g font-family="monospace" text-anchor="middle">
+  <text x="127" y="160" fill="#e8e1d5" font-size="11">Python · Java · C · C++ · C#</text>
+  <text x="127" y="181" fill="#a9a9a9" font-size="11">JavaScript · TypeScript · Go · Rust · PHP</text>
+
+  <text x="307" y="160" fill="#e8e1d5" font-size="11">HTML · CSS · React · Next.js</text>
+  <text x="307" y="181" fill="#a9a9a9" font-size="11">Vue · Angular · Tailwind · Vite</text>
+
+  <text x="487" y="160" fill="#e8e1d5" font-size="11">Node.js · Express · NestJS</text>
+  <text x="487" y="181" fill="#a9a9a9" font-size="11">Django · FastAPI · Spring · .NET</text>
+
+  <text x="667" y="160" fill="#e8e1d5" font-size="11">MySQL · PostgreSQL · SQLite</text>
+  <text x="667" y="181" fill="#a9a9a9" font-size="11">MongoDB · Redis · Firebase</text>
+
+  <text x="847" y="160" fill="#e8e1d5" font-size="11">Docker · Kubernetes · GitHub Actions</text>
+  <text x="847" y="181" fill="#a9a9a9" font-size="11">AWS · Azure · Nginx · Linux</text>
+
+  <text x="1050" y="160" fill="#e8e1d5" font-size="11">Git · GitHub · GitLab · VS Code</text>
+  <text x="1050" y="181" fill="#a9a9a9" font-size="11">Postman · Figma · Bash · REST · GraphQL</text>
+</g>
+
+<path d="M55 214H1145" stroke="#1a1a1a" stroke-width="2"/>
+<text x="600" y="241" text-anchor="middle" font-family="monospace" font-size="13" font-weight="700" fill="#dc143c" letter-spacing="3">ENGINEERING DISCIPLINES</text>
+
+<g font-family="monospace" font-size="11" text-anchor="middle">
+  <text x="150" y="270" fill="#e8e1d5">SYSTEM DESIGN</text>
+  <text x="150" y="291" fill="#696969">Architecture · APIs</text>
+  <text x="150" y="308" fill="#696969">Scalability · Security</text>
+
+  <text x="350" y="270" fill="#e8e1d5">VERSION CONTROL</text>
+  <text x="350" y="291" fill="#696969">Git Flow · Code Review</text>
+  <text x="350" y="308" fill="#696969">Branches · Releases</text>
+
+  <text x="600" y="270" fill="#e8e1d5">QUALITY &amp; TESTING</text>
+  <text x="600" y="291" fill="#696969">Unit · Integration · E2E</text>
+  <text x="600" y="308" fill="#696969">Linting · CI · Observability</text>
+
+  <text x="850" y="270" fill="#e8e1d5">DELIVERY</text>
+  <text x="850" y="291" fill="#696969">Containers · CI/CD</text>
+  <text x="850" y="308" fill="#696969">Cloud · Automation</text>
+
+  <text x="1050" y="270" fill="#e8e1d5">ENGINEERING TOOLS</text>
+  <text x="1050" y="291" fill="#696969">Terminal · IDE · API</text>
+  <text x="1050" y="308" fill="#696969">Docs · Monitoring</text>
+</g>
+
+<path d="M70 335H1130" stroke="#8b0000" stroke-width="2" opacity=".7"/>
+<circle cx="70" cy="335" r="4" fill="#dc143c" filter="url(#redglow)"><animate attributeName="cx" values="70;1130;70" dur="8s" repeatCount="indefinite"/></circle>
+</svg>
