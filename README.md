@@ -84,7 +84,7 @@
 ## 📜 ACTIVE QUEST LOG
 
 <div align="center">
-<img src="./assets/quest-panel.svg" width="100%" alt="EIJIMA active quest log guild board" />
+<img src="./assets/quest-board.svg" width="100%" alt="EIJIMA active quest log guild board" />
 </div>
 
 ---
