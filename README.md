@@ -56,7 +56,9 @@
 
 ---
 
-## 🗡️ ARSENAL & TECH STACK
+## SUPPORTED BY
+
+<table width="100%" bgcolor="#0D1117"><tr><td>
 
 <div align="center">
 
@@ -117,6 +119,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="44" height="44" alt="GraphQL" />
 
 </div>
+
+</td></tr></table>
 
 ---
 
