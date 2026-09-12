@@ -2,12 +2,12 @@
 
 <table>
 <tr>
-<td width="70%" valign="middle">
+<td width="70%" valign="middle" bgcolor="#2b1025">
 
 <img src="./assets/profile-banner-text.svg" width="100%" alt="E1IJIMA pink anime developer banner" />
 
 </td>
-<td width="30%" valign="middle" align="center">
+<td width="30%" valign="middle" align="center" bgcolor="#2b1025">
 
 <img src="./assets/anime-girl-1.png" width="100%" alt="E1IJIMA anime girl" />
 
@@ -34,7 +34,36 @@
 
 <div align="center">
 
-<img src="./assets/pink-showcase.svg" width="100%" alt="Animated pink showcase" />
+<table>
+<tr>
+<td colspan="2" align="center" bgcolor="#321326">
+
+### 💗 `PINK ANIME GALLERY`
+<sub>four moods · four looks · one cozy coding universe</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" bgcolor="#2b1025">
+<img src="./assets/anime-girl-1.png" width="96%" alt="Anime girl 1" />
+<br/><sub>🌸 soft & dreamy</sub>
+</td>
+<td width="50%" align="center" bgcolor="#2b1025">
+<img src="./assets/anime-girl-2.png" width="96%" alt="Anime girl 2" />
+<br/><sub>🎀 cute & cozy</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" bgcolor="#2b1025">
+<img src="./assets/anime-girl-3.png" width="96%" alt="Anime girl 3" />
+<br/><sub>✨ magic mode</sub>
+</td>
+<td width="50%" align="center" bgcolor="#2b1025">
+<img src="./assets/anime-girl-4.png" width="96%" alt="Anime girl 4" />
+<br/><sub>💞 pink energy</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -42,7 +71,7 @@
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="62%" valign="top" bgcolor="#15101a">
 
 ## 🎀 `ABOUT ME`
 
@@ -65,7 +94,7 @@ I like building web projects, small tools, automations, experiments, and friendl
 💗 giving static pages a little heartbeat
 
 </td>
-<td width="38%" valign="top">
+<td width="38%" valign="top" bgcolor="#241426">
 
 <div align="center">
 
@@ -105,14 +134,14 @@ I like building web projects, small tools, automations, experiments, and friendl
 
 <table>
 <tr>
-<td width="33%" align="center">🌸<br/><b>Creative</b><br/><sub>I give projects a personality.</sub></td>
-<td width="33%" align="center">🧸<br/><b>Cozy Coder</b><br/><sub>Music + coffee + code.</sub></td>
-<td width="33%" align="center">🎀<br/><b>Detail Lover</b><br/><sub>Small details matter.</sub></td>
+<td width="33%" align="center" bgcolor="#241426">🌸<br/><b>Creative</b><br/><sub>I give projects a personality.</sub></td>
+<td width="33%" align="center" bgcolor="#2b1025">🧸<br/><b>Cozy Coder</b><br/><sub>Music + coffee + code.</sub></td>
+<td width="33%" align="center" bgcolor="#241426">🎀<br/><b>Detail Lover</b><br/><sub>Small details matter.</sub></td>
 </tr>
 <tr>
-<td width="33%" align="center">☁️<br/><b>Curious</b><br/><sub>I learn by making.</sub></td>
-<td width="33%" align="center">💞<br/><b>Kind UX</b><br/><sub>Useful should feel lovely.</sub></td>
-<td width="33%" align="center">🌙<br/><b>Night Owl</b><br/><sub>Ideas arrive after dark.</sub></td>
+<td width="33%" align="center" bgcolor="#2b1025">☁️<br/><b>Curious</b><br/><sub>I learn by making.</sub></td>
+<td width="33%" align="center" bgcolor="#241426">💞<br/><b>Kind UX</b><br/><sub>Useful should feel lovely.</sub></td>
+<td width="33%" align="center" bgcolor="#2b1025">🌙<br/><b>Night Owl</b><br/><sub>Ideas arrive after dark.</sub></td>
 </tr>
 </table>
 
