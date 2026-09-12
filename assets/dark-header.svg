@@ -15,10 +15,6 @@
 <circle cx="1030" cy="105" r="39" fill="#8B0000"/>
 <!-- ruined skyline -->
 <path d="M0 285V235l48-32 30 18 36-52 42 34 44-74 34 51 40-29 36 44 43-22 35 49 48-55 33 46 50-26 35 41 54-64 39 53 48-32 34 42 45-73 31 60 49-27 39 35 51-58 38 50 44-28 43 42 44-62 39 49 46-32 35 29 42-49 42 43 50-29 35 50 48-24 40 36 43-49 48 43v91H0Z" fill="#080808" stroke="#1A1A1A" stroke-width="5"/>
-<!-- gate -->
-<path d="M490 300V190q0-70 110-70t110 70v110" fill="#050505" stroke="#696969" stroke-width="5"/>
-<path d="M510 300V205q0-50 90-50t90 50v95" fill="#0D0D0D" stroke="#8B0000" stroke-width="3"/>
-<path d="M600 155v145M510 225h180" stroke="#1A1A1A" stroke-width="8"/>
 <!-- sword --> <path d="M145 315l130-150 12 12-130 150zM258 165l32-32 14 14-32 32z" fill="#A9A9A9"/><path d="M235 195l35 35M220 210l35 35" stroke="#8B0000" stroke-width="7"/>
 <!-- animated embers -->
 <g fill="#DC143C" filter="url(#redglow)">
