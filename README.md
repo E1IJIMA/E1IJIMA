@@ -1,6 +1,19 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="E1IJIMA pink anime developer banner" />
+<table>
+<tr>
+<td width="70%" valign="middle">
+
+<img src="./assets/profile-banner-text.svg" width="100%" alt="E1IJIMA pink anime developer banner" />
+
+</td>
+<td width="30%" valign="middle" align="center">
+
+<img src="./assets/anime-girl-1.png" width="100%" alt="E1IJIMA anime girl" />
+
+</td>
+</tr>
+</table>
 
 ### 🎀 PINK MODE · CUTE CODE · BIG DREAMS 🎀
 
