@@ -4,11 +4,7 @@
 
 <img src="./assets/hunter-status.svg" width="100%" alt="Animated EIJIMA hunter status messages" />
 
-### THE LAST WARDEN OF THE FALLEN REALM
-
-`ABYSS HUNTER`  ·  `DARK CODE KNIGHT`  ·  `CHAOTIC GOOD`  ·  `ACTIVE`
-
-> **“Code in darkness. Hunt without mercy. Leave no bug alive.”**
+<img src="./assets/social-reach.svg" width="100%" alt="EIJIMA simulated social following across GitHub, Telegram and VK" />
 
 </div>
 
