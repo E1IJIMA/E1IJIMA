@@ -56,7 +56,7 @@
 
 ---
 
-## SUPPORTED BY
+## ⚔️ SUPPORTED BY
 
 <div align="center">
 
