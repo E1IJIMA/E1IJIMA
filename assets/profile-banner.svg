@@ -1,17 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="560" viewBox="0 0 1400 560" role="img" aria-label="E1IJIMA pink anime magical developer banner">
-<defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3c1730"/><stop offset=".48" stop-color="#c94f93"/><stop offset="1" stop-color="#f8b7d7"/></linearGradient>
-<radialGradient id="glow"><stop stop-color="#fff7fc" stop-opacity=".95"/><stop offset="1" stop-color="#ff8fc1" stop-opacity="0"/></radialGradient>
-<linearGradient id="hair" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffb6d5"/><stop offset=".55" stop-color="#ff6faf"/><stop offset="1" stop-color="#b76af1"/></linearGradient>
-<linearGradient id="dress" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffb4d5"/><stop offset="1" stop-color="#ff579e"/></linearGradient>
-<pattern id="sparkles" width="44" height="44" patternUnits="userSpaceOnUse"><circle cx="4" cy="4" r="1.7" fill="#fff" opacity=".24"/><circle cx="30" cy="19" r="1.2" fill="#fff" opacity=".18"/></pattern>
-<filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#1f0819" flood-opacity=".35"/></filter>
-</defs>
-<rect width="1400" height="560" rx="38" fill="url(#bg)"/><rect width="1400" height="560" rx="38" fill="url(#sparkles)"/>
-<circle cx="1100" cy="160" r="300" fill="url(#glow)" opacity=".78"><animate attributeName="r" values="270;320;270" dur="6s" repeatCount="indefinite"/></circle>
-<path d="M0 445 C205 355 350 500 550 422 C730 350 885 452 1050 400 C1210 350 1320 415 1400 380 V560 H0Z" fill="#fff" opacity=".12"/>
-<g transform="translate(72 58)"><text x="0" y="24" fill="#ffd5e8" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15" font-weight="800" letter-spacing="5">E1IJIMA / PINK MAGICAL DEVELOPER</text><text x="0" y="105" fill="#fff7fc" font-family="Georgia,serif" font-size="67" font-weight="700">E1IJIMA ♡</text><text x="3" y="149" fill="#ffe6f1" font-family="Georgia,serif" font-size="22" font-style="italic">same girl • different dreams • prettier code</text><text x="0" y="220" fill="#fff" opacity=".95" font-family="ui-monospace,monospace" font-size="15">&gt; coding... ♡</text><text x="0" y="248" fill="#fff" opacity=".95" font-family="ui-monospace,monospace" font-size="15">&gt; creating... ♡</text><text x="0" y="276" fill="#fff" opacity=".95" font-family="ui-monospace,monospace" font-size="15">&gt; learning... ♡</text><text x="0" y="304" fill="#fff" opacity=".95" font-family="ui-monospace,monospace" font-size="15">&gt; making things prettier... ♡</text><g filter="url(#shadow)"><rect x="0" y="345" width="510" height="92" rx="26" fill="#fff" opacity=".17" stroke="#fff" stroke-opacity=".35"/><text x="24" y="380" fill="#fff0f7" font-family="Georgia,serif" font-size="18" font-style="italic">A little bit of code</text><text x="24" y="408" fill="#fff0f7" font-family="Georgia,serif" font-size="18" font-style="italic">A lot of pink magic. ♡</text></g></g>
-<g transform="translate(875 78)" filter="url(#shadow)"><ellipse cx="210" cy="390" rx="245" ry="42" fill="#2c0f29" opacity=".28"/><path d="M40 328 C8 235 14 145 75 79 C125 26 199 0 266 29 C335 59 381 123 384 212 C387 272 350 325 318 349 L83 359 Z" fill="url(#hair)" stroke="#8b316d" stroke-width="6"/><path d="M74 125 Q24 176 54 253 L105 222 L116 109 Z" fill="#ff7db8" stroke="#8b316d" stroke-width="6"/><path d="M351 125 Q401 176 371 253 L320 222 L309 109 Z" fill="#ff7db8" stroke="#8b316d" stroke-width="6"/><path d="M84 78 L48 8 Q48-5 63 4 L126 42 Z" fill="#ff9bca" stroke="#8b316d" stroke-width="6"/><path d="M336 78 L372 8 Q372-5 357 4 L294 42 Z" fill="#ff9bca" stroke="#8b316d" stroke-width="6"/><circle cx="105" cy="74" r="36" fill="#ff86bc" stroke="#8b316d" stroke-width="6"/><circle cx="315" cy="74" r="36" fill="#ff86bc" stroke="#8b316d" stroke-width="6"/><circle cx="105" cy="74" r="17" fill="#fff2fa" opacity=".9"/><circle cx="315" cy="74" r="17" fill="#fff2fa" opacity=".9"/><path d="M87 124 Q208 66 329 124 L313 250 Q293 310 208 329 Q123 310 103 250 Z" fill="#fff4f9" stroke="#8f3f71" stroke-width="6"/><path d="M120 120 Q150 88 208 95 Q266 88 296 120" fill="none" stroke="#ff7eb5" stroke-width="8" stroke-linecap="round"/><ellipse cx="160" cy="190" rx="23" ry="34" fill="#5b3654"/><ellipse cx="256" cy="190" rx="23" ry="34" fill="#5b3654"/><circle cx="166" cy="180" r="7" fill="#fff"/><circle cx="262" cy="180" r="7" fill="#fff"/><circle cx="116" cy="225" r="17" fill="#ff99c5" opacity=".72"/><circle cx="300" cy="225" r="17" fill="#ff99c5" opacity=".72"/><path d="M185 252 Q208 271 231 252" fill="none" stroke="#d45393" stroke-width="6" stroke-linecap="round"/><path d="M116 318 Q208 282 300 318 L345 483 Q208 534 71 483 Z" fill="url(#dress)" stroke="#8b316d" stroke-width="7"/><path d="M155 322 L208 374 L261 322" fill="#fff" opacity=".35"/><path d="M169 370 L208 417 L247 370" fill="none" stroke="#fff5fb" stroke-width="8" stroke-linecap="round"/><path d="M116 348 Q63 334 48 385 Q51 427 96 412 L143 389" fill="#ffd3e7" stroke="#8b316d" stroke-width="7"/><path d="M300 348 Q353 334 368 385 Q365 427 320 412 L273 389" fill="#ffd3e7" stroke="#8b316d" stroke-width="7"/><g transform="translate(35 418)"><circle cx="0" cy="0" r="29" fill="#fff" opacity=".78"/><path d="M-15-4 Q0-24 15-4 Q29-18 37-1 Q24 23 0 31 Q-24 23-37-1 Q-29-18-15-4Z" fill="#ff5a9e"/><circle cx="0" cy="0" r="7" fill="#ffd4e6"/></g></g>
-<g fill="#fff3fa" opacity=".95"><g transform="translate(575 72)"><circle cx="0" cy="-16" r="16"/><circle cx="15" cy="-5" r="16"/><circle cx="10" cy="14" r="16"/><circle cx="-10" cy="14" r="16"/><circle cx="-15" cy="-5" r="16"/><circle cx="0" cy="0" r="8" fill="#ffc4df"/></g><g transform="translate(716 460) scale(.7)"><circle cx="0" cy="-16" r="16"/><circle cx="15" cy="-5" r="16"/><circle cx="10" cy="14" r="16"/><circle cx="-10" cy="14" r="16"/><circle cx="-15" cy="-5" r="16"/><circle cx="0" cy="0" r="8" fill="#ffc4df"/></g><g transform="translate(1276 384) scale(.75)"><circle cx="0" cy="-16" r="16"/><circle cx="15" cy="-5" r="16"/><circle cx="10" cy="14" r="16"/><circle cx="-10" cy="14" r="16"/><circle cx="-15" cy="-5" r="16"/><circle cx="0" cy="0" r="8" fill="#ffc4df"/></g></g>
-<g fill="#fff" font-family="sans-serif" font-weight="700"><text x="498" y="122" font-size="34"><animate attributeName="y" values="122;101;122" dur="3.2s" repeatCount="indefinite"/>♡</text><text x="1310" y="155" font-size="26"><animate attributeName="y" values="155;132;155" dur="3.8s" repeatCount="indefinite"/>♡</text><text x="1180" y="445" font-size="28"><animate attributeName="y" values="445;421;445" dur="4.1s" repeatCount="indefinite"/>✦</text></g><text x="1355" y="52" fill="#fff0f7" opacity=".9" font-family="ui-monospace,monospace" font-size="12" writing-mode="tb" letter-spacing="5">かわいいをコードに ♡</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="600" viewBox="0 0 1400 600" role="img" aria-label="E1IJIMA pink magical girl developer banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#2b1025"/><stop offset=".42" stop-color="#9f3f79"/><stop offset="1" stop-color="#ffd0e5"/>
+    </linearGradient>
+    <radialGradient id="glow"><stop stop-color="#fff" stop-opacity=".95"/><stop offset="1" stop-color="#ff8fc1" stop-opacity="0"/></radialGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff" stop-opacity=".22"/><stop offset="1" stop-color="#fff" stop-opacity=".08"/></linearGradient>
+    <linearGradient id="dress" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffd0e4"/><stop offset=".55" stop-color="#ff77b2"/><stop offset="1" stop-color="#e94f96"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#1d0717" flood-opacity=".35"/></filter>
+    <pattern id="dots" width="42" height="42" patternUnits="userSpaceOnUse"><circle cx="5" cy="6" r="1.4" fill="#fff" opacity=".22"/><circle cx="31" cy="23" r="1.1" fill="#fff" opacity=".16"/></pattern>
+  </defs>
+  <rect width="1400" height="600" rx="42" fill="url(#bg)"/><rect width="1400" height="600" rx="42" fill="url(#dots)"/>
+  <circle cx="1090" cy="150" r="260" fill="url(#glow)" opacity=".75"><animate attributeName="r" values="230;290;230" dur="7s" repeatCount="indefinite"/></circle>
+  <circle cx="260" cy="480" r="170" fill="url(#glow)" opacity=".28"><animate attributeName="r" values="150;190;150" dur="5.2s" repeatCount="indefinite"/></circle>
+  <path d="M0 485 C180 390 340 550 545 455 C770 350 940 500 1110 430 C1260 368 1340 430 1400 400 V600 H0Z" fill="#fff" opacity=".11"/>
+  <g transform="translate(74 64)">
+    <text x="0" y="20" fill="#ffd9eb" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15" font-weight="800" letter-spacing="5">E1IJIMA / PINK MAGICAL DEVELOPER</text>
+    <text x="0" y="105" fill="#fff7fc" font-family="Georgia,serif" font-size="72" font-weight="700">E1IJIMA ♡</text>
+    <text x="4" y="150" fill="#ffe9f3" font-family="Georgia,serif" font-size="24" font-style="italic">cute code • cozy design • tiny pieces of magic</text>
+    <g filter="url(#shadow)">
+      <rect x="0" y="190" width="650" height="225" rx="30" fill="url(#panel)" stroke="#fff" stroke-opacity=".28"/>
+      <text x="28" y="228" fill="#fff1f8" font-family="ui-monospace,monospace" font-size="15">$ profile --mood</text>
+      <text x="28" y="264" fill="#fff" font-family="ui-monospace,monospace" font-size="18">&gt; soft • creative • curious</text>
+      <text x="28" y="300" fill="#fff" font-family="ui-monospace,monospace" font-size="18">&gt; web • UI • automation • AI</text>
+      <text x="28" y="336" fill="#fff" font-family="ui-monospace,monospace" font-size="18">&gt; building little things with big pink energy</text>
+      <rect x="28" y="370" width="560" height="5" rx="3" fill="#ffd1e5"><animate attributeName="width" values="70;550;210;70" dur="5s" repeatCount="indefinite"/></rect>
+      <text x="28" y="398" fill="#ffe8f2" font-family="Georgia,serif" font-size="17" font-style="italic">same girl · different dreams · prettier code ♡</text>
+    </g>
+  </g>
+  <g transform="translate(915 72)" filter="url(#shadow)">
+    <ellipse cx="210" cy="448" rx="250" ry="42" fill="#220c20" opacity=".28"/>
+    <path d="M45 350 C10 260 16 155 75 84 C122 28 190 2 258 28 C330 55 378 125 380 214 C382 286 345 337 310 360 L96 374 Z" fill="#f7d4e7" stroke="#7b2e61" stroke-width="6"/>
+    <path d="M72 104 Q26 165 54 258 L99 230 L112 106 Z" fill="#ff7db8" stroke="#7b2e61" stroke-width="6"/>
+    <path d="M349 104 Q395 165 367 258 L322 230 L309 106 Z" fill="#ff7db8" stroke="#7b2e61" stroke-width="6"/>
+    <circle cx="102" cy="73" r="36" fill="#ff86bc" stroke="#7b2e61" stroke-width="6"/><circle cx="318" cy="73" r="36" fill="#ff86bc" stroke="#7b2e61" stroke-width="6"/>
+    <circle cx="102" cy="73" r="15" fill="#fff5fb"/><circle cx="318" cy="73" r="15" fill="#fff5fb"/>
+    <path d="M86 124 Q208 68 330 124 L314 252 Q292 318 208 336 Q124 318 102 252 Z" fill="#fff7fb" stroke="#8b3b70" stroke-width="6"/>
+    <path d="M118 126 Q150 90 208 96 Q266 90 298 126" fill="none" stroke="#ff79b5" stroke-width="8" stroke-linecap="round"/>
+    <ellipse cx="159" cy="193" rx="24" ry="35" fill="#4e2748"/><ellipse cx="257" cy="193" rx="24" ry="35" fill="#4e2748"/>
+    <circle cx="165" cy="182" r="7" fill="#fff"/><circle cx="263" cy="182" r="7" fill="#fff"/>
+    <circle cx="114" cy="228" r="18" fill="#ff9bc5" opacity=".7"/><circle cx="302" cy="228" r="18" fill="#ff9bc5" opacity=".7"/>
+    <path d="M184 257 Q208 276 232 257" fill="none" stroke="#d35495" stroke-width="6" stroke-linecap="round"/>
+    <path d="M112 326 Q208 292 304 326 L351 505 Q208 556 65 505 Z" fill="url(#dress)" stroke="#7b2e61" stroke-width="7"/>
+    <path d="M153 329 L208 382 L263 329" fill="#fff" opacity=".36"/><path d="M164 382 L208 432 L252 382" fill="none" stroke="#fff8fb" stroke-width="8" stroke-linecap="round"/>
+    <g transform="translate(54 380)"><path d="M0 0 C-35-28 -55 10 -12 30 C-40 65 2 71 20 37 C38 71 80 65 52 30 C92 9 70-29 35 0 C21-34 14-34 0 0Z" fill="#ff5fa6" stroke="#7b2e61" stroke-width="5"/><circle cx="20" cy="28" r="8" fill="#ffd4e6"/></g>
+  </g>
+  <g fill="#fff6fb" font-family="sans-serif" font-weight="700">
+    <text x="655" y="95" font-size="34"><animate attributeName="y" values="95;72;95" dur="3.1s" repeatCount="indefinite"/>♡</text>
+    <text x="790" y="500" font-size="30"><animate attributeName="y" values="500;472;500" dur="4.4s" repeatCount="indefinite"/>✦</text>
+    <text x="1290" y="122" font-size="28"><animate attributeName="y" values="122;97;122" dur="3.8s" repeatCount="indefinite"/>♡</text>
+    <text x="1195" y="465" font-size="30"><animate attributeName="y" values="465;438;465" dur="4.1s" repeatCount="indefinite"/>✧</text>
+  </g>
+  <g transform="translate(690 180)"><g><circle cx="0" cy="-17" r="16" fill="#fff"/><circle cx="16" cy="-5" r="16" fill="#fff"/><circle cx="10" cy="14" r="16" fill="#fff"/><circle cx="-10" cy="14" r="16" fill="#fff"/><circle cx="-16" cy="-5" r="16" fill="#fff"/><circle cx="0" cy="0" r="8" fill="#ffc3df"/><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="9s" repeatCount="indefinite"/></g></g>
+  <text x="1352" y="548" fill="#ffeaf3" opacity=".85" font-family="ui-monospace,monospace" font-size="12" writing-mode="tb" letter-spacing="4">かわいいをコードに ♡</text>
 </svg>
