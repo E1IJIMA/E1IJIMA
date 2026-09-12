@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="430" viewBox="0 0 1400 430" role="img" aria-label="E1IJIMA cute pink developer banner">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff0f7"/><stop offset=".45" stop-color="#ffd8ea"/><stop offset="1" stop-color="#f4d6ff"/></linearGradient>
+ <linearGradient id="pink" x1="0" x2="1"><stop stop-color="#ff6fae"/><stop offset=".55" stop-color="#ff8fc0"/><stop offset="1" stop-color="#c58cff"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#fff" stop-opacity=".75"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+ <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.6" fill="#fff" opacity=".3"/></pattern>
+ <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#b64c86" flood-opacity=".2"/></filter>
+</defs>
+<rect width="1400" height="430" rx="32" fill="url(#bg)"/>
+<rect width="1400" height="430" rx="32" fill="url(#dots)"/>
+<circle cx="1100" cy="130" r="190" fill="url(#glow)"/>
+<circle cx="1240" cy="330" r="120" fill="#fff" opacity=".26"/>
+<path d="M0 350 C180 290 300 390 470 320 C620 258 700 328 860 288 C1010 250 1130 320 1400 250 V430 H0Z" fill="#ffffff" opacity=".28"/>
+
+<g transform="translate(92 92)">
+ <text x="0" y="0" fill="#c03f83" font-family="ui-monospace,monospace" font-weight="700" font-size="17" letter-spacing="5">E1IJIMA / CUTE DEVELOPER PROFILE</text>
+ <text x="0" y="78" fill="#4f2440" font-family="Inter,Segoe UI,sans-serif" font-size="58" font-weight="800">Hello, I'm E1IJIMA ♡</text>
+ <text x="3" y="122" fill="#7a4a63" font-family="Inter,Segoe UI,sans-serif" font-size="22">coding • creating • learning • making things prettier</text>
+ <g transform="translate(0 168)">
+  <rect width="475" height="90" rx="22" fill="#fff" opacity=".8" filter="url(#shadow)"/>
+  <text x="25" y="34" fill="#b34079" font-family="ui-monospace,monospace" font-size="15">$ profile --mood</text>
+  <text x="25" y="63" fill="#4f2440" font-family="Inter,Segoe UI,sans-serif" font-size="18" font-weight="700">soft • curious • creative • always improving</text>
+ </g>
+</g>
+
+<g transform="translate(1030 50)" filter="url(#shadow)">
+ <circle cx="130" cy="160" r="128" fill="#fff" opacity=".6"/>
+ <!-- hair -->
+ <path d="M45 150 C40 58 110 25 170 40 C235 56 250 112 220 198 C205 233 184 250 160 256 H98 C72 239 50 212 45 150Z" fill="url(#pink)"/>
+ <!-- face -->
+ <path d="M72 118 C76 86 112 70 156 74 C197 78 214 111 208 153 C202 195 183 221 144 224 C107 225 82 193 74 160Z" fill="#fff2f7"/>
+ <!-- ears/hair tufts -->
+ <path d="M70 122 C50 112 46 142 57 158 C64 169 75 160 82 146" fill="#ffb7cf"/>
+ <path d="M202 119 C223 109 225 141 214 158 C208 169 198 160 192 146" fill="#ffb7cf"/>
+ <!-- eyes -->
+ <ellipse cx="112" cy="155" rx="10" ry="14" fill="#61405a"/><ellipse cx="177" cy="155" rx="10" ry="14" fill="#61405a"/>
+ <circle cx="109" cy="151" r="3.5" fill="#fff"/><circle cx="174" cy="151" r="3.5" fill="#fff"/>
+ <!-- blush -->
+ <ellipse cx="92" cy="179" rx="17" ry="7" fill="#ff9fbf" opacity=".65"/><ellipse cx="197" cy="179" rx="17" ry="7" fill="#ff9fbf" opacity=".65"/>
+ <!-- smile -->
+ <path d="M129 184 Q145 197 162 184" fill="none" stroke="#b55a7d" stroke-width="4" stroke-linecap="round"/>
+ <!-- bow -->
+ <path d="M133 215 l-28 18 12 18 24-20 24 20 12-18-28-18Z" fill="#ff76ae"/>
+ <!-- hair fringe -->
+ <path d="M55 116 C82 61 175 51 218 111 C186 96 156 101 134 119 C114 135 90 139 55 116Z" fill="#ff78b0"/>
+</g>
+
+<g font-family="ui-monospace,monospace" font-size="13" fill="#a34d78">
+ <text x="74" y="395">♡ build • learn • create • repeat ♡</text>
+ <text x="1165" y="395">E1IJIMA / 2026</text>
+</g>
+</svg>
