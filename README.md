@@ -1,54 +1,50 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="E1IJIMA cyber-anime developer banner" />
+<img src="./assets/cute-banner.svg" width="100%" alt="E1IJIMA cute pink developer banner" />
 
-# E1IJIMA
+# E1IJIMA ♡
 
-### `DEVELOPER` · `BUILDER` · `DESIGNER`
+### `DEVELOPER` · `CREATOR` · `DREAMER`
 
-<a href="https://github.com/E1IJIMA"><img src="https://img.shields.io/badge/GITHUB-E1IJIMA-0b0f16?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://github.com/E1IJIMA?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-EXPLORE-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
-<a href="https://komarev.com/ghpvc/?username=E1IJIMA"><img src="https://komarev.com/ghpvc/?username=E1IJIMA&style=for-the-badge&color=111827&label=PROFILE+VIEWS" alt="Profile views" /></a>
+<a href="https://github.com/E1IJIMA"><img src="https://img.shields.io/badge/GITHUB-E1IJIMA-ff72ad?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/E1IJIMA?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-EXPLORE-c28cff?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+<a href="https://github.com/E1IJIMA"><img src="https://img.shields.io/badge/MADE_WITH-LOVE-ff9fc8?style=for-the-badge&logo=heart&logoColor=white" alt="Made with love" /></a>
 
-**Code, creativity & experiments — building things worth remembering.**
+**Code, creativity & tiny details — building things with a little extra sparkle.** ✨
 
 </div>
 
+---
+
 <table>
 <tr>
-<td width="52%" valign="top">
+<td width="54%" valign="top">
 
-## `WHOAMI`
+## `♡ WHO AM I?`
 
-> **Curious mind. Practical builder.**
+> **A curious builder who likes useful things to feel lovely too.**
 
-I build digital tools, web experiences, automations, and experiments. I like clean interfaces, useful systems, and the little details that make a project feel finished.
+I enjoy making web projects, little tools, automations, experiments, and interfaces. I like playful visuals, clean UX, and turning random ideas into something people can actually use.
 
 ```text
-identity   :: E1IJIMA
-role       :: developer / builder / designer
-focus      :: web / automation / AI / tooling / UX
-workflow   :: idea → prototype → build → refine
-standard   :: useful > noisy
+name     :: E1IJIMA
+mood     :: soft / curious / creative
+focus    :: web / UI / automation / AI
+workflow :: idea → make → polish → share
+energy   :: coffee + music + late-night ideas ♡
 ```
 
-### `CURRENTLY BUILDING`
+### `♡ CURRENTLY BUILDING`
 
-**⚡ Build** — turn rough ideas into working software  
-**⚙️ Automate** — remove repetitive work  
-**🧪 Experiment** — test new tools and interfaces  
-**✦ Refine** — simplify, polish, repeat
-
-### `TECH / TOOLKIT`
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,git,github,docker,linux,vscode&perline=6" alt="Technology stack" />
-</p>
+**🌷 Build** — turn ideas into working projects  
+**🫧 Tinker** — explore tools, APIs and new ideas  
+**🎀 Design** — make interfaces feel friendly  
+**✨ Improve** — polish the tiny things that matter
 
 </td>
-<td width="48%" valign="top">
+<td width="46%" valign="top">
 
-<img src="./assets/terminal.svg" width="100%" alt="E1IJIMA terminal profile" />
+<img src="./assets/terminal.svg" width="100%" alt="Cute pink terminal" />
 
 </td>
 </tr>
@@ -56,42 +52,62 @@ standard   :: useful > noisy
 
 ---
 
-## `GITHUB / SIGNAL`
+## `♡ MY LITTLE TOOLBOX`
 
 <div align="center">
-<a href="https://github.com/E1IJIMA"><img src="https://github-readme-stats.vercel.app/api?username=E1IJIMA&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="175" alt="GitHub stats" /></a>
-<a href="https://github.com/E1IJIMA"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E1IJIMA&layout=compact&hide_border=true&theme=transparent" height="175" alt="Top languages" /></a>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,git,github,docker,linux,vscode&perline=6" alt="Technology icons" />
+
 </div>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=E1IJIMA&hide_border=true&theme=transparent" alt="GitHub streak" />
-</div>
+<br />
+
+<img src="./assets/languages.svg" width="100%" alt="Cute pink technology panel" />
 
 ---
 
-## `SELECTED WORK`
+## `♡ GITHUB / LITTLE STATS`
+
+<img src="./assets/stats.svg" width="100%" alt="Local GitHub stats card" />
+
+---
+
+## `♡ SELECTED WORK`
+
+<a href="https://github.com/E1IJIMA/EIJIMAV1"><img src="./assets/work.svg" width="100%" alt="EIJIMAV1 selected work" /></a>
+
+---
+
+## `♡ CONTRIBUTION MODE`
+
+<img src="./assets/activity.svg" width="100%" alt="Cute contribution activity panel" />
+
+---
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/E1IJIMA/EIJIMAV1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=E1IJIMA&repo=EIJIMAV1&hide_border=true&theme=transparent" alt="EIJIMAV1" />
-</a>
+## `♡ LITTLE THINGS`
+
+```text
+♡ I like clean code
+♡ I like pretty interfaces
+♡ I enjoy learning by building
+♡ I collect small ideas
+♡ I keep improving old projects
+♡ I believe details become personality
+```
 
 </td>
 <td width="50%" valign="top">
 
-### `BUILD LOG`
+## `♡ BUILDING PHILOSOPHY`
 
-```text
-01  idea        ████████████████████ 100%
-02  prototype   █████████████████░░░  88%
-03  build       ███████████████████░  96%
-04  polish      ███████████████░░░░░  78%
-```
-
-> shipping is the feature.
+> Make it useful.  
+> Make it understandable.  
+> Make it feel nice to use.  
+> Then add a tiny bit of magic. ✨
 
 </td>
 </tr>
@@ -99,34 +115,18 @@ standard   :: useful > noisy
 
 ---
 
-## `CONTRIBUTION MODE`
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=E1IJIMA&bg_color=00000000&color=58a6ff&line=7c5cff&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
-</div>
-
----
-
-## `BUILD PHILOSOPHY`
-
-```diff
-+ Make it useful.
-+ Make it readable.
-+ Make it memorable.
-+ Keep the interface intentional.
-+ Learn fast. Iterate often.
-+ Leave the codebase better than you found it.
-- Ship noise just to look busy.
-```
-
 <div align="center">
 
-### `BUILD • LEARN • CREATE • REPEAT`
+### `♡ KEEP BUILDING CUTE THINGS ♡`
 
-<sub>Code with intent. Create with curiosity. Keep moving forward.</sub>
+`code` · `create` · `learn` · `repeat`
 
 <br /><br />
 
-<a href="https://github.com/E1IJIMA"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-0b0f16?style=for-the-badge&logo=github&logoColor=white" alt="Explore my code" /></a>
+<a href="https://github.com/E1IJIMA?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-ff72ad?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
+
+<br />
+
+<sub>made with curiosity, patience, and a little bit of pink ♡</sub>
 
 </div>
