@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="./assets/cute-banner.svg" width="100%" alt="E1IJIMA cute pink developer banner" />
+<img src="./assets/profile-banner.svg" width="100%" alt="E1IJIMA pink anime profile banner" />
 
 # E1IJIMA ♡
 
 ### `DEVELOPER` · `CREATOR` · `DREAMER`
 
-<a href="https://github.com/E1IJIMA"><img src="https://img.shields.io/badge/GITHUB-E1IJIMA-ff72ad?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://github.com/E1IJIMA?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-EXPLORE-c28cff?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
-<a href="https://github.com/E1IJIMA"><img src="https://img.shields.io/badge/MADE_WITH-LOVE-ff9fc8?style=for-the-badge&logo=heart&logoColor=white" alt="Made with love" /></a>
+💗 `cute things` · `clean code` · `creative ideas` · `late-night projects`
 
-**Code, creativity & tiny details — building things with a little extra sparkle.** ✨
+**A little pink corner of the internet for the things I build, learn, and love.** ✨
 
 </div>
 
@@ -18,33 +16,34 @@
 
 <table>
 <tr>
-<td width="54%" valign="top">
+<td width="52%" valign="top">
 
-## `♡ WHO AM I?`
+## `♡ HELLO, I'M E1IJIMA`
 
-> **A curious builder who likes useful things to feel lovely too.**
+> **Soft on the outside. Curious on the inside. Always making something.**
 
-I enjoy making web projects, little tools, automations, experiments, and interfaces. I like playful visuals, clean UX, and turning random ideas into something people can actually use.
+I enjoy building little web projects, tools, automations, experiments, and interfaces. I like things that are useful, friendly, polished, and just a little bit magical.
 
 ```text
-name     :: E1IJIMA
-mood     :: soft / curious / creative
-focus    :: web / UI / automation / AI
-workflow :: idea → make → polish → share
-energy   :: coffee + music + late-night ideas ♡
+name      :: E1IJIMA
+mood      :: pastel pink ♡
+style     :: cute / cozy / creative
+focus     :: web / UI / automation / AI
+workflow  :: idea → make → polish → share
+favorite  :: tiny details + big ideas
 ```
 
 ### `♡ CURRENTLY BUILDING`
 
-**🌷 Build** — turn ideas into working projects  
-**🫧 Tinker** — explore tools, APIs and new ideas  
-**🎀 Design** — make interfaces feel friendly  
-**✨ Improve** — polish the tiny things that matter
+🌷 **Create** — turn random ideas into real projects  
+🎀 **Design** — make interfaces feel warm and pretty  
+🫧 **Experiment** — try new tools, APIs, and workflows  
+✨ **Improve** — keep polishing the little things
 
 </td>
-<td width="46%" valign="top">
+<td width="48%" valign="top">
 
-<img src="./assets/terminal.svg" width="100%" alt="Cute pink terminal" />
+<img src="./assets/terminal.svg" width="100%" alt="Cute pink terminal profile" />
 
 </td>
 </tr>
@@ -52,23 +51,40 @@ energy   :: coffee + music + late-night ideas ♡
 
 ---
 
-## `♡ MY LITTLE TOOLBOX`
+## `♡ MY LITTLE WORLD`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,git,github,docker,linux,vscode&perline=6" alt="Technology icons" />
+<img src="./assets/languages.svg" width="100%" alt="Pink technology and tools panel" />
 
 </div>
 
-<br />
+---
 
-<img src="./assets/languages.svg" width="100%" alt="Cute pink technology panel" />
+## `♡ A FEW THINGS ABOUT ME`
+
+<table>
+<tr>
+<td width="33%" align="center">🌸<br/><b>Creative</b><br/><sub>I love making things feel personal.</sub></td>
+<td width="33%" align="center">☕<br/><b>Curious</b><br/><sub>I learn best by building.</sub></td>
+<td width="33%" align="center">🎀<br/><b>Detail Lover</b><br/><sub>Tiny details become personality.</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center">🧸<br/><b>Cozy Coder</b><br/><sub>Music, coffee, code, repeat.</sub></td>
+<td width="33%" align="center">🫶<br/><b>Kind UX</b><br/><sub>Useful should also feel nice.</sub></td>
+<td width="33%" align="center">🌙<br/><b>Night Owl</b><br/><sub>Best ideas sometimes arrive late.</sub></td>
+</tr>
+</table>
 
 ---
 
 ## `♡ GITHUB / LITTLE STATS`
 
-<img src="./assets/stats.svg" width="100%" alt="Local GitHub stats card" />
+<div align="center">
+
+<img src="./assets/stats.svg" width="100%" alt="E1IJIMA GitHub stats" />
+
+</div>
 
 ---
 
@@ -80,7 +96,7 @@ energy   :: coffee + music + late-night ideas ♡
 
 ## `♡ CONTRIBUTION MODE`
 
-<img src="./assets/activity.svg" width="100%" alt="Cute contribution activity panel" />
+<img src="./assets/activity.svg" width="100%" alt="E1IJIMA contribution activity" />
 
 ---
 
@@ -91,22 +107,22 @@ energy   :: coffee + music + late-night ideas ♡
 ## `♡ LITTLE THINGS`
 
 ```text
-♡ I like clean code
-♡ I like pretty interfaces
-♡ I enjoy learning by building
-♡ I collect small ideas
-♡ I keep improving old projects
-♡ I believe details become personality
+♡ pretty interfaces
+♡ useful little tools
+♡ anime & cute aesthetics
+♡ learning by making
+♡ improving old ideas
+♡ collecting tiny inspirations
 ```
 
 </td>
 <td width="50%" valign="top">
 
-## `♡ BUILDING PHILOSOPHY`
+## `♡ MY PHILOSOPHY`
 
 > Make it useful.  
 > Make it understandable.  
-> Make it feel nice to use.  
+> Make it feel lovely to use.  
 > Then add a tiny bit of magic. ✨
 
 </td>
@@ -117,13 +133,13 @@ energy   :: coffee + music + late-night ideas ♡
 
 <div align="center">
 
-### `♡ KEEP BUILDING CUTE THINGS ♡`
+### `♡ DREAM · CREATE · IMPROVE · REPEAT ♡`
 
-`code` · `create` · `learn` · `repeat`
+`code` · `create` · `learn` · `smile`
 
 <br /><br />
 
-<a href="https://github.com/E1IJIMA?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-ff72ad?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
+<a href="https://github.com/E1IJIMA?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-ff72ad?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a>
 
 <br />
 
