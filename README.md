@@ -1,14 +1,8 @@
 <div align="center">
 
-# 🎀 E1IJIMA · PINK ANIME MODE 🎀
+<img src="./assets/profile-banner.svg" width="100%" alt="E1IJIMA pink anime developer banner" />
 
-<img src="./assets/anime-girl-1.png" width="49%" alt="Anime girl 1" />
-<img src="./assets/anime-girl-2.png" width="49%" alt="Anime girl 2" />
-
-<img src="./assets/anime-girl-3.png" width="49%" alt="Anime girl 3" />
-<img src="./assets/anime-girl-4.png" width="49%" alt="Anime girl 4" />
-
-### 💗 SOFT ANIME · CUTE CODE · BIG DREAMS 💗
+### 🎀 PINK MODE · CUTE CODE · BIG DREAMS 🎀
 
 **A little bit of code · a lot of pink magic.** ✦
 
@@ -26,8 +20,6 @@
 ---
 
 <div align="center">
-
-## ✨ `PINK SHOWCASE`
 
 <img src="./assets/pink-showcase.svg" width="100%" alt="Animated pink showcase" />
 
