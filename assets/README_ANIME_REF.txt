@@ -1,1 +1,0 @@
-I mistakenly staged reference data as text in an earlier step; this file is only a marker and will be removed after the binary asset is committed.
