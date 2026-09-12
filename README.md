@@ -1,67 +1,46 @@
 <div align="center">
 
 <!-- ╭──────────────────────────────────────────────────────────────╮ -->
-<!--                    P I N K   A N I M E   L A B               -->
+<!--                P I N K   A N I M E   S H O W C A S E         -->
 <!-- ╰──────────────────────────────────────────────────────────────╯ -->
 
 <img src="assets/pink-wave.svg" alt="Animated pastel pink wave header" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=26&duration=2200&pause=650&color=FF69B4&center=true&vCenter=true&width=900&lines=Welcome+to+EIJIMA's+Pink+Developer+World+%E2%99%A1;Cute+UI+%E2%9C%A6+Clean+Code+%E2%9C%A6+Big+Ideas;Discord+%2B+Anime+%2B+Code+%3D+My+Happy+Place;Building%2C+customizing%2C+and+breaking+things+beautifully;Let's+make+the+internet+a+little+more+adorable+%F0%9F%8C%B8" alt="Animated typing introduction">
-
-<br>
-
-<a href="https://github.com/E1IJIMA"><img src="https://img.shields.io/badge/♡_GITHUB-E1IJIMA-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
-<a href="https://github.com/E1IJIMA/E1IJIMA"><img src="https://img.shields.io/badge/PROFILE-ANIME_MODE-d96ba4?style=for-the-badge&logo=readme&logoColor=white" alt="Profile repository"></a>
-<a href="#-discord-hq"><img src="https://img.shields.io/badge/DISCORD-HQ-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Jump to Discord section"></a>
-
-</div>
-
-<p align="center">
-  <sub>♡ かわいいコード / kawaii code • ✦ pastel pixels • 🎀 soft girl developer energy ✦ ♡</sub>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=25&duration=1900&pause=550&color=FF69B4&center=true&vCenter=true&width=920&lines=Welcome+to+EIJIMA's+Pink+Developer+World+%E2%99%A1;Cute+UI+%E2%9C%A6+Clean+Code+%E2%9C%A6+Big+Ideas;Discord+%2B+Anime+%2B+Code+%3D+My+Happy+Place;Soft+aesthetics+%2B+sharp+curiosity+%3D+my+favorite+combo;Let's+make+the+internet+a+little+more+adorable+%F0%9F%8C%B8" alt="Animated typing introduction">
 </p>
-
----
-
-<div align="center">
-
-## 🌸 H I  ·  I ' M  ·  E I J I M A !
-
-</div>
 
 <table>
 <tr>
-<td width="42%" align="center" valign="middle">
+<td width="46%" align="center" valign="middle">
 
-<img src="anime/anime-girl-1.png" alt="Anime developer girl — hero illustration" width="300">
+<img src="anime/anime-girl-1.png" alt="Anime developer girl — pink hero portrait" width="320">
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=E1IJIMA&style=for-the-badge&color=ff69b4&label=♡+PROFILE+VIEWS" alt="Profile views counter">
+<img src="https://komarev.com/ghpvc/?username=E1IJIMA&style=for-the-badge&color=ff69b4&label=%E2%99%A1+PROFILE+VIEWS" alt="Profile views counter">
 
 </td>
-<td width="58%" valign="middle">
+<td width="54%" valign="middle">
 
-<h2>Welcome to my little digital universe ✦</h2>
+# 🌸 H I · I ' M · E I J I M A !
 
-<p>
-  I'm <b>EIJIMA</b> — a developer persona who loves the intersection of
-  <b>technology, anime aesthetics, community vibes, and tiny details</b>.
-</p>
+### `cute_developer.exe` is online ♡
 
-<p>
-  My dream is simple: make useful things, make them feel polished,
-  and add just enough sparkle that people remember them. ✨
-</p>
+> A pink-anime developer profile built around **code, creativity, community, and tiny details that make interfaces feel alive.**
 
-<p>
-  <b>Current mood:</b><br>
-  🎧 coding → 💻 customizing → 💬 Discord → 🌸 repeat
-</p>
+<table>
+<tr><td>🎀 MODE</td><td><b>PINK ANIME</b></td></tr>
+<tr><td>💻 FOCUS</td><td><b>WEB • UI • AUTOMATION</b></td></tr>
+<tr><td>🎧 HANGOUT</td><td><b>DISCORD</b></td></tr>
+<tr><td>🌷 VIBE</td><td><b>SOFT • CURIOUS • CREATIVE</b></td></tr>
+<tr><td>✨ MISSION</td><td><b>MAKE USEFUL THINGS PRETTIER</b></td></tr>
+</table>
 
 <p>
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-ff69b4?style=flat-square&logo=statuspal&logoColor=white" alt="Status online">
-  <img src="https://img.shields.io/badge/MOOD-✨_sparkly-d96ba4?style=flat-square" alt="Sparkly mood">
-  <img src="https://img.shields.io/badge/COFFEE-%E2%98%95%20x3-b56acb?style=flat-square" alt="Coffee x3">
+  <img src="https://img.shields.io/badge/ONLINE-FF69B4?style=for-the-badge&logo=statuspal&logoColor=white" alt="Online status">
+  <img src="https://img.shields.io/badge/DISCORD-HQ-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord HQ">
+  <img src="https://img.shields.io/badge/SPARKLE-100%25-D96BA4?style=for-the-badge" alt="Sparkle mode">
 </p>
 
 </td>
@@ -69,8 +48,24 @@
 </table>
 
 <p align="center">
-  <img src="assets/pink-sparkle-divider.svg" alt="Pink sparkle divider" width="100%">
+  <img src="assets/pink-capsule.svg" alt="Animated pink capsule divider" width="96%">
 </p>
+
+<div align="center">
+
+### ✦ `profile --status`
+
+<img src="https://img.shields.io/badge/STATUS-READY%20TO%20CREATE-ff69b4?style=flat-square&logo=github&logoColor=white" alt="Ready to create">
+<img src="https://img.shields.io/badge/HEART-OPEN-ff8fb8?style=flat-square" alt="Heart open">
+<img src="https://img.shields.io/badge/DISCORD-ONLINE-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord online">
+<img src="https://img.shields.io/badge/COFFEE-%E2%98%95%E2%98%95%E2%98%95-d96ba4?style=flat-square" alt="Three coffees">
+
+<br>
+<sub>♡ かわいいコード / kawaii code • ✦ pastel pixels • 🎀 soft girl developer energy ✦ ♡</sub>
+
+</div>
+
+---
 
 ## 🎀 About Me — soft pixels, serious code
 
