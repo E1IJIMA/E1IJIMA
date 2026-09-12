@@ -16,47 +16,9 @@
 
 ## ⚔️ HUNTER DOSSIER
 
-<table>
-<tr>
-<td width="52%" valign="top">
-
-### GUILD ARCHIVE
-
-| Record | Status |
-|---|---|
-| **Name** | EIJIMA |
-| **Title** | THE ABYSSAL GOBLIN HUNTER |
-| **Guild** | ORDER OF THE BLACK IRON |
-| **Main Class** | ABYSS HUNTER |
-| **Secondary** | DARK CODE KNIGHT |
-| **Race** | HUMAN |
-| **Rank** | SILVER |
-| **Threat Level** | CATASTROPHIC |
-| **Status** | ACTIVE |
-| **Territory** | THE FALLEN DIGITAL REALM |
-| **Main Weapon** | BLACK IRON SWORD |
-| **Secondary** | DAGGER · BOW · FIRE BOMB |
-| **Digital Weapon** | SOURCE CODE |
-| **Armor** | ASHEN VANGUARD PLATE |
-
-</td>
-<td width="48%" valign="top">
-
-### FIELD RECORD
-
-EIJIMA walks through ruined kingdoms and digital dungeons where broken systems become labyrinths and error logs become tracks.
-
-He hunts hostile logic, buried defects, unstable builds and monsters born from bad assumptions. Glory is optional. The hunt is not.
-
-**Doctrine**  
-Silent · Precise · Relentless
-
-**Current Mission**  
-Purge every bug from the repository.
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="./assets/dossier-panel.svg" width="100%" alt="EIJIMA hunter dossier and field record panel" />
+</div>
 
 > 🜏 **FANTASY PROFILE NOTICE** — every rank, statistic, quest, honor and lore entry below is fictional profile decoration. It is not a real certification, organization ranking or game credential.
 
@@ -65,15 +27,7 @@ Purge every bug from the repository.
 ## 🛡️ ADVENTURER RANK ARCHIVE
 
 <div align="center">
-
-`PORCELAIN` → `OBSIDIAN` → `STEEL` → `SAPPHIRE` → `EMERALD` → `RUBY` → `BRONZE` → **`SILVER`** → `GOLD` → `PLATINUM` → `ABYSSAL` → `MYTHIC`
-
-### SILVER → GOLD
-
-**████████████████░░░░ 80%**
-
-**SILVER RANK — ASCENSION IN PROGRESS**
-
+<img src="./assets/rank-panel.svg" width="100%" alt="EIJIMA adventurer rank archive and silver to gold progression" />
 </div>
 
 <details>
@@ -100,36 +54,22 @@ Purge every bug from the repository.
 
 ## ☠️ HUNTER ATTRIBUTES
 
-| Attribute | Rating | Hunt Gauge |
-|---|---:|---|
-| ⚔️ Strength | **92/100** | `██████████████████░░` |
-| 🛡️ Endurance | **97/100** | `███████████████████░` |
-| 📜 Intelligence | **88/100** | `█████████████████░░░` |
-| 🗡️ Agility | **84/100** | `████████████████░░░░` |
-| 👁️ Perception | **95/100** | `███████████████████░` |
-| 💻 Code Mastery | **90/100** | `██████████████████░░` |
-| 🕯️ Dungeon Survival | **99/100** | `███████████████████░` |
-| ☠️ Threat Analysis | **100/100** | `████████████████████` |
-| 🕊️ Mercy | **03/100** | `█░░░░░░░░░░░░░░░░░░░` |
-| 🔥 Determination | **MAX** | `████████████████████` |
+<div align="center">
+<img src="./assets/attributes-panel.svg" width="100%" alt="EIJIMA hunter RPG attributes and animated combat gauges" />
+</div>
 
 ---
 
 ## 🗡️ ARSENAL & TECH STACK
 
-> **SIMULATED LOADOUT:** the technology list is illustrative. Remove or add entries later to match confirmed skills.
-
 <div align="center">
-
-`HTML` · `CSS` · `JAVASCRIPT` · `TYPESCRIPT` · `REACT`  
-`NODE.JS` · `PYTHON` · `JAVA` · `C++`  
-`MYSQL` · `POSTGRESQL` · `DOCKER`  
-`GIT` · `GITHUB` · `LINUX` · `VS CODE` · `GITHUB ACTIONS`
-
+<img src="./assets/arsenal-panel.svg" width="100%" alt="EIJIMA dark fantasy technology arsenal" />
 </div>
 
 <details>
 <summary><b>OPEN THE ARMORY</b></summary>
+
+> **SIMULATED LOADOUT:** the technology list is illustrative. Remove or add entries later to match confirmed skills.
 
 **Weapons of Code** — Git · GitHub · Linux · VS Code  
 **Frontend Arsenal** — HTML · CSS · JavaScript · TypeScript · React  
@@ -143,40 +83,24 @@ Purge every bug from the repository.
 
 ## 📜 ACTIVE QUEST LOG
 
-| State | Quest | Difficulty |
-|:---:|---|:---:|
-| ✅ | Enter the Forgotten Repository | D |
-| ✅ | Eliminate the First Bug Horde | C |
-| ✅ | Forge the Black Iron README | B |
-| ✅ | Survive the Merge Conflict | A |
-| ⬜ | Conquer the Endless Dungeon | S |
-| ⬜ | Ascend from Silver to Gold | A |
-| ⬜ | Defeat the Ancient Production Bug | S |
-| ⬜ | Restore the Fallen Kingdom | EX |
-
-`D` Repository Setup · `C` Frontend · `B` API Integration · `A` Architecture · `S` Production · `EX` No Documentation
+<div align="center">
+<img src="./assets/quest-panel.svg" width="100%" alt="EIJIMA active quest log guild board" />
+</div>
 
 ---
 
 ## 🏅 BATTLE HONORS
 
 <div align="center">
-
-`◆ FIRST BLOOD`  `◆ DUNGEON SURVIVOR`  `◆ BUG EXTERMINATOR`  
-`◆ MERGE CONFLICT VETERAN`  `◆ KEEPER OF MAIN`  `◆ GUARDIAN OF PRODUCTION`
-
+<img src="./assets/honors-panel.svg" width="100%" alt="EIJIMA battle honors sealed records" />
 </div>
-
-> Decorative profile honors only — not real awards or certifications.
 
 ---
 
 ## 🔥 WAR RECORDS
 
 <div align="center">
-
 <img src="./assets/war-records.svg" width="100%" alt="EIJIMA animated war records panel" />
-
 </div>
 
 ## 🔥 SURVIVAL STREAK
