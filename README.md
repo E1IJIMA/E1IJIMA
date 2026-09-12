@@ -1,54 +1,75 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="E1IJIMA pink anime profile banner" />
+<img src="./assets/profile-banner.svg" width="100%" alt="E1IJIMA pink magical developer banner" />
+
+<br/>
+
+<img src="./assets/pink-mascot.svg" width="360" alt="Animated pink magical mascot" />
 
 # E1IJIMA ♡
 
-### `DEVELOPER` · `CREATOR` · `DREAMER`
+### `DEVELOPER` · `CREATOR` · `DREAMER` · `PINK MAGIC ENGINEER`
 
 <p>
-<img src="https://img.shields.io/badge/♡_CUTE_BUILDING-ff78ad?style=for-the-badge" alt="cute building" />
+<img src="https://img.shields.io/badge/♡_PINK_MODE-ff5fa2?style=for-the-badge" alt="pink mode" />
+<img src="https://img.shields.io/badge/✦_CUTE_BUILDING-ff86bd?style=for-the-badge" alt="cute building" />
 <img src="https://img.shields.io/badge/♡_SOFT_UI-cb9aff?style=for-the-badge" alt="soft ui" />
-<img src="https://img.shields.io/badge/♡_GOOD_VIBES-ffa8c8?style=for-the-badge" alt="good vibes" />
+<img src="https://img.shields.io/badge/✧_GOOD_VIBES-ffa8c8?style=for-the-badge" alt="good vibes" />
 </p>
 
-**A tiny pink corner where code, ideas, and cute details live together.** ✨
+> 🌸 **A tiny pink universe where code, ideas, and cute details grow together.** ✨
 
 </div>
 
+---
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
-## 🌸 `ABOUT ME`
+## 🎀 `ABOUT ME`
 
-> **Hello! I make useful things a little softer, prettier, and more fun.**
+> **Hello! I make useful things softer, prettier, smarter, and more fun.**
 
-I enjoy building web projects, small tools, automations, experiments, and interfaces. I like clean code, cozy visuals, and the tiny details that make a project feel special.
+I enjoy building web projects, small tools, automations, experiments, and interfaces. I like clean code, cozy visuals, playful motion, and the tiny details that make a project feel special.
 
 ```text
 ♡ name      :: E1IJIMA
 ♡ vibe      :: pink / cozy / curious
+♡ mode      :: magical girl developer
 ♡ focus     :: web / UI / automation / AI
-♡ workflow  :: idea → build → polish → share
+♡ workflow  :: idea → build → polish → sparkle
 ♡ mission   :: make useful things delightful
 ```
 
-### 🎀 `CURRENTLY BUILDING`
+### 🌷 `CURRENTLY BUILDING`
 
-🌷 **create** — turning little ideas into real projects  
+🌸 **create** — turning little ideas into real projects  
 🫧 **explore** — trying new tools and workflows  
 🎀 **design** — making interfaces warmer and friendlier  
-✨ **polish** — adding the details people remember
+✨ **polish** — adding the details people remember  
+💗 **animate** — giving static pages a little heartbeat
 
 </td>
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
 <img src="./assets/terminal.svg" width="100%" alt="Cute pink terminal" />
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+## 💞 `PINK ENERGY STATUS`
+
+**COZY UI** ━━━━━━━━━━ ♥︎ ♥︎ ♥︎ ♥︎ ♥︎  `100%`
+
+**CREATIVITY** ━━━━━━━━ ✦ ✦ ✦ ✦ ✦  `MAX`
+
+**CURIOSITY** ━━━━━━━━━ ✧ ✧ ✧ ✧ ✧  `ONLINE`
+
+</div>
 
 ---
 
@@ -115,6 +136,7 @@ I enjoy building web projects, small tools, automations, experiments, and interf
 ♡ tiny experiments
 ♡ improving old ideas
 ♡ collecting inspiration
+♡ making code feel alive
 ```
 
 </td>
@@ -124,7 +146,8 @@ I enjoy building web projects, small tools, automations, experiments, and interf
 
 > Build something useful.  
 > Make it easy to understand.  
-> Make it nice to use.  
+> Make it lovely to use.  
+> Give it a little motion.  
 > Add a little sparkle. ✨
 
 </td>
@@ -135,14 +158,14 @@ I enjoy building web projects, small tools, automations, experiments, and interf
 
 <div align="center">
 
-### 🌸 `KEEP MAKING CUTE THINGS ♡`
+### 🌸 `WELCOME TO THE CUTE SIDE OF CODE ♡`
 
-**dream** · **create** · **improve** · **repeat**
+`♡ dream` → `✦ create` → `✧ improve` → `🎀 polish` → `✨ repeat`
 
 <p>
-<img src="https://img.shields.io/badge/♡_EXPLORE_MY_PROJECTS-ff78ad?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
+<img src="https://img.shields.io/badge/♡_EXPLORE_MY_PROJECTS-ff5fa2?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
 </p>
 
-<sub>made with curiosity, patience, and a little bit of pink ♡</sub>
+<sub>made with curiosity, patience, code, and a suspicious amount of pink ♡</sub>
 
 </div>
