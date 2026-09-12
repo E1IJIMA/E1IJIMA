@@ -1,19 +1,27 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="E1IJIMA pink anime magical developer banner" />
+<img src="./assets/profile-banner.svg" width="100%" alt="E1IJIMA pink magical girl developer banner" />
 
-### ♡ PINK MODE · CUTE CODE · BIG DREAMS ♡
+### 🎀 PINK MODE · CUTE CODE · BIG DREAMS 🎀
 
 **A little bit of code · a lot of pink magic.** ✦
 
 <p>
 <img src="https://img.shields.io/badge/soft-ff78b5?style=for-the-badge" alt="soft" />
-<img src="https://img.shields.io/badge/curious-cb9aff?style=for-the-badge" alt="curious" />
+<img src="https://img.shields.io/badge/dreamy-cb9aff?style=for-the-badge" alt="dreamy" />
 <img src="https://img.shields.io/badge/creative-ff9fc8?style=for-the-badge" alt="creative" />
-<img src="https://img.shields.io/badge/always%20improving-f36ca8?style=for-the-badge" alt="always improving" />
+<img src="https://img.shields.io/badge/pink%20mode-ef5fa5?style=for-the-badge" alt="pink mode" />
 </p>
 
 > 🌸 **Hello! I'm E1IJIMA — coding, creating, learning, and making things prettier.** 🎀
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="./assets/pink-showcase.svg" width="100%" alt="Animated pink showcase" />
 
 </div>
 
@@ -40,7 +48,8 @@ I like building web projects, small tools, automations, experiments, and friendl
 🌸 turning little ideas into real projects  
 🫧 exploring new tools and workflows  
 🎀 polishing interfaces and details  
-✨ adding tiny moments of joy
+✨ adding tiny moments of joy  
+💗 giving static pages a little heartbeat
 
 </td>
 <td width="38%" valign="top">
@@ -54,6 +63,8 @@ I like building web projects, small tools, automations, experiments, and friendl
 `CURIOUS`  ✧ ✧ ✧ ✧ ✧  `ONLINE`
 
 <br/>
+
+<img src="./assets/pink-mascot.svg" width="240" alt="Pink animated mascot" />
 
 **code with heart ♡**  
 **create with love ♡**  
