@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="E1IJIMA pink magical girl developer banner" />
+<img src="./assets/profile-banner-v2.svg" width="100%" alt="E1IJIMA pink anime developer banner" />
 
 ### 🎀 PINK MODE · CUTE CODE · BIG DREAMS 🎀
 
