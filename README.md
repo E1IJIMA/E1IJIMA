@@ -406,11 +406,25 @@ Discord is the social side of my developer life — a place to chat, share proje
 </tr>
 </table>
 
-<p align="center">
-  <img src="assets/cute-banner.svg" alt="Cute pink banner decoration" width="900">
-</p>
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+<img src="anime/anime-girl-1.png" alt="Anime girl in pink profile corner" width="220">
+</td>
+<td width="50%" align="center" valign="middle">
+<img src="anime/anime-girl-2.png" alt="Anime girl in purple profile corner" width="220">
+</td>
+</tr>
+</table>
 
 <div align="center">
+
+```text
+╭──────────────────────────────────────────────╮
+│      ✦ little pink corner / no broken img ✦  │
+│      ♡ direct repository images only ♡        │
+╰──────────────────────────────────────────────╯
+```
 
 ### ♡ Thanks for visiting my profile ♡
 
