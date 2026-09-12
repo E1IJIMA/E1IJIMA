@@ -1,23 +1,19 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="E1IJIMA pink magical developer banner" />
+<img src="./assets/profile-banner.svg" width="100%" alt="E1IJIMA pink anime magical developer banner" />
 
-<br/>
+### ♡ PINK MODE · CUTE CODE · BIG DREAMS ♡
 
-<img src="./assets/pink-mascot.svg" width="360" alt="Animated pink magical mascot" />
-
-# E1IJIMA ♡
-
-### `DEVELOPER` · `CREATOR` · `DREAMER` · `PINK MAGIC ENGINEER`
+**A little bit of code · a lot of pink magic.** ✦
 
 <p>
-<img src="https://img.shields.io/badge/♡_PINK_MODE-ff5fa2?style=for-the-badge" alt="pink mode" />
-<img src="https://img.shields.io/badge/✦_CUTE_BUILDING-ff86bd?style=for-the-badge" alt="cute building" />
-<img src="https://img.shields.io/badge/♡_SOFT_UI-cb9aff?style=for-the-badge" alt="soft ui" />
-<img src="https://img.shields.io/badge/✧_GOOD_VIBES-ffa8c8?style=for-the-badge" alt="good vibes" />
+<img src="https://img.shields.io/badge/soft-ff78b5?style=for-the-badge" alt="soft" />
+<img src="https://img.shields.io/badge/curious-cb9aff?style=for-the-badge" alt="curious" />
+<img src="https://img.shields.io/badge/creative-ff9fc8?style=for-the-badge" alt="creative" />
+<img src="https://img.shields.io/badge/always%20improving-f36ca8?style=for-the-badge" alt="always improving" />
 </p>
 
-> 🌸 **A tiny pink universe where code, ideas, and cute details grow together.** ✨
+> 🌸 **Hello! I'm E1IJIMA — coding, creating, learning, and making things prettier.** 🎀
 
 </div>
 
@@ -25,55 +21,53 @@
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="62%" valign="top">
 
 ## 🎀 `ABOUT ME`
 
-> **Hello! I make useful things softer, prettier, smarter, and more fun.**
-
-I enjoy building web projects, small tools, automations, experiments, and interfaces. I like clean code, cozy visuals, playful motion, and the tiny details that make a project feel special.
+I like building web projects, small tools, automations, experiments, and friendly interfaces. My goal is simple: **make useful things feel beautiful, warm, and memorable.**
 
 ```text
-♡ name      :: E1IJIMA
-♡ vibe      :: pink / cozy / curious
-♡ mode      :: magical girl developer
-♡ focus     :: web / UI / automation / AI
-♡ workflow  :: idea → build → polish → sparkle
-♡ mission   :: make useful things delightful
+♡ vibe       :: pink / dreamy / cozy
+♡ mode       :: magical developer
+♡ focus      :: web / UI / automation / AI
+♡ workflow   :: idea → build → learn → polish
+♡ fuel       :: coffee + music + pink energy
 ```
 
 ### 🌷 `CURRENTLY BUILDING`
 
-🌸 **create** — turning little ideas into real projects  
-🫧 **explore** — trying new tools and workflows  
-🎀 **design** — making interfaces warmer and friendlier  
-✨ **polish** — adding the details people remember  
-💗 **animate** — giving static pages a little heartbeat
+🌸 turning little ideas into real projects  
+🫧 exploring new tools and workflows  
+🎀 polishing interfaces and details  
+✨ adding tiny moments of joy
 
 </td>
-<td width="42%" valign="top">
+<td width="38%" valign="top">
 
-<img src="./assets/terminal.svg" width="100%" alt="Cute pink terminal" />
+<div align="center">
+
+### 💗 `MY ENERGY`
+
+`SOFT`  ♥ ♥ ♥ ♥ ♥  `100%`  
+`CREATIVE`  ✦ ✦ ✦ ✦ ✦  `MAX`  
+`CURIOUS`  ✧ ✧ ✧ ✧ ✧  `ONLINE`
+
+<br/>
+
+**code with heart ♡**  
+**create with love ♡**  
+**build a prettier tomorrow ✨**
+
+</div>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-## 💞 `PINK ENERGY STATUS`
-
-**COZY UI** ━━━━━━━━━━ ♥︎ ♥︎ ♥︎ ♥︎ ♥︎  `100%`
-
-**CREATIVITY** ━━━━━━━━ ✦ ✦ ✦ ✦ ✦  `MAX`
-
-**CURIOSITY** ━━━━━━━━━ ✧ ✧ ✧ ✧ ✧  `ONLINE`
-
-</div>
-
 ---
 
-## 💗 `MY LITTLE TOOLBOX`
+## 💕 `MY LITTLE TOOLBOX`
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,git,github,docker,linux,vscode,figma&perline=6" alt="Technology stack" />
@@ -89,20 +83,20 @@ I enjoy building web projects, small tools, automations, experiments, and interf
 
 <table>
 <tr>
-<td width="33%" align="center">🌸<br/><b>Creative</b><br/><sub>I like giving projects a personality.</sub></td>
+<td width="33%" align="center">🌸<br/><b>Creative</b><br/><sub>I give projects a personality.</sub></td>
 <td width="33%" align="center">🧸<br/><b>Cozy Coder</b><br/><sub>Music + coffee + code.</sub></td>
-<td width="33%" align="center">🎀<br/><b>Detail Lover</b><br/><sub>Small details make big differences.</sub></td>
+<td width="33%" align="center">🎀<br/><b>Detail Lover</b><br/><sub>Small details matter.</sub></td>
 </tr>
 <tr>
-<td width="33%" align="center">☁️<br/><b>Curious</b><br/><sub>I learn by making things.</sub></td>
-<td width="33%" align="center">💞<br/><b>Kind UX</b><br/><sub>Useful should feel lovely too.</sub></td>
-<td width="33%" align="center">🌙<br/><b>Night Owl</b><br/><sub>Some of my ideas arrive late.</sub></td>
+<td width="33%" align="center">☁️<br/><b>Curious</b><br/><sub>I learn by making.</sub></td>
+<td width="33%" align="center">💞<br/><b>Kind UX</b><br/><sub>Useful should feel lovely.</sub></td>
+<td width="33%" align="center">🌙<br/><b>Night Owl</b><br/><sub>Ideas arrive after dark.</sub></td>
 </tr>
 </table>
 
 ---
 
-## 💕 `GITHUB / LITTLE STATS`
+## 💖 `GITHUB / LITTLE STATS`
 
 <div align="center">
 <img src="./assets/stats.svg" width="100%" alt="E1IJIMA GitHub statistics" />
@@ -122,50 +116,12 @@ I enjoy building web projects, small tools, automations, experiments, and interf
 
 ---
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
-## 🐰 `LITTLE THINGS`
-
-```text
-♡ cute interfaces
-♡ useful little tools
-♡ anime-inspired visuals
-♡ learning through projects
-♡ tiny experiments
-♡ improving old ideas
-♡ collecting inspiration
-♡ making code feel alive
-```
-
-</td>
-<td width="42%" valign="top">
-
-## 🎀 `MY PHILOSOPHY`
-
-> Build something useful.  
-> Make it easy to understand.  
-> Make it lovely to use.  
-> Give it a little motion.  
-> Add a little sparkle. ✨
-
-</td>
-</tr>
-</table>
-
----
-
 <div align="center">
 
-### 🌸 `WELCOME TO THE CUTE SIDE OF CODE ♡`
+### 🌸 `A LITTLE BIT OF CODE. A LOT OF PINK MAGIC.`
 
-`♡ dream` → `✦ create` → `✧ improve` → `🎀 polish` → `✨ repeat`
+`♡ dream` → `✦ build` → `✧ learn` → `🎀 polish` → `✨ repeat`
 
-<p>
-<img src="https://img.shields.io/badge/♡_EXPLORE_MY_PROJECTS-ff5fa2?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
-</p>
-
-<sub>made with curiosity, patience, code, and a suspicious amount of pink ♡</sub>
+<sub>same girl · different dreams · prettier code ♡</sub>
 
 </div>
