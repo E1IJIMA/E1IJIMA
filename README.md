@@ -264,8 +264,25 @@ A playful productivity assistant with timers, quick notes, mood widgets, and a s
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="33%" align="center" valign="middle">
+<img src="anime/anime-girl-1.png" alt="Anime girl showcase — code mood" width="250">
+<br><sub>01 / CODE ♡</sub>
+</td>
+<td width="34%" align="center" valign="middle">
+<img src="anime/anime-girl-2.png" alt="Anime girl showcase — soft vibe" width="250">
+<br><sub>02 / VIBE ✦</sub>
+</td>
+<td width="33%" align="center" valign="middle">
+<img src="anime/anime-girl-3.png" alt="Anime girl showcase — magic mood" width="250">
+<br><sub>03 / MAGIC 🌸</sub>
+</td>
+</tr>
+</table>
+
 <p align="center">
-  <img src="assets/pink-showcase.svg" alt="Pink showcase decoration" width="920">
+  <img src="assets/pink-sparkle-divider.svg" alt="Pink sparkle showcase divider" width="920">
 </p>
 
 > 🌸 **Project note:** these are intentionally simulated showcase concepts, created to give the profile the polished “developer portfolio” feel you asked for. They are not presented as existing public repositories.
