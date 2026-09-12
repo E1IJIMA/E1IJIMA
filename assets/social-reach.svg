@@ -1,60 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
-<title id="title">EIJIMA simulated social following</title>
-<desc id="desc">Dark fantasy social media panel showing simulated follower counts for GitHub, Telegram and VK.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+<title id="title">EIJIMA social reach</title>
+<desc id="desc">Dark GitHub profile social reach panel for GitHub, Telegram and VK.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07090d"/><stop offset=".48" stop-color="#0d1117"/><stop offset="1" stop-color="#14070a"/></linearGradient>
-  <radialGradient id="mist"><stop stop-color="#8b0000" stop-opacity=".20"/><stop offset="1" stop-color="#8b0000" stop-opacity="0"/></radialGradient>
-  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#07090d"/>
+    <stop offset="0.52" stop-color="#0d1117"/>
+    <stop offset="1" stop-color="#12070a"/>
+  </linearGradient>
+  <radialGradient id="halo">
+    <stop offset="0" stop-color="#8b0000" stop-opacity=".28"/>
+    <stop offset="1" stop-color="#8b0000" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="4" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="soft">
+    <feGaussianBlur stdDeviation="12"/>
+  </filter>
 </defs>
-<rect x="14" y="8" width="1172" height="214" rx="22" fill="url(#bg)" stroke="#8B0000" stroke-opacity=".72" stroke-width="2"/>
-<circle cx="200" cy="120" r="135" fill="url(#mist)"/>
-<circle cx="1000" cy="125" r="155" fill="url(#mist)"/>
-<path d="M48 42H1152" stroke="#1A1A1A" stroke-width="2"/>
-<text x="600" y="34" text-anchor="middle" fill="#A9A9A9" font-family="monospace" font-size="12" letter-spacing="5">THE HUNTER'S SOCIAL REACH</text>
-<path d="M90 46H1110" stroke="#8B0000" stroke-opacity=".26"/>
 
-<!-- GitHub -->
-<g transform="translate(250 116)">
-  <circle r="42" fill="#0B0F14" stroke="#696969" stroke-width="2"/>
-  <!-- GitHub Mark -->
-  <path d="M-20 10c-12-9-14-26-5-38 8-10 22-13 33-8 12-5 26-2 34 8 9 12 7 29-5 38-6 5-10 9-10 16 0 5-4 8-9 8h-1c-4 0-8-3-8-8v-8h-2v8c0 5-4 8-8 8h-1c-5 0-9-3-9-8 0-7-4-11-10-16z" fill="#E8E1D5"/>
-  <path d="M-8-1c5-3 11-3 16 0M-15 6c4 1 7 4 9 8M15 6c-4 1-7 4-9 8" fill="none" stroke="#0B0F14" stroke-width="3" stroke-linecap="round"/>
-  <text x="0" y="75" text-anchor="middle" fill="#E8E1D5" font-family="monospace" font-size="16" font-weight="700" letter-spacing="2">GITHUB</text>
-  <text x="0" y="101" text-anchor="middle" fill="#DC143C" font-family="monospace" font-size="28" font-weight="700" filter="url(#glow)">25,820</text>
-  <text x="0" y="121" text-anchor="middle" fill="#A9A9A9" font-family="monospace" font-size="10" letter-spacing="3">FOLLOWERS</text>
+<rect x="12" y="10" width="1176" height="230" rx="24" fill="url(#bg)" stroke="#343943" stroke-width="2"/>
+<ellipse cx="600" cy="125" rx="420" ry="105" fill="url(#halo)" opacity=".45" filter="url(#soft)"/>
+
+<text x="600" y="38" text-anchor="middle" fill="#E8E1D5" font-family="monospace" font-size="13" font-weight="700" letter-spacing="5">THE HUNTER'S SOCIAL REACH</text>
+<path d="M90 52H1110" stroke="#1A1A1A" stroke-width="2"/>
+
+<!-- card 1 -->
+<g transform="translate(95 70)">
+  <rect x="0" y="0" width="300" height="142" rx="18" fill="#0B0F14" stroke="#242A33" stroke-width="2"/>
+  <circle cx="150" cy="38" r="27" fill="#11161D" stroke="#59616B" stroke-width="2"/>
+  <!-- GitHub mark -->
+  <path d="M150 18c-14 0-25 11-25 25 0 11 7 20 17 23 1 0 2-1 2-2v-6c-7 2-9-3-9-3-1-3-3-4-3-4-2-1 0-1 0-1 3 0 4 3 4 3 2 4 6 3 8 2 0-2 1-3 2-4-6-1-12-3-12-13 0-3 1-5 3-7 0-1-1-3 0-6 0 0 2-1 7 3 2-1 5-1 7-1s5 0 7 1c5-4 7-3 7-3 1 3 0 5 0 6 2 2 3 4 3 7 0 10-6 12-12 13 1 1 2 2 2 5v6c0 1 1 2 2 2 10-3 17-12 17-23 0-14-11-25-25-25z" fill="#E8E1D5"/>
+  <text x="150" y="88" text-anchor="middle" fill="#E8E1D5" font-family="monospace" font-size="16" font-weight="700" letter-spacing="2">GITHUB</text>
+  <text x="150" y="116" text-anchor="middle" fill="#DC143C" font-family="monospace" font-size="27" font-weight="800" filter="url(#glow)">25,820</text>
+  <text x="150" y="136" text-anchor="middle" fill="#8B9199" font-family="monospace" font-size="9" letter-spacing="3">FOLLOWERS</text>
 </g>
 
-<path d="M600 65V193" stroke="#1A1A1A"/>
-
-<!-- Telegram -->
-<g transform="translate(600 116)">
-  <circle r="42" fill="#0B0F14" stroke="#696969" stroke-width="2"/>
+<!-- card 2 -->
+<g transform="translate(450 70)">
+  <rect x="0" y="0" width="300" height="142" rx="18" fill="#0B0F14" stroke="#242A33" stroke-width="2"/>
+  <circle cx="150" cy="38" r="27" fill="#11161D" stroke="#59616B" stroke-width="2"/>
   <!-- Telegram mark -->
-  <path d="M-23 1L24-18 11 25 1 12-10 21-8 6Z" fill="#E8E1D5" stroke="#E8E1D5" stroke-width="2" stroke-linejoin="round"/>
-  <path d="M-8 6L11-8 2 10" fill="none" stroke="#0B0F14" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="0" y="75" text-anchor="middle" fill="#E8E1D5" font-family="monospace" font-size="16" font-weight="700" letter-spacing="2">TELEGRAM</text>
-  <text x="0" y="101" text-anchor="middle" fill="#DC143C" font-family="monospace" font-size="28" font-weight="700" filter="url(#glow)">32,541</text>
-  <text x="0" y="121" text-anchor="middle" fill="#A9A9A9" font-family="monospace" font-size="10" letter-spacing="3">FOLLOWING</text>
+  <path d="M129 40l43-17-12 42-11-13-10 8 2-17z" fill="#E8E1D5"/>
+  <path d="M140 43l20-13-8 14-8 7" fill="none" stroke="#0B0F14" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="150" y="88" text-anchor="middle" fill="#E8E1D5" font-family="monospace" font-size="16" font-weight="700" letter-spacing="2">TELEGRAM</text>
+  <text x="150" y="116" text-anchor="middle" fill="#DC143C" font-family="monospace" font-size="27" font-weight="800" filter="url(#glow)">32,541</text>
+  <text x="150" y="136" text-anchor="middle" fill="#8B9199" font-family="monospace" font-size="9" letter-spacing="3">FOLLOWING</text>
 </g>
 
-<path d="M950 65V193" stroke="#1A1A1A"/>
-
-<!-- VK -->
-<g transform="translate(950 116)">
-  <circle r="42" fill="#0B0F14" stroke="#696969" stroke-width="2"/>
+<!-- card 3 -->
+<g transform="translate(805 70)">
+  <rect x="0" y="0" width="300" height="142" rx="18" fill="#0B0F14" stroke="#242A33" stroke-width="2"/>
+  <circle cx="150" cy="38" r="27" fill="#11161D" stroke="#59616B" stroke-width="2"/>
   <!-- VK mark -->
-  <text x="0" y="12" text-anchor="middle" fill="#E8E1D5" font-family="Arial, sans-serif" font-size="30" font-weight="900">vk</text>
-  <text x="0" y="75" text-anchor="middle" fill="#E8E1D5" font-family="monospace" font-size="16" font-weight="700" letter-spacing="2">VK</text>
-  <text x="0" y="101" text-anchor="middle" fill="#DC143C" font-family="monospace" font-size="28" font-weight="700" filter="url(#glow)">36,894</text>
-  <text x="0" y="121" text-anchor="middle" fill="#A9A9A9" font-family="monospace" font-size="10" letter-spacing="3">FOLLOWERS</text>
+  <text x="150" y="48" text-anchor="middle" fill="#E8E1D5" font-family="Arial, sans-serif" font-size="27" font-weight="900">vk</text>
+  <text x="150" y="88" text-anchor="middle" fill="#E8E1D5" font-family="monospace" font-size="16" font-weight="700" letter-spacing="2">VK</text>
+  <text x="150" y="116" text-anchor="middle" fill="#DC143C" font-family="monospace" font-size="27" font-weight="800" filter="url(#glow)">36,894</text>
+  <text x="150" y="136" text-anchor="middle" fill="#8B9199" font-family="monospace" font-size="9" letter-spacing="3">FOLLOWERS</text>
 </g>
 
-<!-- ambient scan / ember effects -->
-<path d="M48 196H1152" stroke="#1A1A1A" stroke-width="2"/>
+<!-- ambient effects -->
 <g fill="#DC143C" filter="url(#glow)">
-  <circle cx="80" cy="62" r="2"><animate attributeName="opacity" values=".15;1;.15" dur="2.8s" repeatCount="indefinite"/></circle>
-  <circle cx="1120" cy="182" r="2"><animate attributeName="opacity" values="1;.15;1" dur="3.4s" repeatCount="indefinite"/></circle>
-  <circle cx="420" cy="52" r="1.5"><animate attributeName="cy" values="52;190;52" dur="6s" repeatCount="indefinite"/></circle>
-  <circle cx="780" cy="190" r="1.5"><animate attributeName="cy" values="190;52;190" dur="7s" repeatCount="indefinite"/></circle>
+  <circle cx="54" cy="72" r="1.5"><animate attributeName="opacity" values=".15;1;.15" dur="2.4s" repeatCount="indefinite"/></circle>
+  <circle cx="1146" cy="76" r="1.5"><animate attributeName="opacity" values="1;.1;1" dur="3.1s" repeatCount="indefinite"/></circle>
+  <circle cx="420" cy="226" r="1.5"><animate attributeName="cy" values="226;54;226" dur="6.5s" repeatCount="indefinite"/></circle>
+  <circle cx="780" cy="54" r="1.5"><animate attributeName="cy" values="54;226;54" dur="7.2s" repeatCount="indefinite"/></circle>
 </g>
+
+<path d="M80 225H1120" stroke="#8B0000" stroke-opacity=".45"/>
 </svg>
