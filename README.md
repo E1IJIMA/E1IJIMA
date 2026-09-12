@@ -279,20 +279,16 @@ A playful productivity assistant with timers, quick notes, mood widgets, and a s
 </p>
 
 <p align="center">
-  <a href="https://github.com/E1IJIMA">
-    <img src="https://github-readme-stats.vercel.app/api?username=E1IJIMA&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&bg_color=fff5fa&title_color=ff69b4&text_color=6f6172&icon_color=d96ba4&custom_title=EIJIMA%27s%20Pink%20GitHub%20Stats" alt="EIJIMA GitHub statistics" height="190">
-  </a>
-  <a href="https://github.com/E1IJIMA">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E1IJIMA&layout=compact&hide_border=true&langs_count=7&bg_color=fff5fa&title_color=ff69b4&text_color=6f6172&icon_color=d96ba4&custom_title=My%20Favorite%20Code%20Flavors" alt="EIJIMA top languages" height="190">
-  </a>
+  <img src="assets/github-stats-fallback.svg" alt="Pink GitHub statistics card" width="440">
+  <img src="assets/github-languages-fallback.svg" alt="Pink top languages card" width="440">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=E1IJIMA&hide_border=true&background=fff5fa&ring=ff69b4&fire=ff8cc8&currStreakLabel=d96ba4&sideLabels=6f6172&currStreakNum=6f6172&sideNums=6f6172&dates=9f8e98" alt="EIJIMA GitHub contribution streak">
+  <img src="https://streak-stats.demolab.com?user=E1IJIMA&hide_border=true&background=fff5fa&ring=ff69b4&fire=ff8cc8&currStreakLabel=d96ba4&sideLabels=6f6172&currStreakNum=6f6172&sideNums=6f6172&dates=9f8e98" alt="E1IJIMA GitHub contribution streak">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=E1IJIMA&theme=flat&no-frame=true&margin-w=10&margin-h=8&row=1&column=5&title=Stars,Followers,Commits,Repositories,PullRequest" alt="EIJIMA GitHub profile trophies">
+  <img src="assets/github-trophy-fallback.svg" alt="Pink GitHub profile trophies" width="900">
 </p>
 
 ---
@@ -300,9 +296,7 @@ A playful productivity assistant with timers, quick notes, mood widgets, and a s
 ## ✨ Activity Room — pixels in motion
 
 <p align="center">
-  <a href="https://github-readme-activity-graph.vercel.app/graph?username=E1IJIMA">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=E1IJIMA&bg_color=fff5fa&color=d96ba4&line=ff69b4&point=b56acb&area=true&area_color=ffd7ea&hide_border=true&custom_title=EIJIMA%20Activity%20Graph" alt="EIJIMA GitHub activity graph" width="900">
-  </a>
+  <img src="assets/github-activity-fallback.svg" alt="Pink GitHub activity graph" width="900">
 </p>
 
 <p align="center">
