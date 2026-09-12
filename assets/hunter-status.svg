@@ -1,1 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" role="img" aria-labelledby="t d"><title id="t">EIJIMA Hunter Status</title><desc id="d">Animated hunter status messages.</desc><rect width="1200" height="110" rx="16" fill="#050505" stroke="#8b0000" stroke-opacity=".6"/><g font-family="monospace" text-anchor="middle" font-size="22" font-weight="700" fill="#dc143c"><text x="600" y="58">EIJIMA — THE ABYSSAL GOBLIN HUNTER</text><text x="600" y="58" opacity="0">NO QUEST IS TOO DARK<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.16;.30;.46" dur="13s" repeatCount="indefinite"/></text><text x="600" y="58" opacity="0">NO DUNGEON IS TOO DEEP<animate attributeName="opacity" values="0;1;1;0" keyTimes=".16;.32;.46;.62" dur="13s" repeatCount="indefinite"/></text><text x="600" y="58" opacity="0">NO BUG SHALL SURVIVE<animate attributeName="opacity" values="0;1;1;0" keyTimes=".32;.48;.62;.78" dur="13s" repeatCount="indefinite"/></text><text x="600" y="58" opacity="0">THE HUNT NEVER ENDS<animate attributeName="opacity" values="0;1;1;0" keyTimes=".48;.64;.78;.95" dur="13s" repeatCount="indefinite"/></text></g><path d="M150 82H1050" stroke="#1a1a1a" stroke-width="6"/><path d="M150 82H1050" stroke="#dc143c" stroke-width="2" stroke-dasharray="20 34"><animate attributeName="stroke-dashoffset" values="0;-216" dur="2s" repeatCount="indefinite"/></path></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" role="img" aria-labelledby="t d">
+<title id="t">EIJIMA Hunter Status</title>
+<desc id="d">Animated hunter status messages without overlapping text.</desc>
+<rect width="1200" height="110" rx="16" fill="#050505" stroke="#8b0000" stroke-opacity=".6"/>
+<g font-family="monospace" text-anchor="middle" font-size="22" font-weight="700" fill="#dc143c">
+  <text x="600" y="58">EIJIMA — THE ABYSSAL GOBLIN HUNTER">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.19;.20;1" dur="15s" repeatCount="indefinite"/>
+  </text>
+  <text x="600" y="58" opacity="0">NO QUEST IS TOO DARK
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.20;.39;.40" dur="15s" repeatCount="indefinite"/>
+  </text>
+  <text x="600" y="58" opacity="0">NO DUNGEON IS TOO DEEP
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes=".40;.40;.59;.60" dur="15s" repeatCount="indefinite"/>
+  </text>
+  <text x="600" y="58" opacity="0">NO BUG SHALL SURVIVE
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes=".60;.60;.79;.80" dur="15s" repeatCount="indefinite"/>
+  </text>
+  <text x="600" y="58" opacity="0">THE HUNT NEVER ENDS
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes=".80;.80;.99;1" dur="15s" repeatCount="indefinite"/>
+  </text>
+</g>
+<path d="M150 82H1050" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M150 82H1050" stroke="#dc143c" stroke-width="2" stroke-dasharray="20 34">
+  <animate attributeName="stroke-dashoffset" values="0;-216" dur="2s" repeatCount="indefinite"/>
+</path>
+</svg>
