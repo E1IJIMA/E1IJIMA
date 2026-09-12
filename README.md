@@ -58,69 +58,14 @@
 
 ## SUPPORTED BY
 
-<table width="100%" bgcolor="#0D1117"><tr><td>
-
 <div align="center">
 
-### LANGUAGES
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="44" height="44" alt="Python" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="44" height="44" alt="TypeScript" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="44" height="44" alt="C++" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="44" height="44" alt="C#" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="44" height="44" alt="Go" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-plain.svg" width="44" height="44" alt="Rust" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="44" height="44" alt="PHP" />
-
-### FRONTEND
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="44" height="44" alt="HTML5" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="44" height="44" alt="CSS3" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="44" height="44" alt="React" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="44" height="44" alt="Next.js" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="44" height="44" alt="Vue.js" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="44" height="44" alt="Angular" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="44" height="44" alt="Tailwind CSS" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="44" height="44" alt="Vite" />
-
-### BACKEND
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="44" height="44" alt="Node.js" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="44" height="44" alt="Express" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="44" height="44" alt="NestJS" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="44" height="44" alt="Django" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="44" height="44" alt="FastAPI" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="44" height="44" alt="Spring" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="44" height="44" alt=".NET" />
-
-### DATA & STORAGE
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="44" height="44" alt="MySQL" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="44" height="44" alt="SQLite" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="44" height="44" alt="MongoDB" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="44" height="44" alt="Redis" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="44" height="44" alt="Firebase" />
-
-### CLOUD & DEVOPS
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="44" height="44" alt="Docker" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="44" height="44" alt="Kubernetes" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="44" height="44" alt="GitHub Actions" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="64" height="44" alt="AWS" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="44" height="44" alt="Azure" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="44" height="44" alt="Nginx" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="44" height="44" alt="Linux" />
-
-### TOOLS & PLATFORMS
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="44" height="44" alt="Git" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="44" height="44" alt="GitHub" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="44" height="44" alt="GitLab" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="44" height="44" alt="VS Code" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="44" height="44" alt="Postman" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="44" height="44" alt="Figma" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="44" height="44" alt="Bash" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="44" height="44" alt="GraphQL" />
+| LANGUAGES | FRONTEND | BACKEND |
+|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" alt="Python" /><br>Python &nbsp; Java &nbsp; C &nbsp; C++ &nbsp; C#<br>JavaScript &nbsp; TypeScript &nbsp; Go &nbsp; Rust &nbsp; PHP | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" alt="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" alt="React" /><br>HTML · CSS · React · Next.js<br>Vue · Angular · Tailwind · Vite | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" alt="Node.js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="42" alt="Express" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="42" alt="NestJS" /><br>Node.js · Express · NestJS<br>Django · FastAPI · Spring · .NET |
+| **DATA & STORAGE**<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42" alt="MySQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL" /><br>MySQL · PostgreSQL · SQLite<br>MongoDB · Redis · Firebase | **CLOUD & DEVOPS**<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" alt="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="42" alt="Kubernetes" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="42" alt="GitHub Actions" /><br>Docker · Kubernetes · GitHub Actions<br>AWS · Azure · Nginx · Linux | **TOOLS & PLATFORMS**<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" alt="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" alt="GitHub" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42" alt="VS Code" /><br>Git · GitHub · GitLab · VS Code<br>Postman · Figma · Bash · REST · GraphQL |
 
 </div>
-
-</td></tr></table>
 
 ---
 
