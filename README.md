@@ -40,7 +40,7 @@
 
 </td><td width="38%" align="center">
 
-<img src="./assets/kawaii-girl.svg" width="330" alt="Cute pink anime developer girl illustration" />
+<img src="./assets/kawaii-girl-v2.svg" width="330" alt="Polished pastel pink anime developer character illustration" />
 
 </td></tr></table>
 
