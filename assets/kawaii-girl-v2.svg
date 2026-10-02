@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 520" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="title desc">
+<title id="title">EIJIMA kawaii anime developer character</title>
+<desc id="desc">A polished pastel pink anime character with long flowing hair, glossy eyes, ribbons, a frilly outfit and sparkling hearts.</desc>
+<defs>
+  <linearGradient id="hair" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#ffd8e8"/><stop offset="55%" stop-color="#ff9fc4"/><stop offset="100%" stop-color="#ef6fa6"/></linearGradient>
+  <linearGradient id="hair2" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#fff1f7"/><stop offset="100%" stop-color="#ffb6d2"/></linearGradient>
+  <linearGradient id="dress" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#fff"/><stop offset="100%" stop-color="#ffd8e9"/></linearGradient>
+  <linearGradient id="ribbon" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#ff86b5"/><stop offset="100%" stop-color="#e75195"/></linearGradient>
+  <radialGradient id="aura"><stop offset="0%" stop-color="#ffd6e8" stop-opacity=".9"/><stop offset="70%" stop-color="#ffb7d5" stop-opacity=".32"/><stop offset="100%" stop-color="#ffb7d5" stop-opacity="0"/></radialGradient>
+  <linearGradient id="eye" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff96bf"/><stop offset="100%" stop-color="#d94f93"/></linearGradient>
+  <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%"><feDropShadow dx="0" dy="8" stdDeviation="9" flood-color="#ca6c94" flood-opacity=".18"/></filter>
+  <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="3"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+
+<!-- aura + sparkles -->
+<ellipse cx="210" cy="268" rx="184" ry="214" fill="url(#aura)"/>
+<g fill="#fff" stroke="#ff6fae" stroke-width="1.2" filter="url(#glow)">
+  <path d="M48 108 l3 9 9 3-9 3-3 9-3-9-9-3 9-3z"><animate attributeName="opacity" values=".2;1;.2" dur="2.2s" repeatCount="indefinite"/></path>
+  <path d="M353 90 l2 7 7 2-7 2-2 7-2-7-7-2 7-2z"><animate attributeName="opacity" values=".2;1;.2" dur="1.8s" begin="-.6s" repeatCount="indefinite"/></path>
+  <path d="M366 346 l2 7 7 2-7 2-2 7-2-7-7-2 7-2z"><animate attributeName="opacity" values=".15;1;.15" dur="2.4s" begin="-1.2s" repeatCount="indefinite"/></path>
+  <path d="M55 378 l2 7 7 2-7 2-2 7-2-7-7-2 7-2z"><animate attributeName="opacity" values=".15;1;.15" dur="2.1s" begin="-.3s" repeatCount="indefinite"/></path>
+</g>
+
+<!-- flowing back hair -->
+<g filter="url(#shadow)">
+  <path d="M112 126
+           C59 168 64 254 91 316
+           C55 362 71 420 118 438
+           C134 406 148 383 162 361
+           C128 430 144 468 191 483
+           C215 452 226 416 232 383
+           C238 423 263 467 308 482
+           C337 454 338 412 318 365
+           C342 396 352 414 369 425
+           C398 371 379 319 344 284
+           C367 214 350 159 309 126
+           C259 84 156 82 112 126Z" fill="url(#hair)" stroke="#e9679f" stroke-width="3"/>
+  <path d="M109 184 C88 236 107 302 138 327" fill="none" stroke="#fff" stroke-width="9" opacity=".35" stroke-linecap="round"/>
+  <path d="M313 173 C335 232 319 288 298 320" fill="none" stroke="#fff" stroke-width="7" opacity=".32" stroke-linecap="round"/>
+  <path d="M106 336 C93 372 105 401 127 418" fill="none" stroke="#fff" stroke-width="6" opacity=".25" stroke-linecap="round"/>
+  <path d="M307 339 C325 374 323 406 307 429" fill="none" stroke="#fff" stroke-width="6" opacity=".23" stroke-linecap="round"/>
+</g>
+
+<!-- side ribbons -->
+<g fill="url(#ribbon)" stroke="#d94e90" stroke-width="2">
+  <path d="M106 160 Q64 133 48 151 Q46 179 93 182Z"/>
+  <path d="M313 156 Q351 128 371 150 Q370 178 326 183Z"/>
+  <circle cx="102" cy="170" r="9" fill="#fff0f7"/>
+  <circle cx="318" cy="168" r="9" fill="#fff0f7"/>
+</g>
+
+<!-- bunny hair clip -->
+<g transform="translate(110 124)">
+  <ellipse cx="8" cy="7" rx="8" ry="20" fill="#fff" stroke="#e46a9f" stroke-width="2" transform="rotate(-18 8 7)"/>
+  <ellipse cx="25" cy="7" rx="8" ry="20" fill="#fff" stroke="#e46a9f" stroke-width="2" transform="rotate(18 25 7)"/>
+  <circle cx="17" cy="19" r="12" fill="#ff8eb8" stroke="#df5a94" stroke-width="2"/>
+  <path d="M11 17 Q17 12 23 17" fill="none" stroke="#fff" stroke-width="2"/>
+</g>
+
+<!-- face + front hair -->
+<g filter="url(#shadow)">
+  <path d="M126 164 Q210 114 294 164 L287 239 Q276 292 210 304 Q144 292 133 239Z" fill="#fff6fa" stroke="#e776a6" stroke-width="3"/>
+  <path d="M126 188 Q128 125 210 119 Q292 125 294 188
+           C272 173 256 170 241 157
+           C226 171 210 178 194 177
+           C176 171 159 158 147 147
+           C138 160 131 175 126 188Z" fill="url(#hair2)"/>
+  <path d="M155 151 Q169 139 188 134" fill="none" stroke="#fff" stroke-width="7" opacity=".45" stroke-linecap="round"/>
+  <path d="M241 136 Q261 141 276 154" fill="none" stroke="#fff" stroke-width="7" opacity=".4" stroke-linecap="round"/>
+</g>
+
+<!-- eyes -->
+<g>
+  <ellipse cx="173" cy="213" rx="20" ry="27" fill="#fff" stroke="#df719e" stroke-width="2"/>
+  <ellipse cx="247" cy="213" rx="20" ry="27" fill="#fff" stroke="#df719e" stroke-width="2"/>
+  <ellipse cx="173" cy="217" rx="12" ry="18" fill="url(#eye)"/>
+  <ellipse cx="247" cy="217" rx="12" ry="18" fill="url(#eye)"/>
+  <circle cx="169" cy="210" r="4.5" fill="#fff"/><circle cx="243" cy="210" r="4.5" fill="#fff"/>
+  <circle cx="178" cy="225" r="2.7" fill="#fff" opacity=".65"/><circle cx="252" cy="225" r="2.7" fill="#fff" opacity=".65"/>
+  <path d="M153 192 Q173 178 193 193" fill="none" stroke="#8c536b" stroke-width="4" stroke-linecap="round"/>
+  <path d="M227 193 Q247 178 267 192" fill="none" stroke="#8c536b" stroke-width="4" stroke-linecap="round"/>
+</g>
+
+<!-- blush + mouth -->
+<ellipse cx="151" cy="238" rx="16" ry="7" fill="#ffb4cd" opacity=".52"/>
+<ellipse cx="269" cy="238" rx="16" ry="7" fill="#ffb4cd" opacity=".52"/>
+<path d="M194 245 Q210 259 226 245" fill="none" stroke="#c85d88" stroke-width="3" stroke-linecap="round"/>
+<circle cx="210" cy="233" r="3.5" fill="#ff8db7"/>
+
+<!-- neck + outfit -->
+<rect x="190" y="286" width="40" height="34" rx="16" fill="#fff4f8" stroke="#e776a6" stroke-width="2"/>
+<path d="M160 308 Q210 282 260 308 L288 410 Q256 438 210 440 Q164 438 132 410Z" fill="url(#dress)" stroke="#e56a9d" stroke-width="3"/>
+<path d="M165 318 Q210 300 255 318 L246 350 Q210 366 174 350Z" fill="#fff" stroke="#ef8db5" stroke-width="2"/>
+<!-- frills -->
+<path d="M140 366 Q157 351 174 366 Q191 351 208 366 Q225 351 242 366 Q259 351 280 366" fill="none" stroke="#ff9fc4" stroke-width="8" stroke-linecap="round"/>
+<!-- big bow -->
+<path d="M210 331 Q176 302 158 321 Q153 347 197 345Z" fill="url(#ribbon)" stroke="#d95191" stroke-width="2"/>
+<path d="M210 331 Q244 302 262 321 Q267 347 223 345Z" fill="url(#ribbon)" stroke="#d95191" stroke-width="2"/>
+<circle cx="210" cy="334" r="11" fill="#fff0f7" stroke="#d95191" stroke-width="2"/>
+<path d="M206 334 l4 5 8-9" fill="none" stroke="#e85a98" stroke-width="2.5" stroke-linecap="round"/>
+<!-- heart charm -->
+<path d="M210 362 C202 350 183 359 190 375 L210 394 L230 375 C237 359 218 350 210 362Z" fill="#ff6fae" stroke="#df4e90" stroke-width="2"/>
+<path d="M199 365 Q210 357 221 365" fill="none" stroke="#fff" stroke-width="2" opacity=".8"/>
+
+<!-- arms -->
+<path d="M157 326 Q123 351 111 386" fill="none" stroke="#fff5f9" stroke-width="24" stroke-linecap="round"/>
+<path d="M263 326 Q295 346 309 378" fill="none" stroke="#fff5f9" stroke-width="24" stroke-linecap="round"/>
+<path d="M157 326 Q123 351 111 386" fill="none" stroke="#e776a6" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M263 326 Q295 346 309 378" fill="none" stroke="#e776a6" stroke-width="2.5" stroke-linecap="round"/>
+<!-- hands -->
+<circle cx="108" cy="391" r="13" fill="#fff4f8" stroke="#e776a6" stroke-width="2"/>
+<circle cx="312" cy="383" r="13" fill="#fff4f8" stroke="#e776a6" stroke-width="2"/>
+
+<!-- small tech pouch -->
+<g transform="translate(292 397)">
+  <rect x="0" y="0" width="56" height="48" rx="12" fill="#fff" stroke="#df6c9f" stroke-width="2"/>
+  <rect x="8" y="9" width="40" height="25" rx="8" fill="#ffe1ed"/>
+  <path d="M18 22 l7-6 7 6 7-6" fill="none" stroke="#ef72aa" stroke-width="2"/>
+  <circle cx="43" cy="40" r="5" fill="#ff7eaf"/>
+</g>
+
+<!-- foreground sparkles -->
+<g fill="#fff" stroke="#ff6fae" stroke-width="1.3" filter="url(#glow)">
+  <path d="M91 282 l3 9 9 3-9 3-3 9-3-9-9-3 9-3z"><animate attributeName="opacity" values=".2;1;.2" dur="1.7s" repeatCount="indefinite"/></path>
+  <path d="M327 300 l2 7 7 2-7 2-2 7-2-7-7-2 7-2z"><animate attributeName="opacity" values=".2;1;.2" dur="2.3s" begin="-.9s" repeatCount="indefinite"/></path>
+  <path d="M75 450 l2 7 7 2-7 2-2 7-2-7-7-2 7-2z"><animate attributeName="opacity" values=".15;1;.15" dur="2.1s" begin="-.4s" repeatCount="indefinite"/></path>
+</g>
+</svg>
