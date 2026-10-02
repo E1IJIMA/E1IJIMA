@@ -120,11 +120,11 @@
 
 ---
 
-## 🎀♡ mini game corner
+## 🎵♡ mini game corner
 
-<div align="center"><img src="./assets/kawaii-minigame.svg" width="100%" alt="EIJIMA Pink Capsule Pop animated mini game" /></div>
+<div align="center"><img src="./assets/kawaii-minigame.svg" width="100%" alt="EIJIMA Pink Rhythm animated mini game" /></div>
 
-<p align="center"><sub>💗 Capsule Pop is in auto-play mode — pull the lever, pop the capsule, and reveal a tiny prize.</sub></p>
+<p align="center"><sub>💗 Pink Rhythm is in auto-play mode — follow the notes, hit the beat, and keep the combo alive.</sub></p>
 
 ---
 
