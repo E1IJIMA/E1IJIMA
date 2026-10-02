@@ -120,11 +120,11 @@
 
 ---
 
-## 🐍♡ mini game corner
+## ✦♡ mini game corner
 
-<div align="center"><img src="./assets/pink-snake-game.svg" width="100%" alt="EIJIMA Pink Snake animated mini game" /></div>
+<div align="center"><img src="./assets/pink-breakout.svg" width="100%" alt="EIJIMA Pink Breakout animated mini game" /></div>
 
-<p align="center"><sub>💗 Pink Snake is in auto-play mode — eat the hearts, grow longer, and don't bite your tail.</sub></p>
+<p align="center"><sub>💗 Pink Breakout is in auto-play mode — bounce the ball, break the bricks, and keep the combo alive.</sub></p>
 
 ---
 
