@@ -120,9 +120,11 @@
 
 ---
 
-## ✨ little activity corner
+## 🎮♡ mini game corner
 
-<div align="center"><img src="./assets/kawaii-activity.svg" width="100%" alt="EIJIMA pink animated activity garden" /></div>
+<div align="center"><img src="./assets/kawaii-minigame.svg" width="100%" alt="EIJIMA Sweet Catch pink animated mini game" /></div>
+
+<p align="center"><sub>💗 Sweet Catch is in auto-play mode — catch the hearts, keep the combo, and leave some sparkles behind.</sub></p>
 
 ---
 
