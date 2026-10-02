@@ -1,233 +1,145 @@
 <div align="center">
 
-<img src="./assets/royal-header.svg" width="100%" alt="EIJIMA royal kawaii developer animated header" />
+<img src="./assets/kawaii-header.svg" width="100%" alt="EIJIMA cute pink kawaii developer header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=26&duration=1600&pause=450&color=FF5B9F&center=true&vCenter=true&width=980&lines=Welcome+to+EIJIMA's+Pink+Princess+Kingdom+%E2%99%A1;Cute+UI+%E2%9C%A6+Clean+Code+%E2%9C%A6+Huge+Dreams;Pastel+Pixels+%2B+Sparkles+%2B+Code+%3D+Magic;Princess+Mode%3A+MAXIMUM+%F0%9F%8E%80+Sparkle+Mode%3A+MAXIMUM+%E2%9C%A8;Let's+make+the+internet+a+little+more+adorable+%F0%9F%8C%B8" alt="Animated princess introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=24&duration=1700&pause=500&color=FF6FAE&center=true&vCenter=true&width=900&lines=hi+hi+%E2%99%A1+welcome+to+my+little+pink+world;cute+UI+%E2%9C%A6+clean+code+%E2%9C%A6+happy+pixels;coding+with+ribbons%2C+sparkles%2C+and+a+tiny+bit+of+magic;%E2%99%A1+please+take+some+sparkles+before+you+leave+%E2%9C%A8" alt="Cute animated introduction" />
 
-<p>
-<img src="https://img.shields.io/badge/%E2%99%A1%20PINK%20PRINCESS-FF69B4?style=for-the-badge" alt="Pink princess">
-<img src="https://img.shields.io/badge/PASTEL%20DREAM-FFF8FC?style=for-the-badge&labelColor=FFB6D5&color=FFFFFF" alt="Pastel dream">
-<img src="https://img.shields.io/badge/SPARKLE-MAXIMUM-D96BA4?style=for-the-badge" alt="Maximum sparkle">
-<img src="https://img.shields.io/badge/CUTE%20LEVEL-%E2%88%9E-FF9FC8?style=for-the-badge" alt="Cute level infinity">
-</p>
+<p><img src="https://img.shields.io/badge/%E2%99%A1%20CUTE%20DEVELOPER-FF8FBA?style=for-the-badge" alt="Cute developer"> <img src="https://img.shields.io/badge/%E2%9C%A8%20SPARKLE-FFB6D5?style=for-the-badge" alt="Sparkle"> <img src="https://img.shields.io/badge/%F0%9F%8E%80%20PINK%20MODE-FFF1F7?style=for-the-badge&labelColor=FF9FC4&color=FFFFFF" alt="Pink mode"></p>
 
 </div>
 
-<img src="./assets/royal-sparkle-rain.svg" width="100%" alt="Animated pink sparkle divider" />
+<img src="./assets/kawaii-divider.svg" width="100%" alt="Kawaii sparkle divider" />
 
 ## 🎀♡ E I J I M A ♡🎀
 
-### ✧ cute_princess.exe is ONLINE ✧
+### ✧ kawaii developer is online ✧
 
-> Welcome to my little **pink-and-white developer kingdom** — where serious code wears a ribbon, interfaces sparkle, and every tiny detail gets a little extra love.
+> Welcome to my little **pink-and-white developer world** — cute interfaces, useful code, playful experiments, automation, and tiny details.
 
-<div align="center">
-<img src="./assets/royal-crown.svg" width="100%" alt="Royal kawaii developer profile banner" />
-</div>
+<table><tr><td width="62%" valign="middle">
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=E1IJIMA&style=for-the-badge&color=ff69b4&label=%E2%99%A1%20PROFILE%20VIEWS" alt="Profile views">
-<a href="https://github.com/E1IJIMA?tab=followers"><img src="https://img.shields.io/github/followers/E1IJIMA?style=for-the-badge&color=ff9fc8&labelColor=fff0f7&logo=github&logoColor=6f6172" alt="GitHub followers"></a>
-</p>
+### 🌸 hi, i am EIJIMA ♡
 
----
+**soft outside · curious inside · coding always**
 
-## 💗 THE PINK PRINCESS DOSSIER
 
-<div align="center">
 
-| 🎀 Princess core | ✨ Developer core |
-|:---|:---|
-| 💕 Pink & white everything | 💻 Code, APIs, automation |
-| 🌸 Kawaii interfaces | 🧪 Experiments & prototypes |
-| 🎀 Ribbons, bows, sparkle | ⚙️ Workflows & tooling |
-| 🧸 Soft, playful energy | 🧩 Practical little systems |
-| 👑 Maximum visual drama | 🚀 Ship, iterate, improve |
+🎀 I like making things that feel personal.
 
-</div>
 
-> 🩷 **Personality preset:** soft outside · sharp inside · sparkle always on
 
----
+💻 I enjoy code, automation, web apps, and experiments.
 
-## 👑 PRINCESS POWER METER
 
-<div align="center">
-<img src="./assets/royal-meters.svg" width="100%" alt="Animated princess developer power meters" />
-</div>
 
-<p align="center">
-<img src="https://img.shields.io/badge/CREATIVITY-♡%20♡%20♡%20♡%20♡-FF69B4?style=for-the-badge" alt="Creativity">
-<img src="https://img.shields.io/badge/UI%20LOVE-%E2%9C%A6%20%E2%9C%A6%20%E2%9C%A6%20%E2%9C%A6%20%E2%9C%A6-FF9FC8?style=for-the-badge" alt="UI love">
-<img src="https://img.shields.io/badge/AUTOMATION-♡%20♡%20♡%20♡%20%E2%9C%A6-D96BA4?style=for-the-badge" alt="Automation">
-</p>
+✨ I love animation, SVG, pastel colors, and little surprises.
+
+
+
+💗 My rule: **pretty → surprising → useful**.
+
+</td><td width="38%" align="center">
+
+<img src="./assets/kawaii-girl.svg" width="330" alt="Cute pink anime developer girl illustration" />
+
+</td></tr></table>
+
+<div align="center"><img src="./assets/kawaii-card.svg" width="100%" alt="Cute developer profile card" /></div>
 
 ---
 
-## 💞 MY TECH GARDEN
+## 💞 my tech garden
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,react,nextjs,nodejs,express,nestjs,django,fastapi,java,cpp,cs,go,rust,php,docker,kubernetes,githubactions,aws,azure,mysql,postgres,mongodb,redis,git,github,vscode,figma&perline=8" alt="Technology icons" />
-</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,react,nextjs,nodejs,express,django,fastapi,java,cpp,cs,go,rust,docker,kubernetes,githubactions,mysql,postgres,mongodb,redis,git,github,vscode,figma&perline=7" alt="Technology icons" /></p>
 
 <div align="center">
 
-### 🌷 Languages
-**Python** · **Java** · **C** · **C++** · **C#** · **JavaScript** · **TypeScript** · **Go** · **Rust** · **PHP**
+**🌷 Languages** — Python · Java · C · C++ · C# · JavaScript · TypeScript · Go · Rust · PHP
 
-### 🎀 Frontend
-**HTML** · **CSS** · **React** · **Next.js** · **Vue** · **Angular** · **Tailwind** · **Vite**
 
-### 🩷 Backend & Data
-**Node.js** · **Express** · **NestJS** · **Django** · **FastAPI** · **Spring** · **.NET**  
-**MySQL** · **PostgreSQL** · **SQLite** · **MongoDB** · **Redis** · **Firebase**
 
-### ✨ Cloud & Tools
-**Docker** · **Kubernetes** · **GitHub Actions** · **AWS** · **Azure** · **Nginx** · **Linux**  
-**Git** · **GitHub** · **GitLab** · **VS Code** · **Postman** · **Figma** · **Bash** · **REST** · **GraphQL**
+**🎀 Web** — HTML · CSS · React · Next.js · Vue · Angular · Tailwind · Vite
+
+
+
+**🧁 Backend / Data** — Node.js · Express · NestJS · Django · FastAPI · Spring · .NET · MySQL · PostgreSQL · MongoDB · Redis · Firebase
+
+
+
+**✨ Tools** — Git · GitHub · GitHub Actions · Docker · Kubernetes · VS Code · Figma · REST · GraphQL
 
 </div>
 
----
+<img src="./assets/kawaii-divider.svg" width="100%" alt="Kawaii divider" />
 
-<img src="./assets/royal-sparkle-rain.svg" width="100%" alt="Sparkle separator" />
-
-## 🎀 CUTE PROJECT SHOWCASE
-
-<div align="center">
-<img src="./assets/royal-showcase.svg" width="100%" alt="Kawaii project showcase" />
-</div>
+## 🎠 things i like building
 
 <div align="center">
 
-### 🌸 Things I love building
+| 🌸 | What I like |
 
-bots · dashboards · automation · web apps · APIs · tiny tools · visual experiments · playful UI
+|:---:|:---|
+
+| 🎀 | Cute web apps · dashboards · playful interfaces |
+
+| 🤖 | Bots · scripts · automation · workflows |
+
+| 🧪 | APIs · prototypes · experiments |
+
+| ✨ | SVG · animation · tiny UI details |
 
 </div>
 
-<details>
-<summary><b>♡ OPEN THE PRINCESS NOTEBOOK ♡</b></summary>
+<details><summary><b>🧸 open my tiny notebook</b></summary>
 
-**01 — Make it useful.**  
-A cute interface is even better when it solves a real problem.
+- 🌸 Make useful things feel delightful.
 
-**02 — Make it memorable.**  
-Tiny motion, spacing, color, and micro-interactions can change the whole mood.
+- 🎀 Keep interfaces simple, soft, and memorable.
 
-**03 — Keep experimenting.**  
-Prototype → test → polish → ship → repeat.
+- ✨ Experiment often.
 
-**04 — Add one more sparkle.**  
-There is always room for one more little detail. ✨
+- 💗 Add tiny details that make people smile.
 
 </details>
 
 ---
 
-## 💎 GITHUB CRYSTAL GARDEN
+## 📊 my github garden
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=E1IJIMA&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub trophies" />
+<img src="https://github-readme-stats.vercel.app/api?username=E1IJIMA&show_icons=true&hide_border=true&bg_color=fff8fc&title_color=ff6fae&icon_color=ff9fc4&text_color=7d6872" width="49%" alt="GitHub statistics" />
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=E1IJIMA&show_icons=true&hide_border=true&bg_color=fff8fc&title_color=ff5b9f&icon_color=ff9fc8&text_color=6f6172&ring_color=ffb6d5" width="49%" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E1IJIMA&layout=compact&hide_border=true&bg_color=fff8fc&title_color=ff5b9f&text_color=6f6172" width="49%" alt="Top languages" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=E1IJIMA&hide_border=true&background=fff8fc&ring=ff69b4&fire=ff8cc8&currStreakLabel=d96ba4&sideLabels=6f6172&currStreakNum=6f6172&sideNums=6f6172&dates=9f8e98" width="84%" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-## ✨ ACTIVITY CATWALK
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=E1IJIMA&bg_color=fff8fc&color=d96ba4&line=ff69b4&point=ff9fc8&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E1IJIMA&layout=compact&hide_border=true&bg_color=fff8fc&title_color=ff6fae&text_color=7d6872" width="49%" alt="Top languages" />
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution snake" />
+<img src="https://streak-stats.demolab.com?user=E1IJIMA&hide_border=true&background=fff8fc&ring=ff8fba&fire=ff9fc4&currStreakLabel=d96b9c&sideLabels=7d6872&currStreakNum=7d6872&sideNums=7d6872&dates=a58b98" width="82%" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
-## 🎠 LITTLE ROYAL STATUS
+## ✨ little activity corner
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/STATUS-READY%20TO%20CREATE-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Ready to create">
-<img src="https://img.shields.io/badge/MOOD-%E2%9C%A8%20SPARKLY-D96BA4?style=for-the-badge" alt="Sparkly mood">
-<img src="https://img.shields.io/badge/COFFEE-%E2%98%95%E2%98%95%E2%98%95-FF9FC8?style=for-the-badge" alt="Coffee">
-
-<br><br>
-
-**👑 Princess mode** ON  
-**🎀 Ribbon mode** ON  
-**✨ Sparkle mode** MAXIMUM  
-**💗 Cute level** ∞
-
-<br>
-
-compiling... → polishing... → sparkling... → shipped! ♡
-
-</div>
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=E1IJIMA&bg_color=fff8fc&color=d96b9c&line=ff8fba&point=ff9fc4&area=true&hide_border=true" width="100%" alt="GitHub activity graph" /><br><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution snake" /></div>
 
 ---
 
-## 💌 RIBBON MAILBOX
+## 💌 come say hi
 
-<div align="center">
-
-<a href="https://github.com/E1IJIMA"><img src="https://img.shields.io/badge/GitHub-E1IJIMA-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<img src="https://img.shields.io/badge/Discord-Come%20say%20hi!-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-<img src="https://img.shields.io/badge/Instagram-Pink%20Energy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-
-<br><br>
-
-<a href="https://github.com/E1IJIMA?tab=followers">
-<img src="https://img.shields.io/github/followers/E1IJIMA?label=%E2%99%A1%20FOLLOWERS&style=for-the-badge&color=ff9fc8&logo=github&logoColor=white" alt="GitHub followers">
-</a>
-
-</div>
+<div align="center"><a href="https://github.com/E1IJIMA"><img src="https://img.shields.io/badge/GitHub-E1IJIMA-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> <img src="https://img.shields.io/badge/Discord-hi%20there!-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> <img src="https://img.shields.io/badge/Instagram-pink%20vibes-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"><br><br><img src="https://komarev.com/ghpvc/?username=E1IJIMA&style=for-the-badge&color=ff8fba&label=%E2%99%A1%20VISITORS" alt="Profile visitors"></div>
 
 ---
 
-## 🎀♡ PRINCESS CODEX ♡🎀
+## 🧸 tiny status
 
-<details>
-<summary><b>OPEN THE SECRET ROYAL CODEX</b></summary>
+<div align="center">**🎀 mood:** happy · **🌸 theme:** pink & white · **✨ sparkle:** always on · **💻 coding:** probably<br><br>♡ loading cute ideas... · ♡ adding tiny details... · ♡ making pixels happy...</div>
 
-**Title:** Pink Princess Developer  
-**Realm:** EIJIMA's Little Digital Kingdom  
-**Specialty:** Cute interfaces, code, automation, experiments  
-**Favorite effect:** ✨ glitter  
-**Favorite shape:** ♡  
-**Emergency protocol:** add more pink  
-**Final boss:** a bug hiding in production
+<details><summary>💗 secret message</summary>If you made it this far: **thank you for visiting ♡**<br><br>✦ ｡ﾟ♡ﾟ｡ ✦ ｡ﾟ♡ﾟ｡ ✦ ｡ﾟ♡ﾟ｡ ✦</details>
 
-</details>
+<img src="./assets/kawaii-divider.svg" width="100%" alt="Kawaii sparkle divider" />
 
-> 🌸 **Profile lore notice:** decorative titles, meters, trophies, and role-play elements are purely visual flavor. They are not real credentials or certifications.
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=19&duration=2400&pause=700&color=FF6FAE&center=true&vCenter=true&width=780&lines=bye+bye+%E2%99%A1;see+you+in+the+next+commit+%E2%9C%A8;keep+making+cute+things+%F0%9F%8C%B8;and+please+remember+to+drink+water+%F0%9F%92%97" alt="Cute farewell animation" /><img src="./assets/kawaii-footer.svg" width="100%" alt="Cute pink animated footer" /></div>
 
----
-
-<div align="center">
-
-<img src="./assets/royal-sparkle-rain.svg" width="100%" alt="Pink sparkle separator" />
-
-### ♡ THANK YOU FOR ENTERING MY LITTLE KINGDOM ♡
-
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=20&duration=2200&pause=700&color=FF69B4&center=true&vCenter=true&width=850&lines=May+your+bugs+be+tiny+%F0%9F%8C%B7;May+your+builds+stay+green+%F0%9F%92%97;May+your+ideas+sparkle+forever+%E2%9C%A8;See+you+in+the+next+commit+%F0%9F%8E%80" alt="Animated pink farewell" />
-
-<img src="./assets/royal-footer.svg" width="100%" alt="Animated royal pink footer" />
-
-</div>
-
-<!-- Pink Princess / Royal Kawaii Developer Profile • deluxe refresh • 2026-10-02 -->
+<!-- Kawaii Pink Developer Profile • full redesign • 2026-10-02 -->
