@@ -128,7 +128,12 @@
 
 ## 💌 come say hi
 
-<div align="center"><a href="https://github.com/E1IJIMA"><img src="https://img.shields.io/badge/GitHub-E1IJIMA-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> <img src="https://img.shields.io/badge/Discord-hi%20there!-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> <img src="https://img.shields.io/badge/Instagram-pink%20vibes-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"><br><br><img src="https://komarev.com/ghpvc/?username=E1IJIMA&style=for-the-badge&color=ff8fba&label=%E2%99%A1%20VISITORS" alt="Profile visitors"></div>
+<div align="center">
+<a href="https://github.com/E1IJIMA"><img src="https://img.shields.io/badge/GitHub-E1IJIMA-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.facebook.com/EIJIMATH/?locale=th_TH"><img src="https://img.shields.io/badge/Facebook-EIJIMATH-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.instagram.com/mr.eijima_/"><img src="https://img.shields.io/badge/Instagram-mr.eijima_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<br><br><img src="https://komarev.com/ghpvc/?username=E1IJIMA&style=for-the-badge&color=ff8fba&label=%E2%99%A1%20VISITORS" alt="Profile visitors">
+</div>
 
 ---
 
