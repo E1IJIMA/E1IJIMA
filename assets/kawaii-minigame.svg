@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" role="img" aria-labelledby="title desc">
+<title id="title">Sweet Catch mini game</title>
+<desc id="desc">A cute pink animated mini game scene where a bunny catches falling hearts.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#fffafd"/>
+    <stop offset="100%" stop-color="#ffeaf3"/>
+  </linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#fff"/>
+    <stop offset="100%" stop-color="#fff4f8"/>
+  </linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+    <feGaussianBlur stdDeviation="10"/>
+  </filter>
+</defs>
+
+<rect x="6" y="6" width="888" height="288" rx="24" fill="url(#bg)" stroke="#f5a9c8" stroke-width="2"/>
+<circle cx="70" cy="52" r="22" fill="#ffacd0" opacity=".24" filter="url(#softGlow)"/>
+<circle cx="586" cy="254" r="26" fill="#ff7eae" opacity=".14" filter="url(#softGlow)"/>
+
+<g font-family="ui-rounded,system-ui,-apple-system,Segoe UI,sans-serif">
+  <text x="28" y="36" font-size="21" font-weight="800" fill="#c95188">🎮 Sweet Catch!</text>
+  <text x="180" y="36" font-size="12" font-weight="700" fill="#a96a87">mini game • catch the hearts • keep the combo ✦</text>
+</g>
+
+<rect x="22" y="54" width="620" height="224" rx="20" fill="url(#panel)" stroke="#f7c4d9"/>
+<rect x="656" y="54" width="222" height="224" rx="20" fill="#fff" stroke="#f7c4d9"/>
+
+<g font-family="ui-rounded,system-ui,-apple-system,Segoe UI,sans-serif">
+  <text x="678" y="84" font-size="13" font-weight="800" fill="#a85d7e">SWEET CATCH</text>
+  <text x="678" y="108" font-size="27" font-weight="900" fill="#df5f98">♡ 1280</text>
+  <text x="678" y="130" font-size="12" fill="#ac7690">SCORE</text>
+
+  <rect x="678" y="146" width="178" height="1" fill="#f4d5e1"/>
+  <text x="678" y="170" font-size="12" font-weight="700" fill="#ac7690">COMBO</text>
+  <text x="678" y="194" font-size="22" font-weight="900" fill="#ef73aa">x 05</text>
+
+  <text x="678" y="220" font-size="12" font-weight="700" fill="#ac7690">LIVES</text>
+  <text x="678" y="243" font-size="19" fill="#ef73aa">♥ ♥ ♥</text>
+
+  <rect x="678" y="250" width="178" height="18" rx="9" fill="#fff0f6"/>
+  <rect x="678" y="250" width="132" height="18" rx="9" fill="#ff9fc4"/>
+  <text x="686" y="263" font-size="9" font-weight="800" fill="#fff">AUTO PLAY MODE</text>
+</g>
+
+<!-- playfield decorations -->
+<g opacity=".55">
+  <path d="M48 238 C156 212 252 252 360 226 S522 214 614 240" fill="none" stroke="#f8cadd" stroke-width="2" stroke-dasharray="3 9">
+    <animate attributeName="stroke-dashoffset" from="0" to="-48" dur="3.5s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="64" cy="82" r="3" fill="#ff9fc4"/>
+  <circle cx="590" cy="92" r="3" fill="#ffc3dc"/>
+  <circle cx="112" cy="150" r="2.5" fill="#ff77ad"/>
+  <circle cx="548" cy="180" r="2.5" fill="#ff77ad"/>
+</g>
+
+<!-- falling hearts -->
+<g filter="url(#glow)">
+  <g transform="translate(92,-18)">
+    <text font-size="27" fill="#f45e9c">♥</text>
+    <animateTransform attributeName="transform" type="translate" values="92 -20;92 220;92 280" dur="3.4s" begin="0s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(188,-40)">
+    <text font-size="22" fill="#ff8fba">♥</text>
+    <animateTransform attributeName="transform" type="translate" values="188 -40;188 220;188 280" dur="4.1s" begin="-1.2s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(292,-14)">
+    <text font-size="30" fill="#e95b99">♥</text>
+    <animateTransform attributeName="transform" type="translate" values="292 -20;292 220;292 280" dur="3.8s" begin="-2.0s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(410,-35)">
+    <text font-size="24" fill="#ff78ad">♥</text>
+    <animateTransform attributeName="transform" type="translate" values="410 -35;410 220;410 280" dur="4.5s" begin="-2.8s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(532,-50)">
+    <text font-size="28" fill="#f45e9c">♥</text>
+    <animateTransform attributeName="transform" type="translate" values="532 -50;532 220;532 280" dur="3.6s" begin="-0.7s" repeatCount="indefinite"/>
+  </g>
+</g>
+
+<!-- bunny + basket -->
+<g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;150 0;300 0;150 0;0 0" dur="9s" repeatCount="indefinite"/>
+  <g transform="translate(160 168)">
+    <!-- shadow -->
+    <ellipse cx="110" cy="86" rx="72" ry="10" fill="#f3b7ce" opacity=".32"/>
+    <!-- ears -->
+    <ellipse cx="86" cy="4" rx="12" ry="34" fill="#fff" stroke="#ed8fb6" stroke-width="2" transform="rotate(-12 86 4)"/>
+    <ellipse cx="122" cy="2" rx="12" ry="34" fill="#fff" stroke="#ed8fb6" stroke-width="2" transform="rotate(12 122 2)"/>
+    <ellipse cx="87" cy="7" rx="5" ry="22" fill="#ffc6dc" transform="rotate(-12 87 7)"/>
+    <ellipse cx="121" cy="6" rx="5" ry="22" fill="#ffc6dc" transform="rotate(12 121 6)"/>
+    <!-- head -->
+    <circle cx="104" cy="30" r="37" fill="#fff" stroke="#ed8fb6" stroke-width="2"/>
+    <circle cx="92" cy="28" r="3.5" fill="#9d617c"/>
+    <circle cx="116" cy="28" r="3.5" fill="#9d617c"/>
+    <circle cx="104" cy="37" r="4" fill="#ff9fc4"/>
+    <path d="M95 43 Q104 51 113 43" fill="none" stroke="#d16b91" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="76" cy="40" r="7" fill="#ffd0df" opacity=".7"/>
+    <circle cx="132" cy="40" r="7" fill="#ffd0df" opacity=".7"/>
+    <!-- body -->
+    <ellipse cx="104" cy="76" rx="31" ry="27" fill="#fff" stroke="#ed8fb6" stroke-width="2"/>
+    <!-- bow -->
+    <path d="M76 63 Q60 50 56 62 Q56 76 76 70" fill="#ff8fba"/>
+    <path d="M76 63 Q92 50 96 62 Q96 76 76 70" fill="#ff8fba"/>
+    <circle cx="76" cy="66" r="6" fill="#ff6fae"/>
+    <!-- arms -->
+    <path d="M80 76 Q66 82 62 94" fill="none" stroke="#ed8fb6" stroke-width="7" stroke-linecap="round"/>
+    <path d="M128 76 Q142 82 146 94" fill="none" stroke="#ed8fb6" stroke-width="7" stroke-linecap="round"/>
+    <!-- basket -->
+    <path d="M57 88 Q104 104 151 88 L142 120 Q104 130 66 120 Z" fill="#ffb6d5" stroke="#e87ca9" stroke-width="2"/>
+    <path d="M65 91 Q104 72 143 91" fill="none" stroke="#e87ca9" stroke-width="4"/>
+    <path d="M73 93 Q104 79 135 93" fill="none" stroke="#fff" stroke-width="2" opacity=".8"/>
+  </g>
+</g>
+
+<!-- catch sparkles -->
+<g fill="#fff" stroke="#ff6fae" stroke-width="1.4" filter="url(#glow)">
+  <path d="M336 126 l3 9 9 3-9 3-3 9-3-9-9-3 9-3z">
+    <animate attributeName="opacity" values=".2;1;.2" dur="1.8s" repeatCount="indefinite"/>
+  </path>
+  <path d="M472 164 l2 7 7 2-7 2-2 7-2-7-7-2 7-2z">
+    <animate attributeName="opacity" values=".2;1;.2" dur="2.3s" begin="-.7s" repeatCount="indefinite"/>
+  </path>
+  <path d="M570 116 l2 7 7 2-7 2-2 7-2-7-7-2 7-2z">
+    <animate attributeName="opacity" values=".2;1;.2" dur="2.1s" begin="-1.1s" repeatCount="indefinite"/>
+  </path>
+</g>
+
+<g font-family="ui-rounded,system-ui,-apple-system,Segoe UI,sans-serif">
+  <rect x="39" y="248" width="126" height="20" rx="10" fill="#fff0f6"/>
+  <text x="53" y="262" font-size="10" font-weight="800" fill="#d35d91">♡ catch them all!</text>
+</g>
+</svg>
