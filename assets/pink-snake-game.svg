@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="title desc">
+<title id="title">Pink Snake mini game</title>
+<desc id="desc">A clean pink snake game board with a looping snake, heart food, score, level and soft sparkle effects.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#fffafd"/>
+    <stop offset="100%" stop-color="#ffeaf4"/>
+  </linearGradient>
+  <linearGradient id="snake" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#ff78ad"/>
+    <stop offset="100%" stop-color="#e95796"/>
+  </linearGradient>
+  <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+
+<rect x="6" y="6" width="888" height="288" rx="24" fill="url(#bg)" stroke="#f2aac8" stroke-width="2"/>
+
+<g font-family="ui-rounded,system-ui,-apple-system,Segoe UI,sans-serif">
+  <text x="28" y="36" font-size="21" font-weight="900" fill="#c64f88">🐍 Pink Snake</text>
+  <text x="182" y="36" font-size="12" font-weight="700" fill="#a66a86">eat the hearts • grow longer • don't bite the tail ✦</text>
+</g>
+
+<rect x="20" y="54" width="600" height="224" rx="20" fill="#fff" stroke="#f5c4d9" stroke-width="2"/>
+<rect x="638" y="54" width="242" height="224" rx="20" fill="#fff" stroke="#f5c4d9" stroke-width="2"/>
+
+<!-- board grid -->
+<g stroke="#fbe1eb" stroke-width="1" opacity=".9">
+  <path d="M46 82H594 M46 112H594 M46 142H594 M46 172H594 M46 202H594 M46 232H594 M46 262H594"/>
+  <path d="M76 68V264 M106 68V264 M136 68V264 M166 68V264 M196 68V264 M226 68V264 M256 68V264 M286 68V264 M316 68V264 M346 68V264 M376 68V264 M406 68V264 M436 68V264 M466 68V264 M496 68V264 M526 68V264 M556 68V264 M586 68V264"/>
+</g>
+
+<!-- snake body: connected rounded segments -->
+<g fill="url(#snake)" stroke="#e65592" stroke-width="1.5" filter="url(#glow)">
+  <rect x="116" y="102" width="26" height="26" rx="8"/>
+  <rect x="146" y="102" width="26" height="26" rx="8"/>
+  <rect x="176" y="102" width="26" height="26" rx="8"/>
+  <rect x="206" y="102" width="26" height="26" rx="8"/>
+  <rect x="236" y="102" width="26" height="26" rx="8"/>
+  <rect x="266" y="102" width="26" height="26" rx="8"/>
+  <rect x="296" y="102" width="26" height="26" rx="8"/>
+  <rect x="326" y="102" width="26" height="26" rx="8"/>
+  <rect x="356" y="102" width="26" height="26" rx="8"/>
+  <rect x="386" y="102" width="26" height="26" rx="8"/>
+  <rect x="416" y="102" width="26" height="26" rx="8"/>
+  <rect x="446" y="102" width="26" height="26" rx="8"/>
+  <rect x="476" y="102" width="26" height="26" rx="8"/>
+  <rect x="476" y="132" width="26" height="26" rx="8"/>
+  <rect x="476" y="162" width="26" height="26" rx="8"/>
+  <rect x="446" y="162" width="26" height="26" rx="8"/>
+  <rect x="416" y="162" width="26" height="26" rx="8"/>
+  <rect x="386" y="162" width="26" height="26" rx="8"/>
+  <rect x="356" y="162" width="26" height="26" rx="8"/>
+  <rect x="326" y="162" width="26" height="26" rx="8"/>
+  <rect x="296" y="162" width="26" height="26" rx="8"/>
+  <rect x="266" y="162" width="26" height="26" rx="8"/>
+  <rect x="236" y="162" width="26" height="26" rx="8"/>
+  <rect x="206" y="162" width="26" height="26" rx="8"/>
+  <rect x="176" y="162" width="26" height="26" rx="8"/>
+  <rect x="146" y="162" width="26" height="26" rx="8"/>
+  <rect x="116" y="162" width="26" height="26" rx="8"/>
+  <rect x="116" y="132" width="26" height="26" rx="8"/>
+</g>
+
+<!-- subtle moving highlight along body -->
+<rect x="132" y="108" width="8" height="8" rx="4" fill="#fff" opacity=".8">
+  <animate attributeName="x" values="132;492;492;132" dur="5.2s" repeatCount="indefinite"/>
+  <animate attributeName="y" values="108;108;168;168" dur="5.2s" repeatCount="indefinite"/>
+</rect>
+
+<!-- snake head -->
+<g filter="url(#glow)">
+  <rect x="442" y="96" width="46" height="40" rx="13" fill="#ff6fa7" stroke="#dc4f8c" stroke-width="2"/>
+  <circle cx="456" cy="112" r="4" fill="#fff"/>
+  <circle cx="475" cy="112" r="4" fill="#fff"/>
+  <circle cx="456" cy="112" r="2" fill="#8f536d"/>
+  <circle cx="475" cy="112" r="2" fill="#8f536d"/>
+  <path d="M459 124 Q465 129 471 124" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+  <path d="M487 116 h11" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="1.7s" repeatCount="indefinite"/>
+</g>
+
+<!-- tail sparkle -->
+<g fill="#fff" stroke="#ff6fae" stroke-width="1.4" filter="url(#glow)">
+  <path d="M106 175 l2 7 7 2-7 2-2 7-2-7-7-2 7-2z">
+    <animate attributeName="opacity" values=".25;1;.25" dur="2.1s" repeatCount="indefinite"/>
+  </path>
+</g>
+
+<!-- food -->
+<g filter="url(#glow)">
+  <path d="M548 132 C536 118 514 126 514 142 C514 160 548 175 548 175 C548 175 582 160 582 142 C582 126 560 118 548 132Z" fill="#ff5f9e" stroke="#e54f91" stroke-width="2">
+    <animateTransform attributeName="transform" type="scale" values="1;1.12;1" dur="1.4s" repeatCount="indefinite"/>
+  </path>
+  <path d="M532 137 Q548 128 564 137" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" opacity=".8"/>
+</g>
+
+<!-- board labels -->
+<g font-family="ui-rounded,system-ui,-apple-system,Segoe UI,sans-serif" fill="#b26b88">
+  <rect x="44" y="238" width="150" height="22" rx="11" fill="#fff0f6"/>
+  <text x="57" y="253" font-size="10" font-weight="900">♥ FOOD FOUND!</text>
+  <text x="468" y="252" font-size="10" font-weight="800">AUTO PLAY</text>
+</g>
+
+<!-- HUD -->
+<g font-family="ui-rounded,system-ui,-apple-system,Segoe UI,sans-serif">
+  <text x="662" y="86" font-size="13" font-weight="900" fill="#a85b7d">SNAKE STATUS</text>
+  <text x="662" y="115" font-size="27" font-weight="900" fill="#df5f98">♡ 4,280</text>
+  <text x="662" y="134" font-size="11" fill="#ad7690">SCORE</text>
+  <line x1="662" y1="148" x2="856" y2="148" stroke="#f1d4e1"/>
+  <text x="662" y="172" font-size="11" font-weight="800" fill="#ad7690">LENGTH</text>
+  <text x="662" y="194" font-size="22" font-weight="900" fill="#ec73aa">28</text>
+  <text x="742" y="172" font-size="11" font-weight="800" fill="#ad7690">LEVEL</text>
+  <text x="742" y="194" font-size="22" font-weight="900" fill="#d85e96">07</text>
+  <text x="816" y="172" font-size="11" font-weight="800" fill="#ad7690">COMBO</text>
+  <text x="816" y="194" font-size="22" font-weight="900" fill="#ed73aa">x12</text>
+  <rect x="662" y="213" width="194" height="18" rx="9" fill="#fff0f6"/>
+  <rect x="662" y="213" width="150" height="18" rx="9" fill="#ff9fc4">
+    <animate attributeName="width" values="128;168;150;138;150" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <text x="672" y="226" font-size="9" font-weight="900" fill="#fff">TAIL SAFE ✓</text>
+  <text x="662" y="252" font-size="11" fill="#a56b86">✦ keep growing, little snake ✦</text>
+</g>
+
+<g fill="#fff" stroke="#ff6fae" stroke-width="1.2">
+  <path d="M852 76 l2 6 6 2-6 2-2 6-2-6-6-2 6-2z">
+    <animate attributeName="opacity" values=".2;1;.2" dur="2.2s" repeatCount="indefinite"/>
+  </path>
+  <path d="M840 240 l2 6 6 2-6 2-2 6-2-6-6-2 6-2z">
+    <animate attributeName="opacity" values=".2;1;.2" dur="2.4s" begin="-.7s" repeatCount="indefinite"/>
+  </path>
+</g>
+</svg>
