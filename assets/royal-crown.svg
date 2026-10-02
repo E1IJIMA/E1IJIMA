@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260">
+<defs><linearGradient id="p"><stop stop-color="#fff"/><stop offset=".5" stop-color="#fff0f7"/><stop offset="1" stop-color="#ffd7e8"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="10" y="10" width="1180" height="240" rx="34" fill="url(#p)" stroke="#ffafd0" stroke-width="5"/>
+<g filter="url(#g)">
+<path d="M505 76 L535 25 L575 62 L600 18 L625 62 L665 25 L695 76 Z" fill="#fff" stroke="#ff7fb2" stroke-width="6"/>
+<circle cx="535" cy="25" r="8" fill="#ff69b4"/><circle cx="600" cy="18" r="10" fill="#ffd1e5"/><circle cx="665" cy="25" r="8" fill="#ff69b4"/>
+</g>
+<g font-family="Trebuchet MS,Arial,sans-serif" text-anchor="middle">
+<text x="600" y="125" font-size="30" font-weight="700" fill="#ff5b9f">ROYAL DEVELOPER PROFILE</text>
+<text x="600" y="162" font-size="19" fill="#9d6a82">sweet aesthetics · serious engineering · maximum sparkle</text>
+<text x="600" y="205" font-size="17" fill="#c56b99">♡ pink heart · coding tiara · pastel dreams · tiny details ♡</text>
+</g>
+<g fill="#ff9fc8"><circle cx="90" cy="65" r="6"><animate attributeName="cy" values="65;45;65" dur="2s" repeatCount="indefinite"/></circle><circle cx="1110" cy="190" r="6"><animate attributeName="cy" values="190;168;190" dur="1.7s" repeatCount="indefinite"/></circle></g>
+</svg>
