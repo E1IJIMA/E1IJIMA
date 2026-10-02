@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 460">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff"/><stop offset=".45" stop-color="#ffe6f1"/><stop offset=".78" stop-color="#ffd1e5"/><stop offset="1" stop-color="#fff"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#fff" stop-opacity=".95"/><stop offset=".6" stop-color="#ffb8d5" stop-opacity=".5"/><stop offset="1" stop-color="#ff69b4" stop-opacity="0"/></radialGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="shadow"><feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#ff69b4" flood-opacity=".18"/></filter>
+</defs>
+<rect x="8" y="8" width="1384" height="444" rx="48" fill="url(#bg)" stroke="#ffb6d5" stroke-width="5" filter="url(#shadow)"/>
+<ellipse cx="700" cy="165" rx="330" ry="190" fill="url(#halo)"/>
+<g fill="#fff" filter="url(#glow)">
+<circle cx="90" cy="90" r="7"><animate attributeName="r" values="3;11;3" dur="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="170" cy="330" r="6"><animate attributeName="r" values="9;3;9" dur="2.1s" repeatCount="indefinite"/></circle>
+<circle cx="1240" cy="90" r="6"><animate attributeName="r" values="3;10;3" dur="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="1310" cy="300" r="8"><animate attributeName="r" values="8;3;8" dur="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="340" cy="65" r="5"><animate attributeName="opacity" values=".2;1;.2" dur="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="1060" cy="360" r="5"><animate attributeName="opacity" values="1;.2;1" dur="1.4s" repeatCount="indefinite"/></circle>
+</g>
+<g font-family="Trebuchet MS,Arial,sans-serif" text-anchor="middle" filter="url(#glow)">
+<text x="700" y="105" font-size="28" fill="#d96ba4" letter-spacing="8">✦  P R I N C E S S  D E V  ✦</text>
+<text x="700" y="200" font-size="74" font-weight="700" fill="#ff4f9a">♡ EIJIMA ♡</text>
+<text x="700" y="245" font-size="24" fill="#a76886" letter-spacing="3">KAWAII • PASTEL • CODE • SPARKLE • MAGIC</text>
+</g>
+<g fill="#ff69b4" font-size="44" text-anchor="middle" filter="url(#glow)">
+<text x="260" y="175">✧</text><text x="1140" y="180">✧</text><text x="350" y="290">♡</text><text x="1050" y="290">♡</text>
+</g>
+<g transform="translate(635 270)">
+<path d="M15 35 L35 0 L65 28 L100 0 L120 35" fill="#fff" stroke="#ff9fc8" stroke-width="6"/>
+<circle cx="35" cy="26" r="8" fill="#ff69b4"/><circle cx="68" cy="33" r="10" fill="#ffd1e5"/><circle cx="101" cy="26" r="8" fill="#ff69b4"/>
+</g>
+<g transform="translate(55 380)" fill="#ff9fc8" font-size="22"><text>୨୧</text><text x="90">✦</text><text x="1150">✦</text><text x="1230">୨୧</text></g>
+<path d="M60 410 Q250 345 430 410 T800 410 T1170 410 T1340 410" fill="none" stroke="#ff8fbe" stroke-width="4" stroke-linecap="round" stroke-dasharray="4 18">
+<animate attributeName="stroke-dashoffset" from="0" to="-200" dur="4s" repeatCount="indefinite"/></path>
+</svg>
