@@ -122,7 +122,7 @@
 
 ## ✨ little activity corner
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=E1IJIMA&bg_color=fff8fc&color=d96b9c&line=ff8fba&point=ff9fc4&area=true&hide_border=true" width="100%" alt="GitHub activity graph" /><br><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution snake" /></div>
+<div align="center"><img src="./assets/kawaii-activity.svg" width="100%" alt="EIJIMA pink animated activity garden" /></div>
 
 ---
 
