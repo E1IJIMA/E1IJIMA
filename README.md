@@ -120,11 +120,11 @@
 
 ---
 
-## 🧠♡ mini game corner
+## 🎀♡ mini game corner
 
-<div align="center"><img src="./assets/kawaii-minigame.svg" width="100%" alt="EIJIMA Pink Memory Match animated mini game" /></div>
+<div align="center"><img src="./assets/kawaii-minigame.svg" width="100%" alt="EIJIMA Pink Capsule Pop animated mini game" /></div>
 
-<p align="center"><sub>💗 Pink Memory Match is in auto-play mode — flip the cards, find every pair, and chase the combo.</sub></p>
+<p align="center"><sub>💗 Capsule Pop is in auto-play mode — pull the lever, pop the capsule, and reveal a tiny prize.</sub></p>
 
 ---
 
