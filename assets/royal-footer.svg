@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300">
+<defs><linearGradient id="f" x1="0" x2="1"><stop stop-color="#fff8fc"/><stop offset=".5" stop-color="#ffd3e6"/><stop offset="1" stop-color="#fff8fc"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1200" height="300" rx="36" fill="url(#f)" stroke="#ffb0d2" stroke-width="4"/>
+<g filter="url(#g)" fill="#fff">
+<circle cx="90" cy="70" r="8"><animate attributeName="r" values="4;13;4" dur="1.6s" repeatCount="indefinite"/></circle><circle cx="1110" cy="90" r="8"><animate attributeName="r" values="13;4;13" dur="1.9s" repeatCount="indefinite"/></circle><circle cx="180" cy="220" r="6"><animate attributeName="r" values="3;10;3" dur="2s" repeatCount="indefinite"/></circle><circle cx="1020" cy="230" r="6"><animate attributeName="r" values="10;3;10" dur="1.8s" repeatCount="indefinite"/></circle></g>
+<g text-anchor="middle" font-family="Trebuchet MS,Arial,sans-serif">
+<text x="600" y="110" font-size="40" font-weight="700" fill="#ff5b9f">♡ STAY CUTE • KEEP CODING ♡</text>
+<text x="600" y="155" font-size="19" fill="#a06d84">thank you for visiting EIJIMA's little pink kingdom</text>
+<text x="600" y="210" font-size="32" fill="#ff69b4">✦ ♡ ✧ ୨୧ ✧ ♡ ✦</text>
+</g>
+</svg>
