@@ -120,11 +120,11 @@
 
 ---
 
-## 🎮♡ mini game corner
+## 🧠♡ mini game corner
 
-<div align="center"><img src="./assets/kawaii-minigame.svg" width="100%" alt="EIJIMA Sweet Catch pink animated mini game" /></div>
+<div align="center"><img src="./assets/kawaii-minigame.svg" width="100%" alt="EIJIMA Pink Memory Match animated mini game" /></div>
 
-<p align="center"><sub>💗 Sweet Catch is in auto-play mode — catch the hearts, keep the combo, and leave some sparkles behind.</sub></p>
+<p align="center"><sub>💗 Pink Memory Match is in auto-play mode — flip the cards, find every pair, and chase the combo.</sub></p>
 
 ---
 
