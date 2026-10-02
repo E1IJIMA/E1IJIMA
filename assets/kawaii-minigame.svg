@@ -1,98 +1,105 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" role="img" aria-labelledby="title desc">
-<title id="title">Pink Capsule Pop mini game</title>
-<desc id="desc">A cute animated pink capsule machine mini game with a lever, bouncing capsules, and prize reveal.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="title desc">
+<title id="title">Pink Rhythm mini game</title>
+<desc id="desc">A clean pink rhythm game with four note lanes, animated falling notes, a combo meter, and a cute mascot.</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0%" stop-color="#fffafd"/><stop offset="100%" stop-color="#ffe9f3"/>
+    <stop offset="0%" stop-color="#fffafd"/><stop offset="100%" stop-color="#ffeaf4"/>
   </linearGradient>
-  <linearGradient id="machine" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0%" stop-color="#ffb7d4"/><stop offset="100%" stop-color="#f57daf"/>
+  <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#ffffff"/><stop offset="100%" stop-color="#fff6fa"/>
   </linearGradient>
-  <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
     <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
   </filter>
-  <filter id="soft" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="10"/></filter>
 </defs>
-<rect x="6" y="6" width="888" height="288" rx="24" fill="url(#bg)" stroke="#f2a8c7" stroke-width="2"/>
-<circle cx="92" cy="80" r="30" fill="#ffb3d2" opacity=".18" filter="url(#soft)"/>
-<circle cx="760" cy="80" r="38" fill="#ff7eae" opacity=".12" filter="url(#soft)"/>
 
-<g font-family="ui-rounded,system-ui,-apple-system,Segoe UI,sans-serif">
-  <text x="28" y="36" font-size="21" font-weight="900" fill="#c84f88">🎀 Capsule Pop!</text>
-  <text x="198" y="36" font-size="12" font-weight="700" fill="#a66b86">pull the lever • pop a capsule • reveal a tiny prize ✦</text>
+<rect x="6" y="6" width="888" height="268" rx="24" fill="url(#bg)" stroke="#f2afcb" stroke-width="2"/>
+<text x="28" y="36" font-family="ui-rounded,system-ui,sans-serif" font-size="21" font-weight="900" fill="#c84f88">🎵 Pink Rhythm</text>
+<text x="184" y="36" font-family="ui-rounded,system-ui,sans-serif" font-size="12" font-weight="700" fill="#a66a86">hit the beat • follow the notes • keep the combo ✦</text>
+
+<rect x="20" y="54" width="560" height="206" rx="20" fill="url(#panel)" stroke="#f5c5d9" stroke-width="2"/>
+<rect x="598" y="54" width="282" height="206" rx="20" fill="#fff" stroke="#f5c5d9" stroke-width="2"/>
+
+<g font-family="ui-rounded,system-ui,sans-serif" font-size="10" font-weight="800" fill="#c56a91">
+  <text x="145" y="72">A</text><text x="257" y="72">S</text><text x="369" y="72">D</text><text x="481" y="72">F</text>
+</g>
+<rect x="126" y="80" width="80" height="138" rx="14" fill="#fff8fb" stroke="#f4bfd6"/>
+<rect x="133" y="87" width="66" height="124" rx="11" fill="#fff0f6" opacity=".65"/>
+<rect x="134" y="195" width="64" height="16" rx="8" fill="#ffd9e8"/>
+<g>
+  <rect x="146" y="-12" width="40" height="16" rx="8" fill="#ff6fae" opacity=".95">
+    <animate attributeName="y" values="-12;205" dur="2.5s" begin="-0s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="166" cy="-4" r="4" fill="#fff" opacity=".7">
+    <animate attributeName="cy" values="-4;213" dur="2.5s" begin="-0s" repeatCount="indefinite"/>
+  </circle>
+</g><rect x="238" y="80" width="80" height="138" rx="14" fill="#fff8fb" stroke="#f4bfd6"/>
+<rect x="245" y="87" width="66" height="124" rx="11" fill="#fff0f6" opacity=".65"/>
+<rect x="246" y="195" width="64" height="16" rx="8" fill="#ffd9e8"/>
+<g>
+  <rect x="258" y="-12" width="40" height="16" rx="8" fill="#ff8fba" opacity=".95">
+    <animate attributeName="y" values="-12;205" dur="2.85s" begin="-0.55s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="278" cy="-4" r="4" fill="#fff" opacity=".7">
+    <animate attributeName="cy" values="-4;213" dur="2.85s" begin="-0.55s" repeatCount="indefinite"/>
+  </circle>
+</g><rect x="350" y="80" width="80" height="138" rx="14" fill="#fff8fb" stroke="#f4bfd6"/>
+<rect x="357" y="87" width="66" height="124" rx="11" fill="#fff0f6" opacity=".65"/>
+<rect x="358" y="195" width="64" height="16" rx="8" fill="#ffd9e8"/>
+<g>
+  <rect x="370" y="-12" width="40" height="16" rx="8" fill="#ef72aa" opacity=".95">
+    <animate attributeName="y" values="-12;205" dur="3.2s" begin="-1.1s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="390" cy="-4" r="4" fill="#fff" opacity=".7">
+    <animate attributeName="cy" values="-4;213" dur="3.2s" begin="-1.1s" repeatCount="indefinite"/>
+  </circle>
+</g><rect x="462" y="80" width="80" height="138" rx="14" fill="#fff8fb" stroke="#f4bfd6"/>
+<rect x="469" y="87" width="66" height="124" rx="11" fill="#fff0f6" opacity=".65"/>
+<rect x="470" y="195" width="64" height="16" rx="8" fill="#ffd9e8"/>
+<g>
+  <rect x="482" y="-12" width="40" height="16" rx="8" fill="#f5a0c2" opacity=".95">
+    <animate attributeName="y" values="-12;205" dur="3.55s" begin="-1.6500000000000001s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="502" cy="-4" r="4" fill="#fff" opacity=".7">
+    <animate attributeName="cy" values="-4;213" dur="3.55s" begin="-1.6500000000000001s" repeatCount="indefinite"/>
+  </circle>
 </g>
 
-<!-- Machine -->
-<rect x="24" y="58" width="580" height="220" rx="24" fill="#fff" stroke="#f5c5d9" stroke-width="2"/>
-<g transform="translate(74 72)">
-  <!-- body -->
-  <rect x="60" y="12" width="310" height="178" rx="28" fill="url(#machine)" stroke="#e96f9e" stroke-width="3"/>
-  <rect x="82" y="32" width="266" height="104" rx="20" fill="#fff3f8" stroke="#ef8fb4" stroke-width="2"/>
-  <circle cx="215" cy="84" r="49" fill="#fff" stroke="#f0b1cb" stroke-width="2"/>
-  <!-- capsules -->
-  <g>
-    <g transform="translate(184 59)">
-      <ellipse cx="0" cy="0" rx="16" ry="12" fill="#ff9fc4"/>
-      <path d="M-16 0 H16" stroke="#fff" stroke-width="2" opacity=".9"/>
-      <animateTransform attributeName="transform" type="translate" values="184 58;184 53;184 58" dur="1.2s" repeatCount="indefinite"/>
-    </g>
-    <g transform="translate(228 66)">
-      <ellipse cx="0" cy="0" rx="14" ry="11" fill="#ffd3e4"/>
-      <path d="M-14 0 H14" stroke="#fff" stroke-width="2" opacity=".95"/>
-      <animateTransform attributeName="transform" type="translate" values="228 66;228 70;228 66" dur="1.5s" begin="-.6s" repeatCount="indefinite"/>
-    </g>
-    <g transform="translate(205 101)">
-      <ellipse cx="0" cy="0" rx="15" ry="12" fill="#f36da5"/>
-      <path d="M-15 0 H15" stroke="#fff" stroke-width="2" opacity=".9"/>
-      <animateTransform attributeName="transform" type="translate" values="205 101;205 96;205 101" dur="1.35s" begin="-1s" repeatCount="indefinite"/>
-    </g>
-  </g>
-  <!-- top shine -->
-  <path d="M116 50 Q215 8 314 50" fill="none" stroke="#fff" stroke-width="4" opacity=".6"/>
-  <!-- front tray -->
-  <rect x="122" y="144" width="186" height="33" rx="16" fill="#fff" stroke="#ed8bb4" stroke-width="2"/>
-  <rect x="137" y="151" width="156" height="20" rx="10" fill="#ffe5ef"/>
-  <!-- lever -->
-  <rect x="378" y="56" width="14" height="73" rx="7" fill="#d95d90"/>
-  <circle cx="385" cy="132" r="18" fill="#ff7cac" stroke="#e45e96" stroke-width="2"/>
-  <circle cx="385" cy="132" r="7" fill="#fff" opacity=".8"/>
-  <animateTransform attributeName="transform" type="translate" values="0 0;0 3;0 0" dur="2.6s" repeatCount="indefinite"/>
+<!-- hit line -->
+<g>
+  <rect x="102" y="216" width="484" height="4" rx="2" fill="#ff8fba" opacity=".9"/>
+  <rect x="188" y="212" width="56" height="12" rx="6" fill="#fff" stroke="#ff8fba"/>
+  <rect x="300" y="212" width="56" height="12" rx="6" fill="#fff" stroke="#ff8fba"/>
+  <rect x="412" y="212" width="56" height="12" rx="6" fill="#fff" stroke="#ff8fba"/>
+  <rect x="524" y="212" width="56" height="12" rx="6" fill="#fff" stroke="#ff8fba"/>
 </g>
 
-<!-- capsule popping out -->
-<g filter="url(#glow)">
-  <g>
-    <ellipse cx="246" cy="218" rx="26" ry="18" fill="#ff89b5" stroke="#e86499" stroke-width="2"/>
-    <path d="M220 218 H272" stroke="#fff" stroke-width="3" opacity=".95"/>
-    <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="1.3s" repeatCount="indefinite"/>
-  </g>
+<!-- mascot -->
+<g transform="translate(50 188)">
+  <circle cx="28" cy="30" r="24" fill="#fff" stroke="#eda0c0" stroke-width="2"/>
+  <path d="M10 11 Q6-3 15 0 L26 12" fill="#fff" stroke="#eda0c0" stroke-width="2"/>
+  <path d="M46 11 Q50-3 41 0 L30 12" fill="#fff" stroke="#eda0c0" stroke-width="2"/>
+  <circle cx="20" cy="28" r="2.7" fill="#9d617b"/><circle cx="36" cy="28" r="2.7" fill="#9d617b"/>
+  <path d="M25 35 Q28 39 31 35" fill="none" stroke="#d26a93" stroke-width="2" stroke-linecap="round"/>
+  <path d="M4 10 Q28-4 52 10" fill="none" stroke="#ff8fba" stroke-width="3" stroke-linecap="round" opacity=".8"/>
 </g>
 
-<!-- Prize panel -->
-<rect x="632" y="58" width="246" height="220" rx="24" fill="#fff" stroke="#f5c5d9" stroke-width="2"/>
-<g font-family="ui-rounded,system-ui,-apple-system,Segoe UI,sans-serif">
-  <text x="656" y="87" font-size="13" font-weight="900" fill="#a85b7d">CAPSULE MACHINE</text>
-  <text x="656" y="116" font-size="25" font-weight="900" fill="#df5f98">PULL!</text>
-  <text x="656" y="136" font-size="11" fill="#ad7690">auto play • every few seconds</text>
-  <line x1="656" y1="150" x2="854" y2="150" stroke="#f1d4e1"/>
-  <rect x="656" y="164" width="198" height="54" rx="16" fill="#fff0f6"/>
-  <text x="673" y="185" font-size="11" font-weight="800" fill="#aa718a">TODAY'S PRIZE</text>
-  <text x="673" y="207" font-size="20" font-weight="900" fill="#ee72aa">♡ MINI HEART</text>
-  <g filter="url(#glow)">
-    <path d="M822 101 l3 8 8 3-8 3-3 8-3-8-8-3 8-3z">
-      <animate attributeName="opacity" values=".25;1;.25" dur="1.8s" repeatCount="indefinite"/>
-    </path>
-    <path d="M838 224 l2 6 6 2-6 2-2 6-2-6-6-2 6-2z">
-      <animate attributeName="opacity" values=".2;1;.2" dur="2.1s" begin="-.7s" repeatCount="indefinite"/>
-    </path>
-  </g>
-  <rect x="656" y="231" width="198" height="23" rx="12" fill="#ff9fc4"/>
-  <text x="755" y="247" text-anchor="middle" font-size="10" font-weight="900" fill="#fff">✦ PRIZE REVEALED ✦</text>
-</g>
-
-<!-- tiny floor sparkle -->
-<g fill="#fff" stroke="#ff6fae" stroke-width="1.3" filter="url(#glow)">
-  <path d="M54 242 l2 6 6 2-6 2-2 6-2-6-6-2 6-2z"/>
-  <path d="M586 224 l2 6 6 2-6 2-2 6-2-6-6-2 6-2z"/>
+<!-- hud -->
+<text x="620" y="82" font-family="ui-rounded,system-ui,sans-serif" font-size="13" font-weight="900" fill="#a85b7d">RHYTHM BOARD</text>
+<text x="620" y="112" font-family="ui-rounded,system-ui,sans-serif" font-size="28" font-weight="900" fill="#dd5f98">♡ 98.6%</text>
+<text x="620" y="130" font-family="ui-rounded,system-ui,sans-serif" font-size="11" fill="#ad7690">ACCURACY</text>
+<line x1="620" y1="145" x2="858" y2="145" stroke="#f1d4e1"/>
+<text x="620" y="167" font-family="ui-rounded,system-ui,sans-serif" font-size="11" font-weight="800" fill="#ad7690">COMBO</text>
+<text x="620" y="191" font-family="ui-rounded,system-ui,sans-serif" font-size="22" font-weight="900" fill="#ef72aa">x 24</text>
+<text x="730" y="167" font-family="ui-rounded,system-ui,sans-serif" font-size="11" font-weight="800" fill="#ad7690">SCORE</text>
+<text x="730" y="191" font-family="ui-rounded,system-ui,sans-serif" font-size="22" font-weight="900" fill="#d75e96">7,420</text>
+<rect x="620" y="211" width="238" height="17" rx="9" fill="#fff0f6"/>
+<rect x="620" y="211" width="202" height="17" rx="9" fill="#ff9fc4">
+  <animate attributeName="width" values="160;215;190;202" dur="4.2s" repeatCount="indefinite"/>
+</rect>
+<text x="630" y="223" font-family="ui-rounded,system-ui,sans-serif" font-size="9" font-weight="900" fill="#fff">PERFECT STREAK</text>
+<g fill="#fff" stroke="#ff6fae" stroke-width="1.4" filter="url(#glow)">
+  <path d="M842 96 l3 8 8 3-8 3-3 8-3-8-8-3 8-3z"><animate attributeName="opacity" values=".25;1;.25" dur="2s" repeatCount="indefinite"/></path>
+  <path d="M846 232 l2 6 6 2-6 2-2 6-2-6-6-2 6-2z"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" begin="-.8s" repeatCount="indefinite"/></path>
 </g>
 </svg>
