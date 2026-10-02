@@ -1,171 +1,176 @@
 <div align="center">
 
-<img src="./assets/dark-header.svg" width="100%" alt="EIJIMA — The Abyssal Goblin Hunter animated dark fantasy banner" />
+<img src="./assets/princess-header.svg" width="100%" alt="EIJIMA pink princess developer animated header" />
 
-<img src="./assets/hunter-status.svg" width="100%" alt="Animated EIJIMA hunter status messages" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=25&duration=1800&pause=500&color=FF69B4&center=true&vCenter=true&width=900&lines=Welcome+to+EIJIMA's+Pink+Dream+World+%E2%99%A1;Cute+UI+%E2%9C%A6+Clean+Code+%E2%9C%A6+Big+Ideas;Pastel+Pixels+%2B+Sparkles+%2B+Code+%3D+Magic;Let's+make+the+internet+a+little+more+adorable+%F0%9F%8C%B8" alt="Animated pink introduction" />
 
-<img src="./assets/social-reach.svg" width="100%" alt="EIJIMA simulated social following across GitHub, Telegram and VK" />
+<p>
+<img src="https://img.shields.io/badge/CUTE%20DEVELOPER-FF69B4?style=for-the-badge" alt="Cute developer">
+<img src="https://img.shields.io/badge/PASTEL%20MODE-FFF0F7?style=for-the-badge&labelColor=FFB6D5&color=FFF8FC" alt="Pastel mode">
+<img src="https://img.shields.io/badge/SPARKLE-%E2%88%9E-D96BA4?style=for-the-badge" alt="Sparkle">
+</p>
+
+</div>
+
+<img src="./assets/sparkle-divider.svg" width="100%" alt="Pink sparkle divider" />
+
+## 🎀 H I · I ' M · E I J I M A
+
+### ♡ cute_developer.exe is online
+
+> A **pink-and-white kawaii developer profile** built around code, creativity, playful interfaces, automation, and tiny details that make everything feel more alive.
+
+<div align="center">
+<img src="./assets/princess-panel.svg" width="100%" alt="Pink princess developer profile card" />
+</div>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=E1IJIMA&style=for-the-badge&color=ff69b4&label=%E2%99%A1%20PROFILE%20VIEWS" alt="Profile views">
+<img src="https://img.shields.io/github/followers/E1IJIMA?style=for-the-badge&color=ff9fc8&labelColor=fff0f7&logo=github&logoColor=6f6172" alt="GitHub followers">
+</p>
+
+---
+
+## 💗 ABOUT ME — SOFT PIXELS, SERIOUS CODE
+
+<div align="center">
+
+| 🌸 | My little developer world |
+|:---:|:---|
+| 🎀 | Building cute things that still work beautifully |
+| 💻 | Coding, experimenting, automating, and polishing |
+| 🎨 | Obsessed with visual details, UI, motion, and atmosphere |
+| 🧸 | Friendly energy, curious mind, slightly chaotic ideas |
+| ✨ | Goal: make useful software feel delightful |
+
+</div>
+
+<img src="./assets/sparkle-divider.svg" width="100%" alt="Pink sparkle divider" />
+
+## 💞 MY TECH GARDEN
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,react,nextjs,nodejs,express,nestjs,django,fastapi,java,cpp,cs,go,rust,php,docker,kubernetes,githubactions,aws,azure,mysql,postgres,mongodb,redis,git,github,vscode,figma&perline=8" alt="Technology icons" />
+</p>
+
+<div align="center">
+
+### 🌷 Core stack
+
+**Python** · **TypeScript** · **JavaScript** · **HTML/CSS**  
+**React** · **Next.js** · **Node.js** · **Django** · **FastAPI**
+
+### 🎀 Favorite tools
+
+**GitHub** · **GitHub Actions** · **Docker** · **VS Code** · **Figma** · **REST** · **GraphQL**
 
 </div>
 
 ---
 
-## ⚔️ HUNTER DOSSIER
+## 🌸 CUTE PROJECT ENERGY
 
 <div align="center">
-<img src="./assets/dossier-panel.svg" width="100%" alt="EIJIMA hunter dossier and field record panel" />
-</div>
 
-> 🜏 **FANTASY PROFILE NOTICE** — every rank, statistic, quest, honor and lore entry below is fictional profile decoration. It is not a real certification, organization ranking or game credential.
+| 🎀 Project style | ✨ What I like building |
+|:---|:---|
+| 🌷 **Automation** | Bots, workflows, scripts, little helpers |
+| 💻 **Web** | Dashboards, interfaces, playful experiences |
+| 🧪 **Experiments** | New tools, APIs, ideas, prototypes |
+| 🎨 **Creative UI** | Pastel layouts, animations, visual polish |
 
----
-
-## 🛡️ ADVENTURER RANK ARCHIVE
-
-<div align="center">
-<img src="./assets/rank-panel.svg" width="100%" alt="EIJIMA adventurer rank archive and silver to gold progression" />
 </div>
 
 <details>
-<summary><b>OPEN THE FULL GUILD RANK TABLE</b></summary>
+<summary><b>♡ OPEN THE LITTLE DEVELOPER NOTEBOOK ♡</b></summary>
 
-| Rank | Guild Meaning |
-|---|---|
-| **01 — PORCELAIN** | ผู้เริ่มต้น |
-| **02 — OBSIDIAN** | นักผจญภัยฝึกหัด |
-| **03 — STEEL** | นักรบที่ผ่านสนามจริง |
-| **04 — SAPPHIRE** | ผู้พิชิตภารกิจอันตราย |
-| **05 — EMERALD** | นักผจญภัยชั้นสูง |
-| **06 — RUBY** | นักรบแนวหน้าของกิลด์ |
-| **07 — BRONZE** | วีรชนผู้มีชื่อเสียง |
-| **08 — SILVER** | นักล่าระดับสูง |
-| **09 — GOLD** | ผู้พิทักษ์แห่งอาณาจักร |
-| **10 — PLATINUM** | ตำนานที่ยังมีชีวิต |
-| **11 — ABYSSAL** | ยศลับแห่งห้วงลึก |
-| **12 — MYTHIC** | ยศสูงสุดเหนือบันทึกของกิลด์ |
+- ✦ I like projects that feel **personal**, not generic.
+- ✦ I enjoy turning technical ideas into something visually memorable.
+- ✦ I prefer small details that reward people for exploring.
+- ✦ I believe good code and good presentation can coexist.
 
 </details>
 
 ---
 
-## ☠️ HUNTER ATTRIBUTES
-
-<div align="center">
-<img src="./assets/attributes-panel.svg" width="100%" alt="EIJIMA hunter RPG attributes and animated combat gauges" />
-</div>
-
----
-
-## ⚔️ SUPPORTED BY
+## 📊 GITHUB GARDEN
 
 <div align="center">
 
-| LANGUAGES | FRONTEND | BACKEND |
-|:---:|:---:|:---:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" alt="Python" /><br>Python &nbsp; Java &nbsp; C &nbsp; C++ &nbsp; C#<br>JavaScript &nbsp; TypeScript &nbsp; Go &nbsp; Rust &nbsp; PHP | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" alt="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" alt="React" /><br>HTML · CSS · React · Next.js<br>Vue · Angular · Tailwind · Vite | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" alt="Node.js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="42" alt="Express" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="42" alt="NestJS" /><br>Node.js · Express · NestJS<br>Django · FastAPI · Spring · .NET |
-| **DATA & STORAGE**<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42" alt="MySQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL" /><br>MySQL · PostgreSQL · SQLite<br>MongoDB · Redis · Firebase | **CLOUD & DEVOPS**<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" alt="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="42" alt="Kubernetes" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="42" alt="GitHub Actions" /><br>Docker · Kubernetes · GitHub Actions<br>AWS · Azure · Nginx · Linux | **TOOLS & PLATFORMS**<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" alt="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" alt="GitHub" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42" alt="VS Code" /><br>Git · GitHub · GitLab · VS Code<br>Postman · Figma · Bash · REST · GraphQL |
+<img src="https://github-readme-stats.vercel.app/api?username=E1IJIMA&show_icons=true&hide_border=true&bg_color=fff8fc&title_color=ff69b4&icon_color=ff9fc8&text_color=6f6172&ring_color=ffb6d5" width="49%" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E1IJIMA&layout=compact&hide_border=true&bg_color=fff8fc&title_color=ff69b4&text_color=6f6172" width="49%" alt="Top languages" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=E1IJIMA&hide_border=true&background=fff8fc&ring=ff69b4&fire=ff8cc8&currStreakLabel=d96ba4&sideLabels=6f6172&currStreakNum=6f6172&sideNums=6f6172&dates=9f8e98" width="80%" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
-## 📜 ACTIVE QUEST LOG
-
-<div align="center">
-<img src="./assets/quest-board.svg" width="100%" alt="EIJIMA active quest log guild board" />
-</div>
-
----
-
-## 🏅 BATTLE HONORS
-
-<div align="center">
-<img src="./assets/honors-panel.svg" width="100%" alt="EIJIMA battle honors sealed records" />
-</div>
-
----
-
-## 🔥 WAR RECORDS
-
-<div align="center">
-<img src="./assets/war-records.svg" width="100%" alt="EIJIMA animated war records panel" />
-</div>
-
-## 🔥 SURVIVAL STREAK
+## ✨ ACTIVITY — SPARKLES IN MOTION
 
 <div align="center">
 
-`CURRENT STREAK`  **1**  ·  `LONGEST STREAK`  **1**  ·  `TOTAL CONTRIBUTIONS`  **69**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=E1IJIMA&bg_color=fff8fc&color=d96ba4&line=ff69b4&point=ff9fc8&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
 
-`THE FIRE IS SMALL. THE HUNT IS NOT.`
+<br>
 
-</div>
-
-## 🏆 GUILD TROPHIES
-
-<div align="center">
-
-`[ BLACK IRON WARDEN ]`   `[% SILVER ASCENSION ]`   `[ ABYSS MARK ]`
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution snake" />
 
 </div>
 
 ---
 
-## ⚔️ BATTLEFIELD ACTIVITY
+## 🩷 PINK STATUS
 
 <div align="center">
 
-<img src="./assets/battlefield.svg" width="100%" alt="EIJIMA animated battlefield activity panel" />
+STATUS · **READY TO CREATE** · MOOD · **✨ SPARKLY** · COFFEE · **☕☕☕**
+
+<br><br>
+
+**Coding mode:** ON  
+**Sparkle mode:** MAXIMUM  
+**Cute level:** ∞
 
 </div>
 
-## 🐍 THE SERPENT OF THE ABYSS
+<img src="./assets/sparkle-divider.svg" width="100%" alt="Pink sparkle divider" />
+
+## 💌 CONNECT WITH ME
 
 <div align="center">
 
-<img src="./assets/abyss-snake.svg" width="100%" alt="Animated crimson serpent of the abyss" />
+<a href="https://github.com/E1IJIMA"><img src="https://img.shields.io/badge/GitHub-E1IJIMA-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
-> **Contribution Snake Workflow:** `.github/workflows/snake.yml` remains enabled to generate the real GitHub contribution snake in the `output` branch.
+<img src="https://img.shields.io/badge/Discord-Come%20say%20hi!-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+<img src="https://img.shields.io/badge/Instagram-Pink%20energy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+
+<br><br>
+
+<a href="https://github.com/E1IJIMA?tab=followers">
+<img src="https://img.shields.io/github/followers/E1IJIMA?label=%E2%99%A1%20followers&style=for-the-badge&color=ff9fc8&logo=github&logoColor=white" alt="GitHub followers">
+</a>
 
 </div>
+
+> 🎀 Social badges above are visual profile elements unless linked to a real profile.
 
 ---
 
-## 🦅 RAVEN MESSENGER
+## 🌷 LITTLE PINK CORNER
 
 <div align="center">
 
-**DISCORD** · `EIJIMA`  
-**FACEBOOK** · `EIJIMA`  
-**GITHUB** · [`E1IJIMA`](https://github.com/E1IJIMA)
+### ♡ Thanks for visiting my profile ♡
 
-`YOUR_DISCORD_URL`  ·  `YOUR_FACEBOOK_URL`
+stay cute · write good code · drink water · keep sparkling ✨
 
-> **Monsters hide in darkness. Bugs hide in code. I hunt them all.**
->
-> *“Victory is not glory. It is the silence left after the final battle.”*
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=18&duration=2600&pause=800&color=D96BA4&center=true&vCenter=true&width=760&lines=May+your+bugs+be+tiny+%F0%9F%8C%B7;May+your+builds+stay+green+%F0%9F%92%97;May+your+ideas+sparkle+forever+%E2%9C%A8;See+you+in+the+next+commit+%F0%9F%8E%80" alt="Animated pink goodbye messages" />
 
 </div>
 
-<details>
-<summary><b>📖 OPEN THE HUNTER'S CODEX</b></summary>
+<img src="./assets/princess-footer.svg" width="100%" alt="Pink princess animated footer" />
 
-**Identity:** EIJIMA  
-**Guild Name:** EIJIMA  
-**Class:** Abyss Hunter / Dark Code Knight  
-**Alignment:** Chaotic Good  
-**Status:** Active  
-**Mission:** Purge hostile bugs from the Fallen Digital Realm.  
-**Doctrine:** Build quietly. Test brutally. Ship deliberately.
-
-</details>
-
-<div align="center">
-
-<img src="./assets/dungeon-footer.svg" width="100%" alt="Animated dungeon gate — The Hunt Never Ends" />
-
-### ⚔️ FORGED IN DARKNESS — BUILT WITH CODE ⚔️
-
-</div>
-
-<!-- PLACEHOLDERS: YOUR_GITHUB_USERNAME · YOUR_DISCORD_URL · YOUR_FACEBOOK_URL -->
+<!-- Pink Princess Developer Profile • refreshed 2026-10-02 -->
